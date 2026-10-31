@@ -1,0 +1,67 @@
+# Dependencias, compilación y resultados regenerables
+node_modules/
+dist/
+test-results/
+playwright-report/
+.vite/
+coverage/
+
+# Variables privadas; solo las plantillas explícitas se pueden versionar
+.env
+.env.*
+!.env.example
+!.env.*.example
+.envrc
+.npmrc
+.netrc
+.git-credentials
+
+# Configuración del agente y credenciales de herramientas
+.agents/
+.codex/
+.aws/
+.ssh/
+.config/
+credentials/
+secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials.json
+service-account*.json
+service_account*.json
+*client_secret*.json
+*.tfstate*
+
+# Logs, cachés y temporales
+*.log
+logs/
+tmp/
+temp/
+.cache/
+__pycache__/
+*.py[cod]
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.har
+*.saz
+
+# Evidencia bruta: puede contener nonces, estado de sesión o rutas del equipo.
+# Se conserva localmente; los informes y capturas locales revisadas sí se incluyen.
+evidencias/rea-*.json
+evidencias/medidas-publicas*.json
+evidencias/fragmentos-javascript.json
+evidencias/estructura-desde-script-impresion.json
+evidencias/scripts-publicos/
+evidencias/original-viewport.png
+evidencias/playwright-results.json

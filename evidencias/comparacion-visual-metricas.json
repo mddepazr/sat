@@ -1,0 +1,132 @@
+[
+  {
+    "viewport": {
+      "width": 1632,
+      "height": 1000
+    },
+    "file": "evidencias/capturas-locales/escritorio-1632.png",
+    "errors": [],
+    "externalRequests": [],
+    "metrics": {
+      "width": 1632,
+      "scrollWidth": 1632,
+      "height": 6031,
+      "sections": [
+        {
+          "id": "",
+          "class": "hero",
+          "top": 75,
+          "height": 644
+        },
+        {
+          "id": "",
+          "class": "getting-started",
+          "top": 894,
+          "height": 372
+        },
+        {
+          "id": "servicios",
+          "class": "catalog servicios",
+          "top": 1266,
+          "height": 1195
+        },
+        {
+          "id": "aduanas",
+          "class": "catalog aduanas",
+          "top": 2461,
+          "height": 673
+        },
+        {
+          "id": "capacitacion",
+          "class": "training",
+          "top": 3134,
+          "height": 738
+        },
+        {
+          "id": "contactanos",
+          "class": "contacts",
+          "top": 3872,
+          "height": 432
+        },
+        {
+          "id": "noticias",
+          "class": "news ",
+          "top": 4304,
+          "height": 716
+        },
+        {
+          "id": "Institucional",
+          "class": "institutional",
+          "top": 5020,
+          "height": 790
+        }
+      ],
+      "brokenImages": []
+    }
+  },
+  {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "file": "evidencias/capturas-locales/movil-390.png",
+    "errors": [],
+    "externalRequests": [],
+    "metrics": {
+      "width": 390,
+      "scrollWidth": 390,
+      "height": 7090,
+      "sections": [
+        {
+          "id": "",
+          "class": "hero",
+          "top": 64,
+          "height": 183
+        },
+        {
+          "id": "",
+          "class": "getting-started",
+          "top": 377,
+          "height": 271
+        },
+        {
+          "id": "servicios",
+          "class": "catalog servicios",
+          "top": 648,
+          "height": 1446
+        },
+        {
+          "id": "aduanas",
+          "class": "catalog aduanas",
+          "top": 2094,
+          "height": 820
+        },
+        {
+          "id": "capacitacion",
+          "class": "training",
+          "top": 2914,
+          "height": 789
+        },
+        {
+          "id": "contactanos",
+          "class": "contacts",
+          "top": 3703,
+          "height": 846
+        },
+        {
+          "id": "noticias",
+          "class": "news ",
+          "top": 4549,
+          "height": 993
+        },
+        {
+          "id": "Institucional",
+          "class": "institutional",
+          "top": 5542,
+          "height": 1266
+        }
+      ],
+      "brokenImages": []
+    }
+  }
+]

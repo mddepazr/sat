@@ -1,0 +1,4 @@
+# Preserve exact bytes and hashes of downloaded assets and reference styles.
+public/assets/** -text -diff
+evidencias/estilos-originales/** -text -diff
+evidencias/capturas-locales/** binary

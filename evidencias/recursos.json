@@ -1,0 +1,2471 @@
+{
+  "sourceCapture": "evidencias/rea-captura-publica.json",
+  "sourceEvidenceId": "ev_4c0a4a4413a2e4153b4915d73179a4788017a1403d00fc827e1463670d33a9c8",
+  "resources": [
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/fonts/1/google-fonts/fonts/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "path": "public/assets/eae94167-KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "local": "/assets/eae94167-KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "sha256": "1404ca348bd75ef836f4dd8b6f2cc719458642d1237c368296b2fc652dca47dc",
+      "bytes": 43136,
+      "mime": "",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/min/1/portal/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=1793310272",
+      "path": "evidencias/estilos-originales/7dfead80-brands.min.css",
+      "local": null,
+      "sha256": "fa94c655a11082fee16a984ac5c7b816ce10b36c21a9a9916a7314fe07f12917",
+      "bytes": 1106,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/min/1/portal/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=1793310272",
+      "path": "evidencias/estilos-originales/b55f853a-solid.min.css",
+      "local": null,
+      "sha256": "85ba06ca032c6acde159bafd56583dd171c25b3cd3b7cf68868463c71ae28c4b",
+      "bytes": 1100,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/min/1/portal/wp-content/plugins/revslider/public/css/fonts/revicons/css/revicons.css?ver=1793310270",
+      "path": "evidencias/estilos-originales/285a31f4-revicons.css",
+      "local": null,
+      "sha256": "587164facf9835ddc7d4c73d409e6be0fe516f54ca9e2eaa06dc8779dd4c4f3c",
+      "bytes": 3484,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/min/1/portal/wp-content/plugins/ubermenu-icons/assets/font-awesome/css/font-awesome.min.css?ver=1793310270",
+      "path": "evidencias/estilos-originales/1a648713-font-awesome.min.css",
+      "local": null,
+      "sha256": "7e4ca8755b72ff7f2fdb2ee7daa04933e0e8dd8b159558f4f5e892ab2e218393",
+      "bytes": 31417,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/min/1/portal/wp-content/plugins/ubermenu/assets/fontawesome/css/all.min.css?ver=1793310270",
+      "path": "evidencias/estilos-originales/9f042c3a-all.min.css",
+      "local": null,
+      "sha256": "f8f635d9545a3b957fc0cfab9b4d9b58c852fdfa1db2f85b1cdb66229abd8d38",
+      "bytes": 60436,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/min/1/portal/wp-content/uploads/elementor/google-fonts/css/librefranklin.css?ver=1793310270",
+      "path": "evidencias/estilos-originales/60e15661-librefranklin.css",
+      "local": null,
+      "sha256": "9b9562dd8aca3ca7befa112d5a6438d5df5d9b6f493afdce07c2b66dd6754fae",
+      "bytes": 34695,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/min/1/portal/wp-content/uploads/the7-css/css-vars.css?ver=1793310269",
+      "path": "evidencias/estilos-originales/ce218b43-css-vars.css",
+      "local": null,
+      "sha256": "f0c4170530220c336d4722e1fe7c0e3a0acc0b8982c76641043aca39d3050c97",
+      "bytes": 29580,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/min/1/portal/wp-content/uploads/the7-css/custom.css?ver=1793310269",
+      "path": "evidencias/estilos-originales/42373543-custom.css",
+      "local": null,
+      "sha256": "8eb120e0189f79b636a082cea973f120a151e333a9e1ab2008e59b065dca2e69",
+      "bytes": 260420,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/min/1/portal/wp-content/uploads/the7-css/media.css?ver=1793310269",
+      "path": "evidencias/estilos-originales/3cf58ab5-media.css",
+      "local": null,
+      "sha256": "cf7ff1fda38b5240e1619f33b7bf68d6789ce63d18760bc0e8f59def499f2419",
+      "bytes": 62390,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/min/1/portal/wp-content/uploads/the7-css/mega-menu.css?ver=1793310269",
+      "path": "evidencias/estilos-originales/6bfd7a0a-mega-menu.css",
+      "local": null,
+      "sha256": "f0ca760c3e92a5171986ce48c0160a9b5ba4e47f534b87df4193b2fcc1c9b6b9",
+      "bytes": 16790,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/min/1/portal/wp-content/uploads/the7-css/post-type-dynamic.css?ver=1793310269",
+      "path": "evidencias/estilos-originales/d6284874-post-type-dynamic.css",
+      "local": null,
+      "sha256": "d9498a9767e5900d6ff28d04cf804c9bd7e95225e268c8d0551b3eb0ce7ca51b",
+      "bytes": 8888,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/cache/min/1/portal/wp-content/uploads/the7-css/the7-elements-albums-portfolio.css?ver=1793310269",
+      "path": "evidencias/estilos-originales/7fb09d33-the7-elements-albums-portfolio.css",
+      "local": null,
+      "sha256": "9cf2dce089de488fc932f83e4b9baf443e7137fe000a48e544b60ab3de9142eb",
+      "bytes": 21032,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3",
+      "path": "evidencias/estilos-originales/bff0c843-fontawesome.min.css",
+      "local": null,
+      "sha256": "fafc4160788beca657ec3e3041976281fb6d54a0e82bb4d22a433f7c6bb8b1d6",
+      "bytes": 58071,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf",
+      "path": "public/assets/07105f6b-fa-brands-400.ttf",
+      "local": "/assets/07105f6b-fa-brands-400.ttf",
+      "sha256": "7c6ce17d6e55fb2b5267880fd0939c7e2be6de99bb57fa56a7fe2f40146c0137",
+      "bytes": 151368,
+      "mime": "font/ttf",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff",
+      "path": "public/assets/cedb48d3-fa-brands-400.woff",
+      "local": "/assets/cedb48d3-fa-brands-400.woff",
+      "sha256": "284ec4299d1c93376385ef74c2aeaf7af4e1c6e63f5163a5e1e85ab4c5c79d76",
+      "bytes": 97804,
+      "mime": "font/woff",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "path": "public/assets/0758a230-fa-brands-400.woff2",
+      "local": "/assets/0758a230-fa-brands-400.woff2",
+      "sha256": "6b2680fab784d245cbb23d3b51e8d18740e8fc1c7c1c8eadcf0b2b7612125ff8",
+      "bytes": 81612,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf",
+      "path": "public/assets/de418174-fa-solid-900.ttf",
+      "local": "/assets/de418174-fa-solid-900.ttf",
+      "sha256": "3d06af1f31cd83ace7a265a014b8fb5dee15770ecac8f7a55555190e627e03c2",
+      "bytes": 202744,
+      "mime": "font/ttf",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff",
+      "path": "public/assets/2bbc9240-fa-solid-900.woff",
+      "local": "/assets/2bbc9240-fa-solid-900.woff",
+      "sha256": "74edc18b67c487e32f181719fdb347e2e77020744651f446e9acd7bd6821e2e7",
+      "bytes": 101652,
+      "mime": "font/woff",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "path": "public/assets/8404b11a-fa-solid-900.woff2",
+      "local": "/assets/8404b11a-fa-solid-900.woff2",
+      "sha256": "d0b4256abed72481585662971262eabee345c19f837af00d7ce24239d3b40eef",
+      "bytes": 78196,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/revslider/public/css/fonts/revicons/fonts/revicons.svg?5510888#revicons",
+      "path": "public/assets/d1318d7d-revicons.svg",
+      "local": "/assets/d1318d7d-revicons.svg",
+      "sha256": "34919a0eb58361c0f313ddf3211ecbdc04a4f26b5a6e8a5a70e4489f3b511be4",
+      "bytes": 13647,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/revslider/public/css/fonts/revicons/fonts/revicons.ttf?5510888",
+      "path": "public/assets/fdb4542d-revicons.ttf",
+      "local": "/assets/fdb4542d-revicons.ttf",
+      "sha256": "4ca02b8a5c8034de8ddb76e33e50e8398758a83bd18a5073493cace46362780a",
+      "bytes": 11968,
+      "mime": "font/ttf",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/revslider/public/css/fonts/revicons/fonts/revicons.woff?5510888",
+      "path": "public/assets/ec552ceb-revicons.woff",
+      "local": "/assets/ec552ceb-revicons.woff",
+      "sha256": "f7b9c3065e55fa3b9e320093612e7b30dcb14355a44ec461247b495a3e729686",
+      "bytes": 7536,
+      "mime": "application/font-woff",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/revslider/public/css/preloaders/t6.css",
+      "path": "evidencias/estilos-originales/16f55aea-t6.css",
+      "local": null,
+      "sha256": "41f8c4df3af8047d840428ba5f14a1a718fafccc0a4b28988b7023badbd6a79c",
+      "bytes": 1945,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/revslider/public/css/sr7.lp.css",
+      "path": "evidencias/estilos-originales/524f8e31-sr7.lp.css",
+      "local": null,
+      "sha256": "170208b0f6618b784e86dc7612c54930318188d38633a393404f5589b7f5f53f",
+      "bytes": 4237,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/revslider/public/css/sr7.media.css",
+      "path": "evidencias/estilos-originales/44899ed9-sr7.media.css",
+      "local": null,
+      "sha256": "95f85566f1a367477de1b548a395aa8c5d267e29faaf86925bbe3779b67a57d4",
+      "bytes": 1811,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/revslider/public/css/sr7.nav.css",
+      "path": "evidencias/estilos-originales/205e8637-sr7.nav.css",
+      "local": null,
+      "sha256": "22cdf34177147f02d10acac750b7e2eb47938309be4a8db498d6c77ed7b1709e",
+      "bytes": 2340,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu-icons/assets/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular",
+      "path": "public/assets/e15508c5-fontawesome-webfont.svg",
+      "local": "/assets/e15508c5-fontawesome-webfont.svg",
+      "sha256": "ad6157926c1622ba4e1d03d478f1541368524bfc46f51e42fe0d945f7ef323e4",
+      "bytes": 444379,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu-icons/assets/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0",
+      "path": "public/assets/e425f163-fontawesome-webfont.ttf",
+      "local": "/assets/e425f163-fontawesome-webfont.ttf",
+      "sha256": "aa58f33f239a0fb02f5c7a6c45c043d7a9ac9a093335806694ecd6d4edc0d6a8",
+      "bytes": 165548,
+      "mime": "font/ttf",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu-icons/assets/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "path": "public/assets/082e04b8-fontawesome-webfont.woff2",
+      "local": "/assets/082e04b8-fontawesome-webfont.woff2",
+      "sha256": "2adefcbc041e7d18fcf2d417879dc5a09997aa64d675b7a3c4b6ce33da13f3fe",
+      "bytes": 77160,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu-icons/assets/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0",
+      "path": "public/assets/036816a6-fontawesome-webfont.woff",
+      "local": "/assets/036816a6-fontawesome-webfont.woff",
+      "sha256": "ba0c59deb5450f5cb41b3f93609ee2d0d995415877ddfa223e8a8a7533474f07",
+      "bytes": 98024,
+      "mime": "font/woff",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-brands-400.ttf",
+      "path": "public/assets/56afe32e-fa-brands-400.ttf",
+      "local": "/assets/56afe32e-fa-brands-400.ttf",
+      "sha256": "cda59d6efffa685830fd95b55f64ae9cb51279cd34b2410b69f84c7ec30157d9",
+      "bytes": 133988,
+      "mime": "font/ttf",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-brands-400.woff",
+      "path": "public/assets/9a8d79c8-fa-brands-400.woff",
+      "local": "/assets/9a8d79c8-fa-brands-400.woff",
+      "sha256": "f9217f66874b0c01cd8c10b6a295dbc4f609acb6f5adc41c37da46641b57eb02",
+      "bytes": 89988,
+      "mime": "font/woff",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-brands-400.woff2",
+      "path": "public/assets/c0be7b05-fa-brands-400.woff2",
+      "local": "/assets/c0be7b05-fa-brands-400.woff2",
+      "sha256": "8ea8791754915a898a3100e63e32978a6d1763be6df8e73a39d3a90d691cdeef",
+      "bytes": 76736,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-regular-400.ttf",
+      "path": "public/assets/c9232548-fa-regular-400.ttf",
+      "local": "/assets/c9232548-fa-regular-400.ttf",
+      "sha256": "e8711bbb871afd8e9dea60e16d30f00c7e4837bbc9807065017475b849fa2313",
+      "bytes": 33736,
+      "mime": "font/ttf",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-regular-400.woff",
+      "path": "public/assets/ac29d360-fa-regular-400.woff",
+      "local": "/assets/ac29d360-fa-regular-400.woff",
+      "sha256": "cb9e9e693192413cde2b1f21c1dc1d44b6fe7b27cc2b458e8b359d18f9ff8f4e",
+      "bytes": 16276,
+      "mime": "font/woff",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-regular-400.woff2",
+      "path": "public/assets/b93f24b7-fa-regular-400.woff2",
+      "local": "/assets/b93f24b7-fa-regular-400.woff2",
+      "sha256": "e42a88444448ac3d60549cc7c1ff2c8a9cac721034c073d80a14a44e79730cca",
+      "bytes": 13224,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-solid-900.ttf",
+      "path": "public/assets/0948229a-fa-solid-900.ttf",
+      "local": "/assets/0948229a-fa-solid-900.ttf",
+      "sha256": "af6397503fcefbd613976c21ad5c1e37298c18bbe07d096db03ccd3af6e05ba8",
+      "bytes": 202744,
+      "mime": "font/ttf",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-solid-900.woff",
+      "path": "public/assets/137d2007-fa-solid-900.woff",
+      "local": "/assets/137d2007-fa-solid-900.woff",
+      "sha256": "3f6d3488cf65374f6f676c315340b0ac2be832bd55240c809448e36ef9b96326",
+      "bytes": 101648,
+      "mime": "font/woff",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-solid-900.woff2",
+      "path": "public/assets/e8d42480-fa-solid-900.woff2",
+      "local": "/assets/e8d42480-fa-solid-900.woff2",
+      "sha256": "9834b82ad26e2a37583d22676a12dd2eb0fe7c80356a2114d0db1aa8b3899537",
+      "bytes": 78268,
+      "mime": "",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/pro/assets/css/ubermenu.min.css?ver=3.8.5",
+      "path": "evidencias/estilos-originales/92bfda86-ubermenu.min.css",
+      "local": null,
+      "sha256": "e5d6e96d9d86efcbcee35e3b5fa25592b3a9b75629b8f4dc00b4c8aca0ea643b",
+      "bytes": 69125,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/css/elementor.light.css?ver=4.3.5",
+      "path": "evidencias/estilos-originales/a57b822e-elementor.light.css",
+      "local": null,
+      "sha256": "d133d69ebc0da7c0e6bd71d7999ee9f1bdc6d25c36936b86c40e1c66b7c9cf6b",
+      "bytes": 1100,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_category.svg",
+      "path": "public/assets/6e683f44-wpfd_category.svg",
+      "local": "/assets/6e683f44-wpfd_category.svg",
+      "sha256": "11831d93e53802bd25e0a5756a4d05fc8a33c73181647f1996af1d765923931d",
+      "bytes": 10242,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_category_hover.svg",
+      "path": "public/assets/e1bb8c01-wpfd_category_hover.svg",
+      "local": "/assets/e1bb8c01-wpfd_category_hover.svg",
+      "sha256": "f298029129e7fa1da768db12fc277cf5c4225b57d99eec9c1af9e622d9a853a8",
+      "bytes": 10242,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_file.svg",
+      "path": "public/assets/c187f76c-wpfd_file.svg",
+      "local": "/assets/c187f76c-wpfd_file.svg",
+      "sha256": "4d71a8511a172a68336fe2261fc42d9d603ecbc82d04665ffac71a7b5c333542",
+      "bytes": 10487,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_file_hover.svg",
+      "path": "public/assets/280df54e-wpfd_file_hover.svg",
+      "local": "/assets/280df54e-wpfd_file_hover.svg",
+      "sha256": "4884ee78ded8a8095fd06b22e372dbc616549719436125495adba025b51dac37",
+      "bytes": 10487,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_pdf_embed.svg",
+      "path": "public/assets/4e6b3d3e-wpfd_pdf_embed.svg",
+      "local": "/assets/4e6b3d3e-wpfd_pdf_embed.svg",
+      "sha256": "3477b5716155545eb5e32381c980c9709ac7d35ff9fdaa1d73ae852fcb498176",
+      "bytes": 194,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_pdf_embed_hover.svg",
+      "path": "public/assets/3377f41f-wpfd_pdf_embed_hover.svg",
+      "local": "/assets/3377f41f-wpfd_pdf_embed_hover.svg",
+      "sha256": "4884ee78ded8a8095fd06b22e372dbc616549719436125495adba025b51dac37",
+      "bytes": 10487,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_search.svg",
+      "path": "public/assets/0a15925e-wpfd_search.svg",
+      "local": "/assets/0a15925e-wpfd_search.svg",
+      "sha256": "527382af93c5b7d1bfa6ee74fb69cf9cb4876a4107c20e79e33f2587911d4dc3",
+      "bytes": 1109,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_search_hover.svg",
+      "path": "public/assets/57eca902-wpfd_search_hover.svg",
+      "local": "/assets/57eca902-wpfd_search_hover.svg",
+      "sha256": "81b39aae730071e445cecbc510d0c4f09bc8e62c86ec94b1117f07eef73c218e",
+      "bytes": 1033,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/css/compatibility/elementor/elementor-global.min.css?ver=15.0.7",
+      "path": "evidencias/estilos-originales/e52a4190-elementor-global.min.css",
+      "local": null,
+      "sha256": "6a9a23e7b36f8a8a6dc6aa6f37924b78a3bc3b74178a75b3a0c6f5c97d967600",
+      "bytes": 53149,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/css/main.min.css?ver=15.0.7",
+      "path": "evidencias/estilos-originales/8f3bcd09-main.min.css",
+      "local": null,
+      "sha256": "b0076c05a695f893e15123c1f05325dcfcb719b15cbab55cb30706dc7a241ce2",
+      "bytes": 247661,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/backgrounds/patterns/full/halftone-dark.png",
+      "path": "public/assets/eb3678f8-halftone-dark.png",
+      "local": "/assets/eb3678f8-halftone-dark.png",
+      "sha256": "5315455711125509f229fa6141e6382c12e4a9cbab87be5bbcd33a5e1bc22ee2",
+      "bytes": 35118,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/fullscreen-exit.svg",
+      "path": "public/assets/431999dc-fullscreen-exit.svg",
+      "local": "/assets/431999dc-fullscreen-exit.svg",
+      "sha256": "093b9d876191d7f3e4f185c4d47050f19ec118b77def5dcc62f6fa05d337f710",
+      "bytes": 546,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/fullscreen.svg",
+      "path": "public/assets/7404357b-fullscreen.svg",
+      "local": "/assets/7404357b-fullscreen.svg",
+      "sha256": "52f043258eaef337f711651db68d6a827e20d7a85b7df48240aad1461eb51d15",
+      "bytes": 542,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-check-circle-fill.svg",
+      "path": "public/assets/8e036f5c-the7-check-circle-fill.svg",
+      "local": "/assets/8e036f5c-the7-check-circle-fill.svg",
+      "sha256": "29dea672743ee79de1be1c178b67dc60555edd0348092b7451e2b68018b29ed6",
+      "bytes": 594,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-chevron-down.svg",
+      "path": "public/assets/5df921ef-the7-chevron-down.svg",
+      "local": "/assets/5df921ef-the7-chevron-down.svg",
+      "sha256": "378cb322825a777a6dcdfe8189e0728735e1ad56fb48cde5746fec38627df8e8",
+      "bytes": 579,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-chevron-left.svg",
+      "path": "public/assets/486462d4-the7-chevron-left.svg",
+      "local": "/assets/486462d4-the7-chevron-left.svg",
+      "sha256": "88437b34b74973a23d4ba73318ba5e61c8f7bf717edd72137956589304c1671b",
+      "bytes": 649,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-chevron-right.svg",
+      "path": "public/assets/d92e951a-the7-chevron-right.svg",
+      "local": "/assets/d92e951a-the7-chevron-right.svg",
+      "sha256": "f3930782e17648c293b03df2c1be3634929e2851556c3e4f1243675841e2ef8f",
+      "bytes": 643,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-chevron-side.svg",
+      "path": "public/assets/6673dd8a-the7-chevron-side.svg",
+      "local": "/assets/6673dd8a-the7-chevron-side.svg",
+      "sha256": "741258845dbe22ad6c04e7326d2db75b9462dacb67e1a7d0b9f295802b43b03a",
+      "bytes": 578,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-exclamation-circle-fill.svg",
+      "path": "public/assets/c2ce0141-the7-exclamation-circle-fill.svg",
+      "local": "/assets/c2ce0141-the7-exclamation-circle-fill.svg",
+      "sha256": "99dbd1c6b6978d5960c5d721cf8e7244dfd6ef1651ae2fcb521807fbc36ae05c",
+      "bytes": 612,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-share-fill.svg",
+      "path": "public/assets/2af24b05-the7-share-fill.svg",
+      "local": "/assets/2af24b05-the7-share-fill.svg",
+      "sha256": "1b61c942054e34125958df2c27b34ab0d111ecc3150bfc78b6f29739261f6c31",
+      "bytes": 687,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/x-lg.svg",
+      "path": "public/assets/2d11381b-x-lg.svg",
+      "local": "/assets/2d11381b-x-lg.svg",
+      "sha256": "1e9874eefe0a4e95e331b5b04a922700be2eccafad2f0944ab68f9090d537381",
+      "bytes": 320,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/zoom-in.svg",
+      "path": "public/assets/b3c2c23d-zoom-in.svg",
+      "local": "/assets/b3c2c23d-zoom-in.svg",
+      "sha256": "adab6de93ea0dfa0e8355d85ddc1d34b62c5ef1f602de6c45b8bee69c3cb7fa6",
+      "bytes": 553,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/zoom-out.svg",
+      "path": "public/assets/3695bb63-zoom-out.svg",
+      "local": "/assets/3695bb63-zoom-out.svg",
+      "sha256": "8acdc0a603cca1a3266120c2ec651b1149c3dcc3034e1b6018d6edef7c0bbb3b",
+      "bytes": 506,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/style.css?ver=15.0.7",
+      "path": "evidencias/estilos-originales/f5d24d7d-style.css",
+      "local": null,
+      "sha256": "0b84ccee05e4bb2b74668aeb5cb6c2e20bfc225bfde448419e0e2fdbf0d4e09b",
+      "bytes": 1423,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-10-150x150.png",
+      "path": "public/assets/9975faee-Mesa-de-trabajo-10-150x150.png",
+      "local": "/assets/9975faee-Mesa-de-trabajo-10-150x150.png",
+      "sha256": "47bc89930e5306e66bf4f83e7b1f324495f52c9938a8f0b44730a731f7ea9e60",
+      "bytes": 3251,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-10.png",
+      "path": "public/assets/09e67172-Mesa-de-trabajo-10.png",
+      "local": "/assets/09e67172-Mesa-de-trabajo-10.png",
+      "sha256": "6ffed36a56bf92b8e19d79089d950a37c1581518dee01fdc3ba705a737584317",
+      "bytes": 4018,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-11-150x150.png",
+      "path": "public/assets/6658e3c1-Mesa-de-trabajo-11-150x150.png",
+      "local": "/assets/6658e3c1-Mesa-de-trabajo-11-150x150.png",
+      "sha256": "f9ed86212a2ff1c4ee7132e4bfc7f55bb54b8478e876f18217af9482ee9d6c96",
+      "bytes": 3205,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-11.png",
+      "path": "public/assets/c56561e5-Mesa-de-trabajo-11.png",
+      "local": "/assets/c56561e5-Mesa-de-trabajo-11.png",
+      "sha256": "39a358d008604564a86e1101e18b90b4e5c88ef5824ec2b30036f8375efa5c91",
+      "bytes": 4120,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-21.png",
+      "path": "public/assets/d7442088-Mesa-de-trabajo-21.png",
+      "local": "/assets/d7442088-Mesa-de-trabajo-21.png",
+      "sha256": "3a1a33bb052ad94f422a84d2d3e35745068e855c4adfe10f5065486b55b24c60",
+      "bytes": 445,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-9-150x150.png",
+      "path": "public/assets/a8d9574b-Mesa-de-trabajo-9-150x150.png",
+      "local": "/assets/a8d9574b-Mesa-de-trabajo-9-150x150.png",
+      "sha256": "00b31712654393651978783791167ac809e38abc5aa233487a4943d21803d5af",
+      "bytes": 3113,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-9.png",
+      "path": "public/assets/8bf79f4b-Mesa-de-trabajo-9.png",
+      "local": "/assets/8bf79f4b-Mesa-de-trabajo-9.png",
+      "sha256": "a9b45507774b825a30fbcdd206e5dedea3c8319ffe1cf9cc0b4726e0cde3f78f",
+      "bytes": 4275,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Recurso-2.svg",
+      "path": "public/assets/154e7028-Recurso-2.svg",
+      "local": "/assets/154e7028-Recurso-2.svg",
+      "sha256": "0a1ddc5cef58ea89f8d60fc274c84864504724e25e99cea689b411f5983f0c78",
+      "bytes": 7966,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/edificio_sat.jpg",
+      "path": "public/assets/165a35a7-edificio_sat.jpg",
+      "local": "/assets/165a35a7-edificio_sat.jpg",
+      "sha256": "f8703d45cfdf6e9a027a5e46eb68f91f2217f58c117e4d98be6b2749b57be8ce",
+      "bytes": 74427,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/logo_sat_blanco-1.png",
+      "path": "public/assets/300b861b-logo_sat_blanco-1.png",
+      "local": "/assets/300b861b-logo_sat_blanco-1.png",
+      "sha256": "cff0d0ff386db16d6a5654168b143f8ea57ef83939f6e9cf221598b2b6eb06d8",
+      "bytes": 1394,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Iconobiblioteca-virtual.svg",
+      "path": "public/assets/99ed854b-Iconobiblioteca-virtual.svg",
+      "local": "/assets/99ed854b-Iconobiblioteca-virtual.svg",
+      "sha256": "8e6f9cf90d58247b9660234a7cab1867d94081c433b711dcc9688ad11d82e466",
+      "bytes": 1067,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Iconocultura-tributaria.svg",
+      "path": "public/assets/6308af01-Iconocultura-tributaria.svg",
+      "local": "/assets/6308af01-Iconocultura-tributaria.svg",
+      "sha256": "7c2fd66b2e973a949c683a67499b22e8f1b7c59075dce35cedf81345e77245a2",
+      "bytes": 12298,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Iconopreguntas-frecuentes.svg",
+      "path": "public/assets/d52c430f-Iconopreguntas-frecuentes.svg",
+      "local": "/assets/d52c430f-Iconopreguntas-frecuentes.svg",
+      "sha256": "6d54043f1a43a520255fb4e2886794f2492664a3a456258295bb6c2bf24e267a",
+      "bytes": 934,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Recurso-1.svg",
+      "path": "public/assets/499bbf70-Recurso-1.svg",
+      "local": "/assets/499bbf70-Recurso-1.svg",
+      "sha256": "c8ee2b1183165170695d5c8bc466ac2eb5bf01f459a1b9e64fd889703270d2b7",
+      "bytes": 366,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Recurso-2.svg",
+      "path": "public/assets/538ea772-Recurso-2.svg",
+      "local": "/assets/538ea772-Recurso-2.svg",
+      "sha256": "6858c497b9e49175aa1dbe3fc961034efd7ac0b8d023c400426c95e7ef4eccea",
+      "bytes": 561,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Recurso-3.svg",
+      "path": "public/assets/b8ea2076-Recurso-3.svg",
+      "local": "/assets/b8ea2076-Recurso-3.svg",
+      "sha256": "36f1797da312cb6a1849667025a350980f85acbc7255e1fb9e93ae69937332d8",
+      "bytes": 605,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/10_Consulta_de_declaraciones_complementarias.jpg",
+      "path": "public/assets/3d1bde69-10_Consulta_de_declaraciones_complementarias.jpg",
+      "local": "/assets/3d1bde69-10_Consulta_de_declaraciones_complementarias.jpg",
+      "sha256": "62a83badbd9ff2d6825e06fd7f74acb4b7fcfc39d969260064c93c77bcc298c4",
+      "bytes": 9233,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/11_Autorizacion_de_Lista_de_Embarque-2.jpg",
+      "path": "public/assets/a5d08bb7-11_Autorizacion_de_Lista_de_Embarque-2.jpg",
+      "local": "/assets/a5d08bb7-11_Autorizacion_de_Lista_de_Embarque-2.jpg",
+      "sha256": "1d690fdbe7267da104b6f6ee7169f12e9c3769eddd0f96bd5cda3223064d6af1",
+      "bytes": 11087,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/12_Selectivo_de_Declaraciones_de_Exportacio%CC%81n-2.jpg",
+      "path": "public/assets/284cfa2b-12_Selectivo_de_Declaraciones_de_Exportacion-2.jpg",
+      "local": "/assets/284cfa2b-12_Selectivo_de_Declaraciones_de_Exportacion-2.jpg",
+      "sha256": "2256a9ba037cb74561d291376676bd83e0931f5392a5bf09bd17340609809455",
+      "bytes": 8697,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/12_Selectivo_de_Declaraciones_de_Exportación-2.jpg",
+      "path": "public/assets/b42e920f-12_Selectivo_de_Declaraciones_de_Exportacion-2.jpg",
+      "local": "/assets/b42e920f-12_Selectivo_de_Declaraciones_de_Exportacion-2.jpg",
+      "sha256": "2256a9ba037cb74561d291376676bd83e0931f5392a5bf09bd17340609809455",
+      "bytes": 8697,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/13_Presentacio%CC%81n_y_Ana%CC%81lisis_de_Declaraciones_Complementarias_de_Exportacion-1.jpg",
+      "path": "public/assets/8a921851-13_Presentacion_y_Analisis_de_Declaraciones_Complementarias_de_Exportacion-1.jpg",
+      "local": "/assets/8a921851-13_Presentacion_y_Analisis_de_Declaraciones_Complementarias_de_Exportacion-1.jpg",
+      "sha256": "741c1f869379fa3ebc647c596be2871b42c8e6f6df5d8f943cd85f8e26fd5f2a",
+      "bytes": 10271,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/13_Presentación_y_Análisis_de_Declaraciones_Complementarias_de_Exportacion-1.jpg",
+      "path": "public/assets/8d09de9e-13_Presentacion_y_Analisis_de_Declaraciones_Complementarias_de_Exportacion-1.jpg",
+      "local": "/assets/8d09de9e-13_Presentacion_y_Analisis_de_Declaraciones_Complementarias_de_Exportacion-1.jpg",
+      "sha256": "741c1f869379fa3ebc647c596be2871b42c8e6f6df5d8f943cd85f8e26fd5f2a",
+      "bytes": 10271,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/15_Auxiliares_de_la_Funcion_Publica_Aduaneras-2.jpg",
+      "path": "public/assets/efff06f9-15_Auxiliares_de_la_Funcion_Publica_Aduaneras-2.jpg",
+      "local": "/assets/efff06f9-15_Auxiliares_de_la_Funcion_Publica_Aduaneras-2.jpg",
+      "sha256": "247aa69e8c99cdf8b26bbd2d3da6a20b1ead410771b85b7467fc640012a94cc2",
+      "bytes": 16036,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/16_Informacion_y_Estadisticas_Aduaneras.jpg",
+      "path": "public/assets/57eed9ba-16_Informacion_y_Estadisticas_Aduaneras.jpg",
+      "local": "/assets/57eed9ba-16_Informacion_y_Estadisticas_Aduaneras.jpg",
+      "sha256": "d5db353b1a71737bf236bc28ac6b3e41f694260ff591791d2e5f96a040885df5",
+      "bytes": 8253,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/17_Formularios_y_documentos-utilizados_para_la_importacion_exportacion_y_transito_de_mercancias.jpg",
+      "path": "public/assets/bb477beb-17_Formularios_y_documentos-utilizados_para_la_importacion_exportacion_y_transito_de_mercancias.jpg",
+      "local": "/assets/bb477beb-17_Formularios_y_documentos-utilizados_para_la_importacion_exportacion_y_transito_de_mercancias.jpg",
+      "sha256": "0cc53796dfd4c92b597f24f3202c98d52c9e3fcd0a1752015329d39eaa1acd81",
+      "bytes": 11252,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/18_Subastas_y_Donaciones_Aduaneras-1.jpg",
+      "path": "public/assets/97da23c5-18_Subastas_y_Donaciones_Aduaneras-1.jpg",
+      "local": "/assets/97da23c5-18_Subastas_y_Donaciones_Aduaneras-1.jpg",
+      "sha256": "737e72432e383e2bdd28c809f3a9ac63f4676d8aae5e82ed415760b063e80dc8",
+      "bytes": 13785,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/19_Planes_de_Contingencia-2.jpg",
+      "path": "public/assets/06c13383-19_Planes_de_Contingencia-2.jpg",
+      "local": "/assets/06c13383-19_Planes_de_Contingencia-2.jpg",
+      "sha256": "ac065a046b8d8fceed86b25b9e84d2097fb834d586f5e5cb8552c175d9c52cdf",
+      "bytes": 9128,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/1_Icono_conceptos_generales.jpg",
+      "path": "public/assets/68f9835b-1_Icono_conceptos_generales.jpg",
+      "local": "/assets/68f9835b-1_Icono_conceptos_generales.jpg",
+      "sha256": "d09b892589fc066a156813bf69c0c2579db75f11f73953add7cae1cb5faac2ca",
+      "bytes": 8191,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/20_Declaracion_de_mercancias-1.jpg",
+      "path": "public/assets/9ba89e5b-20_Declaracion_de_mercancias-1.jpg",
+      "local": "/assets/9ba89e5b-20_Declaracion_de_mercancias-1.jpg",
+      "sha256": "af91c4cbd33aa504050c041395f9df6cab1c5ffb2720d46074608e9eb088d14f",
+      "bytes": 8848,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/21_Acuerdo_de_Facilitacion_de_Comercio–OMC-1-2.jpg",
+      "path": "public/assets/e452564b-21_Acuerdo_de_Facilitacion_de_ComercioOMC-1-2.jpg",
+      "local": "/assets/e452564b-21_Acuerdo_de_Facilitacion_de_ComercioOMC-1-2.jpg",
+      "sha256": "c846e57c0a1763a09f0c0e0296245cb290625d9948275d9dc20de3cd7699ebfa",
+      "bytes": 13417,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/21_Aduana_sin_papeles-1.jpg",
+      "path": "public/assets/9917d7e6-21_Aduana_sin_papeles-1.jpg",
+      "local": "/assets/9917d7e6-21_Aduana_sin_papeles-1.jpg",
+      "sha256": "ac9b59075e0650a84d9a40657159128218cf7531fc0b3a0dde68bce4af6dd988",
+      "bytes": 8524,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/22_Operador_economico_autorizado-2.jpg",
+      "path": "public/assets/283700ba-22_Operador_economico_autorizado-2.jpg",
+      "local": "/assets/283700ba-22_Operador_economico_autorizado-2.jpg",
+      "sha256": "cf0113e44e75c26c7f45184e0d19b6104601d586aba9627458569b9e7bae4532",
+      "bytes": 15324,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/23_Estudio_de_Tiempos_de_Despacho.jpg",
+      "path": "public/assets/be539f1d-23_Estudio_de_Tiempos_de_Despacho.jpg",
+      "local": "/assets/be539f1d-23_Estudio_de_Tiempos_de_Despacho.jpg",
+      "sha256": "331524a1fb30a585b374b21a77e157125e98927041da939e99bb093056e964f9",
+      "bytes": 11646,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/2_Icono_Consideraciones-para-hacer-tu-compra-3.jpg",
+      "path": "public/assets/27f6b5d5-2_Icono_Consideraciones-para-hacer-tu-compra-3.jpg",
+      "local": "/assets/27f6b5d5-2_Icono_Consideraciones-para-hacer-tu-compra-3.jpg",
+      "sha256": "90821cbb48ef65c466bb592715ba8795b722b26cf2d3225e08805ad964dc2112",
+      "bytes": 9198,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/3_Consideraciones_para_hacer_tu_envío_vía_aerea-1.jpg",
+      "path": "public/assets/24e13d89-3_Consideraciones_para_hacer_tu_envio_via_aerea-1.jpg",
+      "local": "/assets/24e13d89-3_Consideraciones_para_hacer_tu_envio_via_aerea-1.jpg",
+      "sha256": "b05dd201464a20d01fe11fee8e24ec5dc550a426a660a9b768b774173fe8e435",
+      "bytes": 9577,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/4_Pasos_previos_a_tu_importación_de_mercancías_via_aerea-2.jpg",
+      "path": "public/assets/dac89a36-4_Pasos_previos_a_tu_importacion_de_mercancias_via_aerea-2.jpg",
+      "local": "/assets/dac89a36-4_Pasos_previos_a_tu_importacion_de_mercancias_via_aerea-2.jpg",
+      "sha256": "3eaa9f429936fee34080698f49c05f2c1e9979d6e589c3d38bddda9a7f06da2d",
+      "bytes": 10811,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/7_Importacion_de_Vehiculos.jpg",
+      "path": "public/assets/8d1b3bd0-7_Importacion_de_Vehiculos.jpg",
+      "local": "/assets/8d1b3bd0-7_Importacion_de_Vehiculos.jpg",
+      "sha256": "aa24e7c3167b7bdb5120e697ff0b3b6e2bdf2ed1d7f9d685d2403c46ffc9e1fd",
+      "bytes": 7773,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Actuaciones-conjuntas.jpg",
+      "path": "public/assets/eb2c52bc-Actuaciones-conjuntas.jpg",
+      "local": "/assets/eb2c52bc-Actuaciones-conjuntas.jpg",
+      "sha256": "3161f17fc0fd6acc2b8eb33ae0241cfd42fa3a2a005329878d06b005debe5258",
+      "bytes": 12275,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Agentes-de-retencion-IVA-celeste.jpg",
+      "path": "public/assets/f8f046b5-Agentes-de-retencion-IVA-celeste.jpg",
+      "local": "/assets/f8f046b5-Agentes-de-retencion-IVA-celeste.jpg",
+      "sha256": "b819dcfb691f9e4182fbdf21043ddf5f481825a5e768abcf27b23751f0a19f34",
+      "bytes": 13912,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Autorizacion-de-maquina-celeste.jpg",
+      "path": "public/assets/fa6c50d6-Autorizacion-de-maquina-celeste.jpg",
+      "local": "/assets/fa6c50d6-Autorizacion-de-maquina-celeste.jpg",
+      "sha256": "0cb25ce4183d05fadb943c2075a4424cba4a7a267b33226f7840de11a2a0e4d2",
+      "bytes": 15320,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Aviso-de-Robo-de-Vehiculo.jpg",
+      "path": "public/assets/2ced4d01-Aviso-de-Robo-de-Vehiculo.jpg",
+      "local": "/assets/2ced4d01-Aviso-de-Robo-de-Vehiculo.jpg",
+      "sha256": "281317a6b8a1d54fcc3b6fac4c7152dbfa2359236af6d1cb255ee4fd4037e575",
+      "bytes": 9365,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Catalogo-de-PermisosArancel-Integrado.jpg",
+      "path": "public/assets/252f006f-Catalogo-de-PermisosArancel-Integrado.jpg",
+      "local": "/assets/252f006f-Catalogo-de-PermisosArancel-Integrado.jpg",
+      "sha256": "cb37d5d800d7b3291cc05e5c8cba8abe7de5cc6c6070aac84e91c0945867ff8d",
+      "bytes": 8443,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Celeste-Declaraguate.jpg",
+      "path": "public/assets/62f47ddb-Celeste-Declaraguate.jpg",
+      "local": "/assets/62f47ddb-Celeste-Declaraguate.jpg",
+      "sha256": "66d4740226e0a6aba95106cd87f129647a0091c9c70573fc236088809aa167ec",
+      "bytes": 7820,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Celeste-RTU-DIGITAL.jpg",
+      "path": "public/assets/816da339-Celeste-RTU-DIGITAL.jpg",
+      "local": "/assets/816da339-Celeste-RTU-DIGITAL.jpg",
+      "sha256": "0e769be4b821fe5256f7efc920cb10a6a414e266c1ad632879718bbff946c3c2",
+      "bytes": 10852,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Codigo-unico-de-verificacion-celeste.jpg",
+      "path": "public/assets/f24fc083-Codigo-unico-de-verificacion-celeste.jpg",
+      "local": "/assets/f24fc083-Codigo-unico-de-verificacion-celeste.jpg",
+      "sha256": "b879b2f0ab2ac467e1d2335c39ea054e28096ef2bc5f3857fb339d54d8543c72",
+      "bytes": 12047,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Infraestructura-2.jpg",
+      "path": "public/assets/6697edf7-Componente-Infraestructura-2.jpg",
+      "local": "/assets/6697edf7-Componente-Infraestructura-2.jpg",
+      "sha256": "fb886e5fed8ddbdb5d81498327154064eea47e07ccf892996d6d95294d78006c",
+      "bytes": 9034,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Procesos-1.jpg",
+      "path": "public/assets/6fe72471-Componente-Procesos-1.jpg",
+      "local": "/assets/6fe72471-Componente-Procesos-1.jpg",
+      "sha256": "0cc090821a38a789319e033d34d71ecc47b0fc38caa1fd5d3aa0e9fa8a74468f",
+      "bytes": 10831,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Recursos.jpg",
+      "path": "public/assets/dbd3a5d7-Componente-Recursos.jpg",
+      "local": "/assets/dbd3a5d7-Componente-Recursos.jpg",
+      "sha256": "5764dbb7d82492199b211bda5f49a4496f03c81a3a5a2df41fd04e68798f0db7",
+      "bytes": 9102,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Seguridad-2.jpg",
+      "path": "public/assets/1a70639a-Componente-Seguridad-2.jpg",
+      "local": "/assets/1a70639a-Componente-Seguridad-2.jpg",
+      "sha256": "197f7413158ff26bef133a451577b8f04513310b8affb5a6434e8255640e6b40",
+      "bytes": 10441,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Tecnologia-1.jpg",
+      "path": "public/assets/94ec7603-Componente-Tecnologia-1.jpg",
+      "local": "/assets/94ec7603-Componente-Tecnologia-1.jpg",
+      "sha256": "39809b686e9ab45a32bf0b1cbd8adfd63863ccbde8172bd366ecbcdb10946d81",
+      "bytes": 10403,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Comprobacion-Valor-Importacion.jpg",
+      "path": "public/assets/e783fadd-Comprobacion-Valor-Importacion.jpg",
+      "local": "/assets/e783fadd-Comprobacion-Valor-Importacion.jpg",
+      "sha256": "9142ff184c4a3442302affb192e6b47ceefad10bfb710450ecbcaaddf9c1e24f",
+      "bytes": 11611,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Consulta-de-NIT-e1689869330761.jpg",
+      "path": "public/assets/36a45200-Consulta-de-NIT-e1689869330761.jpg",
+      "local": "/assets/36a45200-Consulta-de-NIT-e1689869330761.jpg",
+      "sha256": "75fd4526c4ca2941e766589d389e53b1d3249e4aee30585ef292893ed8bf6f87",
+      "bytes": 12680,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Convenios-Aduaneros-2.jpg",
+      "path": "public/assets/d4a543fc-Convenios-Aduaneros-2.jpg",
+      "local": "/assets/d4a543fc-Convenios-Aduaneros-2.jpg",
+      "sha256": "54f3b980b298173d56d73b2daa3a24382b719f223ccdb69652c7990588c4ed9a",
+      "bytes": 11702,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Declaracion-Anticipada-2.jpg",
+      "path": "public/assets/d4f7d3aa-Declaracion-Anticipada-2.jpg",
+      "local": "/assets/d4f7d3aa-Declaracion-Anticipada-2.jpg",
+      "sha256": "feb55fc1af2a1ee19de7b7797b19bb1b056f20c2f2e4a74a8b2deddea66c57e7",
+      "bytes": 10902,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Declaracion-valor-cero.jpg",
+      "path": "public/assets/66c93e0b-Declaracion-valor-cero.jpg",
+      "local": "/assets/66c93e0b-Declaracion-valor-cero.jpg",
+      "sha256": "ee4631b3a071298bdd44c70ff13d9ee39e9ce90e4feeb48f7ffd472cdb470d07",
+      "bytes": 9549,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Devolucion-de-pagos-en-exceso.jpg",
+      "path": "public/assets/dd65da80-Devolucion-de-pagos-en-exceso.jpg",
+      "local": "/assets/dd65da80-Devolucion-de-pagos-en-exceso.jpg",
+      "sha256": "cd3be7b0876f0663b6d269351327089ec27a767b01e90e9f5596607a4e19ae95",
+      "bytes": 10007,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Devolucion-de-pagos-indebidos-celeste-1-e1689870281677.jpg",
+      "path": "public/assets/58ff57f4-Devolucion-de-pagos-indebidos-celeste-1-e1689870281677.jpg",
+      "local": "/assets/58ff57f4-Devolucion-de-pagos-indebidos-celeste-1-e1689870281677.jpg",
+      "sha256": "0bd588e6e4e276b3d40d83b584d3c41cc4be4edbdb7cb061bb460131827c71f2",
+      "bytes": 12351,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Distintivos-electronicos-Titulo-de-propiedad-y-tarjeta-de-circulacion.jpg",
+      "path": "public/assets/a99a2f9d-Distintivos-electronicos-Titulo-de-propiedad-y-tarjeta-de-circulacion.jpg",
+      "local": "/assets/a99a2f9d-Distintivos-electronicos-Titulo-de-propiedad-y-tarjeta-de-circulacion.jpg",
+      "sha256": "2afc73ba89c86e5ba413c71d6d8d88c36834f2e4cb28296a4be0cbe154e00422",
+      "bytes": 15140,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Documentos-de-orientacion-para-gestiones-aduaneras.jpg",
+      "path": "public/assets/8a5bd847-Documentos-de-orientacion-para-gestiones-aduaneras.jpg",
+      "local": "/assets/8a5bd847-Documentos-de-orientacion-para-gestiones-aduaneras.jpg",
+      "sha256": "a275fb19d39245b048cff72eb0cd04d6584240231af0f06414cfda1a696cce1d",
+      "bytes": 9840,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Documentos-guia-de-Manifiestos-de-Carga-1.jpg",
+      "path": "public/assets/426afde2-Documentos-guia-de-Manifiestos-de-Carga-1.jpg",
+      "local": "/assets/426afde2-Documentos-guia-de-Manifiestos-de-Carga-1.jpg",
+      "sha256": "1f2de89a9cea04761c18d4758b11d59faf70f4cfe3ed3d5da0ce8769f2f6da60",
+      "bytes": 9807,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Estrategia-Centroamericana-de-Facilitacion-de-Comercio-y-Competitividad-1.jpg",
+      "path": "public/assets/94cef7a2-Estrategia-Centroamericana-de-Facilitacion-de-Comercio-y-Competitividad-1.jpg",
+      "local": "/assets/94cef7a2-Estrategia-Centroamericana-de-Facilitacion-de-Comercio-y-Competitividad-1.jpg",
+      "sha256": "ca68c407240285540cb290bcdf97525ca1bffbc26c34da7d12fd3d48be39ec0a",
+      "bytes": 14806,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Expertaje-de-Vehiculo.jpg",
+      "path": "public/assets/1002500c-Expertaje-de-Vehiculo.jpg",
+      "local": "/assets/1002500c-Expertaje-de-Vehiculo.jpg",
+      "sha256": "ef98905e589f862165322ab0757a6b6b6106ee7431d6290e9fd753878e33f01e",
+      "bytes": 10362,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Foliares-2.jpg",
+      "path": "public/assets/65f8768a-Foliares-2.jpg",
+      "local": "/assets/65f8768a-Foliares-2.jpg",
+      "sha256": "7c0b1e1aaa111b78b419e42fdbda003f0bd026c61c97cb13755be5061268f32c",
+      "bytes": 7555,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Formatos-2.jpg",
+      "path": "public/assets/1db64c49-Formatos-2.jpg",
+      "local": "/assets/1db64c49-Formatos-2.jpg",
+      "sha256": "67708c7e2e929bcb646adb79e8d66cf78f7aa38bdbcee9adb78ef7816638babd",
+      "bytes": 9221,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Formatos.jpg",
+      "path": "public/assets/f7f82413-Formatos.jpg",
+      "local": "/assets/f7f82413-Formatos.jpg",
+      "sha256": "b86f761f8a6b30689f846279d8c199e8fa8f5ba6c7428b8326313bc6cb7d35a2",
+      "bytes": 8075,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/IMPRESION-DE-RTU-celeste.jpg",
+      "path": "public/assets/939585f4-IMPRESION-DE-RTU-celeste.jpg",
+      "local": "/assets/939585f4-IMPRESION-DE-RTU-celeste.jpg",
+      "sha256": "b840f91b0ba23c0a0648a44b9518d7ad14f483a9a7193bb98dff4c2a102db343",
+      "bytes": 9822,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/IVA-IPRIMA-celeste-1.jpg",
+      "path": "public/assets/c8dd2173-IVA-IPRIMA-celeste-1.jpg",
+      "local": "/assets/c8dd2173-IVA-IPRIMA-celeste-1.jpg",
+      "sha256": "33e7e78db4680429e1303a1080494b3bb1a06beb1e080c0450bf40d0c5eae825",
+      "bytes": 10678,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Instructivos-1.jpg",
+      "path": "public/assets/b229266c-Instructivos-1.jpg",
+      "local": "/assets/b229266c-Instructivos-1.jpg",
+      "sha256": "fe13fdf4d2b77e8683d7939d3ff367608c71992ebc52f6520f37b891797e8258",
+      "bytes": 9605,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Manual-de-Procedimientos-2.jpg",
+      "path": "public/assets/e67c66c8-Manual-de-Procedimientos-2.jpg",
+      "local": "/assets/e67c66c8-Manual-de-Procedimientos-2.jpg",
+      "sha256": "be4e819834315557a499f67ceb219056f365790e89516f09775535d16d6f629e",
+      "bytes": 9519,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Manuales-y-Guias-de-Usuario-1.jpg",
+      "path": "public/assets/aa2e7fbf-Manuales-y-Guias-de-Usuario-1.jpg",
+      "local": "/assets/aa2e7fbf-Manuales-y-Guias-de-Usuario-1.jpg",
+      "sha256": "091065d7aceb6a472169be165af92067555bb32a00a5b8cd9b5274dd9490579d",
+      "bytes": 12723,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Morosos-ISCV.jpg",
+      "path": "public/assets/8980092b-Morosos-ISCV.jpg",
+      "local": "/assets/8980092b-Morosos-ISCV.jpg",
+      "sha256": "50a1d21bde1c8d9a3642ac506b075331c6b72e6e35c842b90059ec66f63e33e4",
+      "bytes": 14145,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Multas-de-transito-celeste.jpg",
+      "path": "public/assets/7b5ae6a7-Multas-de-transito-celeste.jpg",
+      "local": "/assets/7b5ae6a7-Multas-de-transito-celeste.jpg",
+      "sha256": "cde5e57f1694a4c5a7313b5e01dc3ad1c064e2ce4900c71a9af1e2c60b6a1a11",
+      "bytes": 12539,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Otras-formas-de-pago-celeste.jpg",
+      "path": "public/assets/b0664cbb-Otras-formas-de-pago-celeste.jpg",
+      "local": "/assets/b0664cbb-Otras-formas-de-pago-celeste.jpg",
+      "sha256": "c4253a7f875a66e4f3741348d71c6397ca47d31022dea02fdf243fa411f708a0",
+      "bytes": 51383,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Politica-Nacional-1.jpg",
+      "path": "public/assets/3b0f5460-Politica-Nacional-1.jpg",
+      "local": "/assets/3b0f5460-Politica-Nacional-1.jpg",
+      "sha256": "5d1326d898fba1f5b79baf9bd0ab2f53a6ea9ce9545632dcad3afacd2fa3485a",
+      "bytes": 13785,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Procedimientos-Administrativos.jpg",
+      "path": "public/assets/58772b30-Procedimientos-Administrativos.jpg",
+      "local": "/assets/58772b30-Procedimientos-Administrativos.jpg",
+      "sha256": "d1b41157ac87369493a392a4e4a37be6787fd7db4641d0a8e23d0be4da5f071a",
+      "bytes": 9023,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/RTU-DIGITAL-celeste.jpg",
+      "path": "public/assets/3689f6e3-RTU-DIGITAL-celeste.jpg",
+      "local": "/assets/3689f6e3-RTU-DIGITAL-celeste.jpg",
+      "sha256": "f00bb80e1438ca8a54f6a22f9f52ce2777b678ba109f257a72c5d019db736843",
+      "bytes": 11739,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Recuperacion-de-contrasena-de-AV.jpg",
+      "path": "public/assets/665189fb-Recuperacion-de-contrasena-de-AV.jpg",
+      "local": "/assets/665189fb-Recuperacion-de-contrasena-de-AV.jpg",
+      "sha256": "52b6f1305b0649cbda85c36f9c94bf2c14a55b6c52003494e9d62b80cfb92951",
+      "bytes": 8792,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Requisitos-para-tramites-de-propietarios-celeste.jpg",
+      "path": "public/assets/bed54467-Requisitos-para-tramites-de-propietarios-celeste.jpg",
+      "local": "/assets/bed54467-Requisitos-para-tramites-de-propietarios-celeste.jpg",
+      "sha256": "be6feebc7b75552906ab86b22f2cfb84eda62f96b2ba1c3376a78420098b32e8",
+      "bytes": 12574,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Requisitos-para-trámites.jpg",
+      "path": "public/assets/1eb642e1-Requisitos-para-tramites.jpg",
+      "local": "/assets/1eb642e1-Requisitos-para-tramites.jpg",
+      "sha256": "90796ddad668ff3d0c73b39e1838fff132fb7eb48d2dd961f6ab5b9a8e6be059",
+      "bytes": 14769,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Tablas-y-acuerdos.jpg",
+      "path": "public/assets/770b5758-Tablas-y-acuerdos.jpg",
+      "local": "/assets/770b5758-Tablas-y-acuerdos.jpg",
+      "sha256": "f7be02e30b53326c2200bdfad8244776f179938a15982fa4be9aefee1c422d88",
+      "bytes": 15995,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Titulos-universitarios.jpg",
+      "path": "public/assets/689f5820-Titulos-universitarios.jpg",
+      "local": "/assets/689f5820-Titulos-universitarios.jpg",
+      "sha256": "e8039aa0e1cc476bf952cea0b3abd73e84fb72803a947c5e9379344ed90f8968",
+      "bytes": 12679,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Uso-comercial-no-inscritos-IVA.jpg",
+      "path": "public/assets/15dad431-Uso-comercial-no-inscritos-IVA.jpg",
+      "local": "/assets/15dad431-Uso-comercial-no-inscritos-IVA.jpg",
+      "sha256": "a03e31ab8471e64be3cf8543f433b0505d80136634e0b168c0968b34769d0829",
+      "bytes": 14146,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Verificador-integrado-celeste-e1689871387501.jpg",
+      "path": "public/assets/00d19be5-Verificador-integrado-celeste-e1689871387501.jpg",
+      "local": "/assets/00d19be5-Verificador-integrado-celeste-e1689871387501.jpg",
+      "sha256": "3b3900d1803a4de733c5787264ffd8ebfaf19abfe259810f3547336fd4980833",
+      "bytes": 9101,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-clara-1.jpg",
+      "path": "public/assets/e9789f34-imagen-clara-1.jpg",
+      "local": "/assets/e9789f34-imagen-clara-1.jpg",
+      "sha256": "800edc901b4353d768d18dda0540211e431c2b2a6d21800f72d48d2d658c445c",
+      "bytes": 7587,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-clara-2.jpg",
+      "path": "public/assets/e0277ca6-imagen-clara-2.jpg",
+      "local": "/assets/e0277ca6-imagen-clara-2.jpg",
+      "sha256": "8c19b169b8c49ccd76af8f7e44152481c8663e6d429728e00968895875b68744",
+      "bytes": 5427,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-clara-3.jpg",
+      "path": "public/assets/39a3d298-imagen-clara-3.jpg",
+      "local": "/assets/39a3d298-imagen-clara-3.jpg",
+      "sha256": "e0fdf4617549ae73c6f1a6b223076159b3304f82b9e0eac94a69ec5914714c88",
+      "bytes": 3819,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-clara-4.jpg",
+      "path": "public/assets/ec50ef46-imagen-clara-4.jpg",
+      "local": "/assets/ec50ef46-imagen-clara-4.jpg",
+      "sha256": "281564dcec5d21ac29cd665a298a4db9076bfc07e98106f5ba3108f711c4cccf",
+      "bytes": 3088,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-oscura-1.jpg",
+      "path": "public/assets/c3a264ed-imagen-oscura-1.jpg",
+      "local": "/assets/c3a264ed-imagen-oscura-1.jpg",
+      "sha256": "be3b290fa9569c87c227576632daf2f63d2807a6df498b5709c6fd05ccba20e2",
+      "bytes": 2389,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-oscura-2.jpg",
+      "path": "public/assets/d78ceeef-imagen-oscura-2.jpg",
+      "local": "/assets/d78ceeef-imagen-oscura-2.jpg",
+      "sha256": "d143483387d46a2d0ac4f177660aaea3a3833cdfc226353ff25962d81e2e1606",
+      "bytes": 2033,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-oscura-3.jpg",
+      "path": "public/assets/9cb15dd9-imagen-oscura-3.jpg",
+      "local": "/assets/9cb15dd9-imagen-oscura-3.jpg",
+      "sha256": "4a939735ee34d344f2f5b25850be1d93132ed4b3f645bd07f8f5a0850d60a40b",
+      "bytes": 2337,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-oscura-4.jpg",
+      "path": "public/assets/86f4d69a-imagen-oscura-4.jpg",
+      "local": "/assets/86f4d69a-imagen-oscura-4.jpg",
+      "sha256": "d60ef231ce8773a0c950fcf0814d61327f6da4a53bdc836c9ace9af3a8957ae5",
+      "bytes": 2266,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/11/ACREDITAMIENTO_REMANENTE_RETENCIONES_IVA_AZUL-e1689871150441.png",
+      "path": "public/assets/e49b0a60-ACREDITAMIENTO_REMANENTE_RETENCIONES_IVA_AZUL-e1689871150441.png",
+      "local": "/assets/e49b0a60-ACREDITAMIENTO_REMANENTE_RETENCIONES_IVA_AZUL-e1689871150441.png",
+      "sha256": "bd5c7aca4c2867e572f77c05fd9ea607d41ccf8da68a87df3160b0325586fd55",
+      "bytes": 21984,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/11/DEVOLUCION_DEPOSITO_ADUANAL_CELESTE.png",
+      "path": "public/assets/4e0035b9-DEVOLUCION_DEPOSITO_ADUANAL_CELESTE.png",
+      "local": "/assets/4e0035b9-DEVOLUCION_DEPOSITO_ADUANAL_CELESTE.png",
+      "sha256": "2c6260f7d0e53ba7059549a9a73a451837acfbb5b05fdbaee306a17e09fb96f0",
+      "bytes": 4007,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/11/ESTADO-DE-GESTION-AV-AZUL.png",
+      "path": "public/assets/bcb1a70a-ESTADO-DE-GESTION-AV-AZUL.png",
+      "local": "/assets/bcb1a70a-ESTADO-DE-GESTION-AV-AZUL.png",
+      "sha256": "02a130593dff080ff47d8d48e5a4641ed7d25ba93dcd4ebf814732842d76a7cf",
+      "bytes": 4215,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/12/iconos-pie-de-pagina-04.png",
+      "path": "public/assets/f7029166-iconos-pie-de-pagina-04.png",
+      "local": "/assets/f7029166-iconos-pie-de-pagina-04.png",
+      "sha256": "eabae5185917054a7d081ba4960aa9e9d04481a2bdc4967653627a80feb694cb",
+      "bytes": 259,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/12/iconos-pie-de-pagina-05.png",
+      "path": "public/assets/fa0f170e-iconos-pie-de-pagina-05.png",
+      "local": "/assets/fa0f170e-iconos-pie-de-pagina-05.png",
+      "sha256": "a07e507c2fd7a78c3855648b2ffdc0197d187ced697da60298765d9c3e8a43b2",
+      "bytes": 219,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/01/Consulta-titulos-azul.png",
+      "path": "public/assets/ffdb5013-Consulta-titulos-azul.png",
+      "local": "/assets/ffdb5013-Consulta-titulos-azul.png",
+      "sha256": "6af0da5b0cf9611faf04bbed940b91885c988caf20f007d25215b024bac57721",
+      "bytes": 5949,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/01/Planilla-IVA-FEL-azul-e1689870857641.jpg",
+      "path": "public/assets/e15b87e1-Planilla-IVA-FEL-azul-e1689870857641.jpg",
+      "local": "/assets/e15b87e1-Planilla-IVA-FEL-azul-e1689870857641.jpg",
+      "sha256": "cceb772982c837d3c30de1a715e517d220ad2061cccba2cf9a5e6946577c962b",
+      "bytes": 13488,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/04/union-aduanera-celeste.png",
+      "path": "public/assets/6b1233ee-union-aduanera-celeste.png",
+      "local": "/assets/6b1233ee-union-aduanera-celeste.png",
+      "sha256": "20c0a1b5b94e099ca435f90b907459fe5d61df0f7fe837c73b570cd0cec5733f",
+      "bytes": 2600,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Actividades-Econo%CC%81micas.jpg",
+      "path": "public/assets/303913f5-Actividades-Economicas.jpg",
+      "local": "/assets/303913f5-Actividades-Economicas.jpg",
+      "sha256": "039a6b753dee68cad4a929d8ee6fa8c5a6f2691d65c336859af58f217459144a",
+      "bytes": 13414,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Actividades-Económicas.jpg",
+      "path": "public/assets/d58877ae-Actividades-Economicas.jpg",
+      "local": "/assets/d58877ae-Actividades-Economicas.jpg",
+      "sha256": "039a6b753dee68cad4a929d8ee6fa8c5a6f2691d65c336859af58f217459144a",
+      "bytes": 13414,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Autoliquidacio%CC%81n.jpg",
+      "path": "public/assets/a805dd30-Autoliquidacion.jpg",
+      "local": "/assets/a805dd30-Autoliquidacion.jpg",
+      "sha256": "bcb1ccefdaa7ca60a49ded64dfbbde97ec1caf6b35e7a1ba24f62831173608f6",
+      "bytes": 11915,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Autoliquidación.jpg",
+      "path": "public/assets/f8c59ca1-Autoliquidacion.jpg",
+      "local": "/assets/f8c59ca1-Autoliquidacion.jpg",
+      "sha256": "bcb1ccefdaa7ca60a49ded64dfbbde97ec1caf6b35e7a1ba24f62831173608f6",
+      "bytes": 11915,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/CAIS_AZUL.png",
+      "path": "public/assets/d7e94bc3-CAIS_AZUL.png",
+      "local": "/assets/d7e94bc3-CAIS_AZUL.png",
+      "sha256": "91d06c11dfa74c42f4b3ee47ea521dd1c1139e78a55861d966e8367d71ab4f55",
+      "bytes": 8399,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/CIVA_CELESTE-1.png",
+      "path": "public/assets/76201bd2-CIVA_CELESTE-1.png",
+      "local": "/assets/76201bd2-CIVA_CELESTE-1.png",
+      "sha256": "7c0b0879a05cfd801f12274dafb18083fd5da3d51cd39c855ff07f857766bc24",
+      "bytes": 6256,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Celeste-LET.jpg",
+      "path": "public/assets/edbff630-Celeste-LET.jpg",
+      "local": "/assets/edbff630-Celeste-LET.jpg",
+      "sha256": "f581b8963a9475e64b03d228234d7c27218c2d21d6b7dfc46ed6dee87ec03de9",
+      "bytes": 12268,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Factura-Electro%CC%81nica-1-e1689870532806.jpg",
+      "path": "public/assets/24363688-Factura-Electronica-1-e1689870532806.jpg",
+      "local": "/assets/24363688-Factura-Electronica-1-e1689870532806.jpg",
+      "sha256": "8e9f880e8411c26ec5110acde3e281ac5d55f8f46d5d28224c072d89693dff72",
+      "bytes": 15965,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Factura-Electrónica-1-e1689870532806.jpg",
+      "path": "public/assets/5287a436-Factura-Electronica-1-e1689870532806.jpg",
+      "local": "/assets/5287a436-Factura-Electronica-1-e1689870532806.jpg",
+      "sha256": "8e9f880e8411c26ec5110acde3e281ac5d55f8f46d5d28224c072d89693dff72",
+      "bytes": 15965,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/06/3-30.png",
+      "path": "public/assets/49fac36d-3-30.png",
+      "local": "/assets/49fac36d-3-30.png",
+      "sha256": "de336875032bcc3f565435069d1d3ab45220cd7662f79e1796ba248bcfbb64ba",
+      "bytes": 19002,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/06/ICONO-CONSULTAS-ADUANAS-CELESTES.png",
+      "path": "public/assets/167d5b13-ICONO-CONSULTAS-ADUANAS-CELESTES.png",
+      "local": "/assets/167d5b13-ICONO-CONSULTAS-ADUANAS-CELESTES.png",
+      "sha256": "785e2e30986d6e878896713e9409c371eee428a83aefd43ad0811b66619f0b4e",
+      "bytes": 15585,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/09/Razon-Electronica-timbres-fiscales.jpg",
+      "path": "public/assets/0eac08b7-Razon-Electronica-timbres-fiscales.jpg",
+      "local": "/assets/0eac08b7-Razon-Electronica-timbres-fiscales.jpg",
+      "sha256": "04bbde018f1f72d43b733081934521e1f747d819bdb6fda0863190ccd9f73f3f",
+      "bytes": 53043,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Celeste-Sistema-de-citas.jpg",
+      "path": "public/assets/446d9cb3-Celeste-Sistema-de-citas.jpg",
+      "local": "/assets/446d9cb3-Celeste-Sistema-de-citas.jpg",
+      "sha256": "10cc88e260748c27a53c39cc223c3f31362327fd3fddfb8bb5f91bba94a6b483",
+      "bytes": 14966,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Consulta-Movimiento-de-Convenio-azul.jpg",
+      "path": "public/assets/2ccc708a-Consulta-Movimiento-de-Convenio-azul.jpg",
+      "local": "/assets/2ccc708a-Consulta-Movimiento-de-Convenio-azul.jpg",
+      "sha256": "c47ef4e2b112fff6213256cc5050c8eb80f2c1accc480721c51a1716876d9943",
+      "bytes": 15738,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Estado-de-Gestio%CC%81n-de-Cita-Celeste-1-2048x1639.png",
+      "path": "public/assets/6ff9cabe-Estado-de-Gestion-de-Cita-Celeste-1-2048x1639.png",
+      "local": "/assets/6ff9cabe-Estado-de-Gestion-de-Cita-Celeste-1-2048x1639.png",
+      "sha256": "93821ea67846b4992a9e2133730a66da0d291fd064817f94fe2cac53f7a86d4c",
+      "bytes": 6647,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Estado-de-Gestión-de-Cita-Celeste-1.png",
+      "path": "public/assets/dcc3ab55-Estado-de-Gestion-de-Cita-Celeste-1.png",
+      "local": "/assets/dcc3ab55-Estado-de-Gestion-de-Cita-Celeste-1.png",
+      "sha256": "92c7630bc8df36ac2c1a8cbab77354bed2aa12ea2ee94a334108cf0751af837a",
+      "bytes": 16190,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Solvencia-Fiscal-celeste.jpg",
+      "path": "public/assets/dd445060-Solvencia-Fiscal-celeste.jpg",
+      "local": "/assets/dd445060-Solvencia-Fiscal-celeste.jpg",
+      "sha256": "ae3f48a4b3a95b8ef9097e6d9442d17d5cdebdcedd369655f99101bda6899de4",
+      "bytes": 17904,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/12/Franquicia-anaranjada-e1689871598882.png",
+      "path": "public/assets/3da98a4c-Franquicia-anaranjada-e1689871598882.png",
+      "local": "/assets/3da98a4c-Franquicia-anaranjada-e1689871598882.png",
+      "sha256": "16f508defe11b1cfcbc46a0d811d29afdc4daeb7db0eae248fb4488b38e1fd51",
+      "bytes": 23132,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/02/icono-servicios-informe-electronico-de-compras-y-ventas-06.png",
+      "path": "public/assets/3d24e7a9-icono-servicios-informe-electronico-de-compras-y-ventas-06.png",
+      "local": "/assets/3d24e7a9-icono-servicios-informe-electronico-de-compras-y-ventas-06.png",
+      "sha256": "dae69ef7e8cb65011c980e02aa83dcf2af3ded9b791aafa15fb114e452256047",
+      "bytes": 2349,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Asiste_hospitales_web-Azul.png",
+      "path": "public/assets/e33e8f33-Asiste_hospitales_web-Azul.png",
+      "local": "/assets/e33e8f33-Asiste_hospitales_web-Azul.png",
+      "sha256": "5d7b4bb87cbbb8e890f8f64583458a8d6a7b5d2f6453b2cea822ce96bf8972d2",
+      "bytes": 7728,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Celeste-Calendario-SAT.jpg",
+      "path": "public/assets/b0036f7f-Celeste-Calendario-SAT.jpg",
+      "local": "/assets/b0036f7f-Celeste-Calendario-SAT.jpg",
+      "sha256": "b9cb408cd2fee499a8b18798bdf8abd33c376ca97f49b8d6323b89e7f4550fde",
+      "bytes": 48320,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Economico-coactivo-CELESTE.jpg",
+      "path": "public/assets/2d77b7f3-Economico-coactivo-CELESTE.jpg",
+      "local": "/assets/2d77b7f3-Economico-coactivo-CELESTE.jpg",
+      "sha256": "88b55598510549b9f351fb0d147f3dc3f6287820927796f61eb1cbe318210088",
+      "bytes": 56427,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Imprentas-inscritas.jpg",
+      "path": "public/assets/a1eed212-Imprentas-inscritas.jpg",
+      "local": "/assets/a1eed212-Imprentas-inscritas.jpg",
+      "sha256": "b7f045dcb1d90a241d4e3d22cb73392c55f2eb5f55f9990f95ee0ef2934c3a1b",
+      "bytes": 48031,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/NIT-pequeno-contribuyente-celeste-e1689870772118.jpg",
+      "path": "public/assets/f64760c8-NIT-pequeno-contribuyente-celeste-e1689870772118.jpg",
+      "local": "/assets/f64760c8-NIT-pequeno-contribuyente-celeste-e1689870772118.jpg",
+      "sha256": "3020c8c0da87fed350f8c50899c403289ea7ee4fd07e2f2de787e2b65ce6a68a",
+      "bytes": 59106,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Retenciones-web-isr-Celeste-e1689871038330.png",
+      "path": "public/assets/e3d31978-Retenciones-web-isr-Celeste-e1689871038330.png",
+      "local": "/assets/e3d31978-Retenciones-web-isr-Celeste-e1689871038330.png",
+      "sha256": "f8ee43769862ae6b3032c905131fd357392f081733dd022efa9c6e55fe052420",
+      "bytes": 24094,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Retenciones-web-iva-Celeste-e1689870982548.png",
+      "path": "public/assets/16b856f3-Retenciones-web-iva-Celeste-e1689870982548.png",
+      "local": "/assets/16b856f3-Retenciones-web-iva-Celeste-e1689870982548.png",
+      "sha256": "02ea3edb9ce5a777ad5fc230cc705d133df733c667c2c4515905204d84bd93e2",
+      "bytes": 33335,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/04/icono_idiomas_mayas-04.svg",
+      "path": "public/assets/05f4ab8d-icono_idiomas_mayas-04.svg",
+      "local": "/assets/05f4ab8d-icono_idiomas_mayas-04.svg",
+      "sha256": "db39a20baf8e73ffa9bc52a178fbfd1daa372fc7eaf7b48a191692aebb193682",
+      "bytes": 43361,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/05/ICONOS-SERVICIOS-VEHICULOS-03-2048x1639.png",
+      "path": "public/assets/d1c2744b-ICONOS-SERVICIOS-VEHICULOS-03-2048x1639.png",
+      "local": "/assets/d1c2744b-ICONOS-SERVICIOS-VEHICULOS-03-2048x1639.png",
+      "sha256": "e73933cae3b00e5931d8fdb1d85865906a1afe85f287a05ed238697bb7da99c0",
+      "bytes": 10229,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/05/ICONOS-SERVICIOS-VEHICULOS-03.png",
+      "path": "public/assets/ef9c1b5a-ICONOS-SERVICIOS-VEHICULOS-03.png",
+      "local": "/assets/ef9c1b5a-ICONOS-SERVICIOS-VEHICULOS-03.png",
+      "sha256": "73cafd864e18ef72fe747f090f7b65e9a59a1893084e44b51363065b27c408b4",
+      "bytes": 32332,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/05/ICONOS-SERVICIOS-VEHICULOS-04-1.png",
+      "path": "public/assets/d87568d7-ICONOS-SERVICIOS-VEHICULOS-04-1.png",
+      "local": "/assets/d87568d7-ICONOS-SERVICIOS-VEHICULOS-04-1.png",
+      "sha256": "27f04901a52725451d2c6cd0d2e5712bc01638563ba0b163723e1377fb92fee6",
+      "bytes": 6549,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/06/puesto-de-control-celeste.png",
+      "path": "public/assets/5f460be9-puesto-de-control-celeste.png",
+      "local": "/assets/5f460be9-puesto-de-control-celeste.png",
+      "sha256": "968f2ad6e6aaaa45bbb42e55dd049c2fa17b79dc76bc77839f455a80af9af682",
+      "bytes": 2514,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/07/DJRV-CELESTE.png",
+      "path": "public/assets/de58aa3b-DJRV-CELESTE.png",
+      "local": "/assets/de58aa3b-DJRV-CELESTE.png",
+      "sha256": "77bb019d017a4f2b7a9a6a4daf79b0929f14e90a4f78e556f6c30cb4c6927468",
+      "bytes": 7176,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/Declara-jurada-viajero-banner-1536x242.png",
+      "path": "public/assets/7b2c275e-Declara-jurada-viajero-banner-1536x242.png",
+      "local": "/assets/7b2c275e-Declara-jurada-viajero-banner-1536x242.png",
+      "sha256": "fa48e4f12544d3baad09308801a525253fd56ced287f1916645daee2517f92bc",
+      "bytes": 70003,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/Declara-jurada-viajero-banner-768x121.png",
+      "path": "public/assets/adfb514c-Declara-jurada-viajero-banner-768x121.png",
+      "local": "/assets/adfb514c-Declara-jurada-viajero-banner-768x121.png",
+      "sha256": "94c54a3ef7dd8a5dd386cf517ed617749a1bca79b40c463ab088418615fe8b3d",
+      "bytes": 28395,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/icon-av-64.png",
+      "path": "public/assets/dca667f3-icon-av-64.png",
+      "local": "/assets/dca667f3-icon-av-64.png",
+      "sha256": "2e532daca1ff98dee602bea08fb7f89367114138d12877a10ac1b439e599e9db",
+      "bytes": 4394,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/icon-denun-64.png",
+      "path": "public/assets/b642fb8c-icon-denun-64.png",
+      "local": "/assets/b642fb8c-icon-denun-64.png",
+      "sha256": "41e20170c0da89f870609496b93cb61b8be1a9b96badd538a471988fe1a3bde1",
+      "bytes": 440,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/icon-dg-64.png",
+      "path": "public/assets/e059647e-icon-dg-64.png",
+      "local": "/assets/e059647e-icon-dg-64.png",
+      "sha256": "32ace621d2d4217f18449de64b4b33751bae006ae99d90318c53a4bef6e70f4a",
+      "bytes": 4980,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/icon-find-64.png",
+      "path": "public/assets/d5ef42dc-icon-find-64.png",
+      "local": "/assets/d5ef42dc-icon-find-64.png",
+      "sha256": "ed60ab6ac4b3fe1086e48b65e3c417d8a90f2499a97b001df0e7c5532845793c",
+      "bytes": 721,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/icon-uip-64.png",
+      "path": "public/assets/eed309e0-icon-uip-64.png",
+      "local": "/assets/eed309e0-icon-uip-64.png",
+      "sha256": "0e5f9b6721fbb16fb4644ff09f6fadbb7a642602cd9775b85f1dbb8cc24a062a",
+      "bytes": 916,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/12/Terceros-Autorizados.png",
+      "path": "public/assets/1c22c0eb-Terceros-Autorizados.png",
+      "local": "/assets/1c22c0eb-Terceros-Autorizados.png",
+      "sha256": "00190c2bfb073cc726c26bc4ef26e95ecb15eca7100239aad83bf64ae6339019",
+      "bytes": 33070,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2024/09/Primer-NIT-Azul.png",
+      "path": "public/assets/e18bb3ae-Primer-NIT-Azul.png",
+      "local": "/assets/e18bb3ae-Primer-NIT-Azul.png",
+      "sha256": "6ac6ce0bf26774389bbc243db61b45259304feff869ef725c33609ba0f9c70d1",
+      "bytes": 700,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2024/09/clic3.png",
+      "path": "public/assets/c54fe346-clic3.png",
+      "local": "/assets/c54fe346-clic3.png",
+      "sha256": "c3c552cd00d33bd3fe03884e49c0213267ed0a47109eefde982dc71b1ca0838c",
+      "bytes": 229335,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/05/Retenciones-ITC-Azul.png",
+      "path": "public/assets/7b2cd3ef-Retenciones-ITC-Azul.png",
+      "local": "/assets/7b2cd3ef-Retenciones-ITC-Azul.png",
+      "sha256": "b2951030eeee09689d4ba1fed9cd174c5a3b97ffde362b1d408f41aa05a70fa1",
+      "bytes": 9124,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/06/RSI-azul.png",
+      "path": "public/assets/0042a71d-RSI-azul.png",
+      "local": "/assets/0042a71d-RSI-azul.png",
+      "sha256": "8e66e360184bf2f1900fe0dacc8b04d24b702270751fc4b65d6aff0ecf4d2635",
+      "bytes": 6769,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/08/ChatSAT-flotante.png",
+      "path": "public/assets/9ebc7f83-ChatSAT-flotante.png",
+      "local": "/assets/9ebc7f83-ChatSAT-flotante.png",
+      "sha256": "a8d9ea6e49dc3694dac4c6f3bc4c5b0d21b0bafab7b19652125c8668c01a9846",
+      "bytes": 16934,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/12/Atencion-Importadores-OEA-GT-1-50x100.jpg",
+      "path": "public/assets/310ca65a-Atencion-Importadores-OEA-GT-1-50x100.jpg",
+      "local": "/assets/310ca65a-Atencion-Importadores-OEA-GT-1-50x100.jpg",
+      "sha256": "a0cada9887362779421837f023916f6b3d8ae9b91a32ed08981f3337e6eaf07d",
+      "bytes": 2396,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/12/Atencion-Importadores-OEA-GT-1.jpg",
+      "path": "public/assets/bbe606d4-Atencion-Importadores-OEA-GT-1.jpg",
+      "local": "/assets/bbe606d4-Atencion-Importadores-OEA-GT-1.jpg",
+      "sha256": "f26337f8c436fb95e3a6f802e719bfe40fe41384e43bdbcdda59f6346669fc4e",
+      "bytes": 824520,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/02/Banner-portal-No-te-dejes-engan%CC%83ar.jpg",
+      "path": "public/assets/d62b6506-Banner-portal-No-te-dejes-enganar.jpg",
+      "local": "/assets/d62b6506-Banner-portal-No-te-dejes-enganar.jpg",
+      "sha256": "fd6a34e48d2f1761383fb0a681b87449e6007604eef23c6302e030eeed720964",
+      "bytes": 215200,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/02/Banner-portal-No-te-dejes-engañar-50x100.jpg",
+      "path": "public/assets/cc36fa8b-Banner-portal-No-te-dejes-enganar-50x100.jpg",
+      "local": "/assets/cc36fa8b-Banner-portal-No-te-dejes-enganar-50x100.jpg",
+      "sha256": "38aaf5a057bad0c9b0c9b0d5346f3a830fb04aa7992cc6e2b956564b89176bf5",
+      "bytes": 1766,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/02/Banner-portal-No-te-dejes-engañar.jpg",
+      "path": "public/assets/c74a9d9b-Banner-portal-No-te-dejes-enganar.jpg",
+      "local": "/assets/c74a9d9b-Banner-portal-No-te-dejes-enganar.jpg",
+      "sha256": "fd6a34e48d2f1761383fb0a681b87449e6007604eef23c6302e030eeed720964",
+      "bytes": 215200,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/02/RETENCIONES-WEB-NO-RESIDENTES-AZUL.png",
+      "path": "public/assets/28f50d60-RETENCIONES-WEB-NO-RESIDENTES-AZUL.png",
+      "local": "/assets/28f50d60-RETENCIONES-WEB-NO-RESIDENTES-AZUL.png",
+      "sha256": "61ad3bd03817ccd54fc64562b1a59a083b06955c0cc928968bb9b4674f446e9d",
+      "bytes": 13277,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/06/Banner-Portal-Declaraguate-a-AV-02-50x100.jpg",
+      "path": "public/assets/c920af09-Banner-Portal-Declaraguate-a-AV-02-50x100.jpg",
+      "local": "/assets/c920af09-Banner-Portal-Declaraguate-a-AV-02-50x100.jpg",
+      "sha256": "8ebb65e370b20ed0155657d8693719dcc38fa253623a8cfd319c7eae61cc2c2f",
+      "bytes": 1987,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/06/Banner-Portal-Declaraguate-a-AV-02.jpg",
+      "path": "public/assets/61bc424e-Banner-Portal-Declaraguate-a-AV-02.jpg",
+      "local": "/assets/61bc424e-Banner-Portal-Declaraguate-a-AV-02.jpg",
+      "sha256": "ac44488fe3ed053f356a6a2c929cba53dc48b8c8ba296828bcc8b9a5c61e4938",
+      "bytes": 511912,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/07-16-2026-BANNER-CANALES-50x100.jpg",
+      "path": "public/assets/9e7a5aab-07-16-2026-BANNER-CANALES-50x100.jpg",
+      "local": "/assets/9e7a5aab-07-16-2026-BANNER-CANALES-50x100.jpg",
+      "sha256": "f6d1620dc7dc39123ad9ebba1758f2e97ee7cea67bb6e0a05b6dc3f9417fc67a",
+      "bytes": 1970,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/07-16-2026-BANNER-CANALES.jpg",
+      "path": "public/assets/ff81472a-07-16-2026-BANNER-CANALES.jpg",
+      "local": "/assets/ff81472a-07-16-2026-BANNER-CANALES.jpg",
+      "sha256": "1d84c168d86a4c396e3028089e65d059b9804bdeaf1ba06edca18f459d992339",
+      "bytes": 1795274,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/BANNER-PORTAL-CAMPAN%CC%83A-CORAZON-AZUL.jpg",
+      "path": "public/assets/ad6f01aa-BANNER-PORTAL-CAMPANA-CORAZON-AZUL.jpg",
+      "local": "/assets/ad6f01aa-BANNER-PORTAL-CAMPANA-CORAZON-AZUL.jpg",
+      "sha256": "36895e898bd17272ecf5bc432ac78f41e5e319eaee326f330274d803359dcc8e",
+      "bytes": 3272485,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/BANNER-PORTAL-CAMPAÑA-CORAZON-AZUL-50x100.jpg",
+      "path": "public/assets/4a255fc6-BANNER-PORTAL-CAMPANA-CORAZON-AZUL-50x100.jpg",
+      "local": "/assets/4a255fc6-BANNER-PORTAL-CAMPANA-CORAZON-AZUL-50x100.jpg",
+      "sha256": "8309f8916687289c622620c0bb8f12a7a88a23b0a0c00d71f7844ce7f92f9b8a",
+      "bytes": 2440,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/BANNER-PORTAL-CAMPAÑA-CORAZON-AZUL.jpg",
+      "path": "public/assets/7a9ae03d-BANNER-PORTAL-CAMPANA-CORAZON-AZUL.jpg",
+      "local": "/assets/7a9ae03d-BANNER-PORTAL-CAMPANA-CORAZON-AZUL.jpg",
+      "sha256": "36895e898bd17272ecf5bc432ac78f41e5e319eaee326f330274d803359dcc8e",
+      "bytes": 3272485,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/08/SAT_SCAN_1.jpg",
+      "path": "public/assets/781c1ed0-SAT_SCAN_1.jpg",
+      "local": "/assets/781c1ed0-SAT_SCAN_1.jpg",
+      "sha256": "cd413242d7a483c67c78772b2bdf7889e6568d87fc8ad590b8c28094b248deba",
+      "bytes": 284510,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/09/Ca%CC%81psulas-Re%CC%81gimen-Electro%CC%81nico-de-Devolucio%CC%81n-Fiscal-marzo-2026_Ca%CC%81psula-RED_3-1.jpg",
+      "path": "public/assets/be37cb37-Capsulas-Regimen-Electronico-de-Devolucion-Fiscal-marzo-2026_Capsula-RED_3-1.jpg",
+      "local": "/assets/be37cb37-Capsulas-Regimen-Electronico-de-Devolucion-Fiscal-marzo-2026_Capsula-RED_3-1.jpg",
+      "sha256": "2b658fac166d34a51f5c52c2ff68bfa38c20c91f019403220f02bf6d58305026",
+      "bytes": 538171,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/09/Cápsulas-Régimen-Electrónico-de-Devolución-Fiscal-marzo-2026_Cápsula-RED_3-1.jpg",
+      "path": "public/assets/d4ac72bd-Capsulas-Regimen-Electronico-de-Devolucion-Fiscal-marzo-2026_Capsula-RED_3-1.jpg",
+      "local": "/assets/d4ac72bd-Capsulas-Regimen-Electronico-de-Devolucion-Fiscal-marzo-2026_Capsula-RED_3-1.jpg",
+      "sha256": "2b658fac166d34a51f5c52c2ff68bfa38c20c91f019403220f02bf6d58305026",
+      "bytes": 538171,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/09/Consultori%CC%81a-Opinio%CC%81n-Pu%CC%81blica-2026_2-2048x1024.jpg",
+      "path": "public/assets/2f8cc596-Consultoria-Opinion-Publica-2026_2-2048x1024.jpg",
+      "local": "/assets/2f8cc596-Consultoria-Opinion-Publica-2026_2-2048x1024.jpg",
+      "sha256": "f66bc005e864718d0a80ca285f2f5e8e51974d29688fcc3aa9eadbf426e5d1d2",
+      "bytes": 273927,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/09/Consultoría-Opinión-Pública-2026_2.jpg",
+      "path": "public/assets/05f27c3f-Consultoria-Opinion-Publica-2026_2.jpg",
+      "local": "/assets/05f27c3f-Consultoria-Opinion-Publica-2026_2.jpg",
+      "sha256": "c06759b301e32979c52e0b755c6b30e8e6e3225179a526121b6b9b70f281f381",
+      "bytes": 5557577,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/10/CONTENEDORES-DETENIDOS_oct-2.jpg",
+      "path": "public/assets/cca42df4-CONTENEDORES-DETENIDOS_oct-2.jpg",
+      "local": "/assets/cca42df4-CONTENEDORES-DETENIDOS_oct-2.jpg",
+      "sha256": "ec95cbb772e1c210eb58ab1cbe49bb3edd300088e8e13025cc35ae2478eacf2e",
+      "bytes": 3536476,
+      "mime": "image/jpeg",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/css/post-52883.css?ver=1793308578",
+      "path": "evidencias/estilos-originales/3588a000-post-52883.css",
+      "local": null,
+      "sha256": "785c48cca29e9e2904786fede234dc5e74e1a7d7ac0b44c812abe44c5d061abc",
+      "bytes": 141377,
+      "mime": "text/css; charset=utf-8",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizbrevithgc8qdibstkq4xkriua6zetjmbi.woff2",
+      "path": "public/assets/666ad17f-librefranklin-jizbrevithgc8qdibstkq4xkriua6zetjmbi.woff2",
+      "local": "/assets/666ad17f-librefranklin-jizbrevithgc8qdibstkq4xkriua6zetjmbi.woff2",
+      "sha256": "142a80a62599092a17ba0b9c73d0f434076431f3be833aa892da2c901ef99fd7",
+      "bytes": 18468,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizbrevithgc8qdibstkq4xkriua6zgtjmbi.woff2",
+      "path": "public/assets/09f2b8b3-librefranklin-jizbrevithgc8qdibstkq4xkriua6zgtjmbi.woff2",
+      "local": "/assets/09f2b8b3-librefranklin-jizbrevithgc8qdibstkq4xkriua6zgtjmbi.woff2",
+      "sha256": "9bc771b4385f231e0dfae0e2115592b1079ba05d2e62f946f5e26c8dcdac89be",
+      "bytes": 24764,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizbrevithgc8qdibstkq4xkriua6zotjmbi.woff2",
+      "path": "public/assets/1e526705-librefranklin-jizbrevithgc8qdibstkq4xkriua6zotjmbi.woff2",
+      "local": "/assets/1e526705-librefranklin-jizbrevithgc8qdibstkq4xkriua6zotjmbi.woff2",
+      "sha256": "8ba71995a69b9c2baa253736dbc2f9c5b14bb6f955bfd3b46cf9e8774e5d9698",
+      "bytes": 8348,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizbrevithgc8qdibstkq4xkriua6zstjmbi.woff2",
+      "path": "public/assets/ae6bd096-librefranklin-jizbrevithgc8qdibstkq4xkriua6zstjmbi.woff2",
+      "local": "/assets/ae6bd096-librefranklin-jizbrevithgc8qdibstkq4xkriua6zstjmbi.woff2",
+      "sha256": "a20461c2f2c9373049143ca6e7a94bcb66079093d085128ea12982c40054bbe2",
+      "bytes": 28424,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizbrevithgc8qdibstkq4xkriua6zutjg.woff2",
+      "path": "public/assets/cfa45c03-librefranklin-jizbrevithgc8qdibstkq4xkriua6zutjg.woff2",
+      "local": "/assets/cfa45c03-librefranklin-jizbrevithgc8qdibstkq4xkriua6zutjg.woff2",
+      "sha256": "b9afefd208c0b337d692cc41fdbfc27ce7b53fd28814333b435346875758c5eb",
+      "bytes": 32904,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizdrevithgc8qdibstkq4xkriub2zclig.woff2",
+      "path": "public/assets/8f43eceb-librefranklin-jizdrevithgc8qdibstkq4xkriub2zclig.woff2",
+      "local": "/assets/8f43eceb-librefranklin-jizdrevithgc8qdibstkq4xkriub2zclig.woff2",
+      "sha256": "8c049f5036f70f6fece472f0bb4498743489f9f35066b6369e69bbe662605368",
+      "bytes": 15860,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizdrevithgc8qdibstkq4xkriuf2zc.woff2",
+      "path": "public/assets/a910b1b0-librefranklin-jizdrevithgc8qdibstkq4xkriuf2zc.woff2",
+      "local": "/assets/a910b1b0-librefranklin-jizdrevithgc8qdibstkq4xkriuf2zc.woff2",
+      "sha256": "c4d5d8c2ab89b2f588e061a7d40627b75dbdb7d3288683fd44bdd4e894ca359b",
+      "bytes": 29336,
+      "mime": "",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizdrevithgc8qdibstkq4xkriuq2zclig.woff2",
+      "path": "public/assets/2245d401-librefranklin-jizdrevithgc8qdibstkq4xkriuq2zclig.woff2",
+      "local": "/assets/2245d401-librefranklin-jizdrevithgc8qdibstkq4xkriuq2zclig.woff2",
+      "sha256": "d5af21ee1adfce9900639b3a5dbd9ff051eeda61cb8b9076ecfb31e59ccc7156",
+      "bytes": 7588,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizdrevithgc8qdibstkq4xkriur2zclig.woff2",
+      "path": "public/assets/6edf2ea5-librefranklin-jizdrevithgc8qdibstkq4xkriur2zclig.woff2",
+      "local": "/assets/6edf2ea5-librefranklin-jizdrevithgc8qdibstkq4xkriur2zclig.woff2",
+      "sha256": "61216d8e3efe8c5a26861f8b92dc9a922645c662da95c37bf787a4a774a5c8d5",
+      "bytes": 25692,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizdrevithgc8qdibstkq4xkrius2zclig.woff2",
+      "path": "public/assets/64bd73af-librefranklin-jizdrevithgc8qdibstkq4xkrius2zclig.woff2",
+      "local": "/assets/64bd73af-librefranklin-jizdrevithgc8qdibstkq4xkrius2zclig.woff2",
+      "sha256": "b5495470aaa69262bec2dcab60746d2d270a0acfd8d116f5a4e794a0be883526",
+      "bytes": 21616,
+      "mime": "font/woff2",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/smile_fonts/icomoon/icomoon.ttf?oy956q",
+      "path": "public/assets/5a5b2b5a-icomoon.ttf",
+      "local": "/assets/5a5b2b5a-icomoon.ttf",
+      "sha256": "96f6760e5e18fc87b5c0b0ec79a1f1ea60dfb10d71ad7bebde0ff09011b7bbf4",
+      "bytes": 4080,
+      "mime": "application/font-sfnt",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "https://s3bucket-satgt-pro-chatbot-ac-portal-sat.s3.amazonaws.com/v3.0.4/assets/satgt-rita-icon-v2-43x43.png",
+      "path": "public/assets/fb8bf996-satgt-rita-icon-v2-43x43.png",
+      "local": "/assets/fb8bf996-satgt-rita-icon-v2-43x43.png",
+      "sha256": "cf5fbae551b4042ced22e39235d78d76c5dd565eff9b01b9604a9bcb03193380",
+      "bytes": 3737,
+      "mime": "image/png",
+      "status": "downloaded",
+      "origin": "REA retained source/resource URL; public GET with browser headers"
+    },
+    {
+      "url": "inline:print-script-24:widget-0765fe2",
+      "path": "public/assets/inline-0765fe2.svg",
+      "local": "/assets/inline-0765fe2.svg",
+      "sha256": "0b12068015c6c5eac13e4e719a5700d5f1f6f51d0d96ffe53586d41a05d266f8",
+      "bytes": 1302,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "Exact inline SVG bytes extracted from retained HTML literal; no evaluation."
+    },
+    {
+      "url": "inline:print-script-24:widget-77a5595",
+      "path": "public/assets/inline-77a5595.svg",
+      "local": "/assets/inline-77a5595.svg",
+      "sha256": "482b91256c25abdbca7d80c92db71de280fe111a2d7b1fb6aa8ee82fcd1c9573",
+      "bytes": 713,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "Exact inline SVG bytes extracted from retained HTML literal; no evaluation."
+    },
+    {
+      "url": "inline:print-script-24:widget-e11b232",
+      "path": "public/assets/inline-e11b232.svg",
+      "local": "/assets/inline-e11b232.svg",
+      "sha256": "77103139457ee587d11732435a9fe216630296dafd30c48312ccb6e0989804eb",
+      "bytes": 8976,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "Exact inline SVG bytes extracted from retained HTML literal; no evaluation."
+    },
+    {
+      "url": "inline:print-script-24:widget-ff85305",
+      "path": "public/assets/inline-ff85305.svg",
+      "local": "/assets/inline-ff85305.svg",
+      "sha256": "a16c87026c894039496eb38e200a1de58326741fefa47a5ce748e2c76af7c015",
+      "bytes": 445120,
+      "mime": "image/svg+xml",
+      "status": "downloaded",
+      "origin": "Exact inline SVG bytes extracted from retained HTML literal; no evaluation."
+    }
+  ],
+  "notes": [
+    "Only static public GET downloads; no original tracking or service scripts are executed.",
+    "Original CSS is retained solely as visual evidence, outside public/.",
+    "HTML and slider configuration are decoded string/JSON literals, not evaluated."
+  ]
+}

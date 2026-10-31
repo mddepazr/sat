@@ -1,0 +1,3742 @@
+{
+  "provenance": {
+    "captureEvidenceId": "ev_4c0a4a4413a2e4153b4915d73179a4788017a1403d00fc827e1463670d33a9c8",
+    "printScriptIndex": 24,
+    "printScriptSHA256": "6c1fd99964de80e029f5321ed738f7fa8a9f3d207010537e22f833f12bc5ed6d",
+    "note": "Content decoded from a string literal; not executed.",
+    "initialSlideChoice": "Denuncia matches the supplied visual reference; source order remains in each slide.order."
+  },
+  "services": {
+    "categories": [
+      {
+        "name": "Consultas Frecuentes",
+        "id": "category-15575",
+        "url": "https://portal.sat.gob.gt/portal/?term=consultas-frecuentes",
+        "default": true
+      },
+      {
+        "name": "Contribuyentes",
+        "id": "category-15580",
+        "url": "https://portal.sat.gob.gt/portal/?term=contribuyentes",
+        "default": false
+      },
+      {
+        "name": "Cumplimiento Tributario",
+        "id": "category-15578",
+        "url": "https://portal.sat.gob.gt/portal/?term=cumplimiento-tributario",
+        "default": false
+      },
+      {
+        "name": "Mis Documentos",
+        "id": "category-15579",
+        "url": "https://portal.sat.gob.gt/portal/?term=mis-documentos",
+        "default": false
+      },
+      {
+        "name": "Requisitos",
+        "id": "category-15599",
+        "url": "https://portal.sat.gob.gt/portal/?term=requisitos",
+        "default": false
+      },
+      {
+        "name": "Solicitudes",
+        "id": "category-15577",
+        "url": "https://portal.sat.gob.gt/portal/?term=solicitudes-y-avisos",
+        "default": false
+      },
+      {
+        "name": "Vehículos",
+        "id": "category-15581",
+        "url": "https://portal.sat.gob.gt/portal/?term=vehiculos",
+        "default": false
+      }
+    ],
+    "cards": [
+      {
+        "id": "Acreditamiento en Cuenta de Remanente de Retenciones de IVA",
+        "title": "Acreditamiento en Cuenta de Remanente de Retenciones de IVA",
+        "description": "Ingresa aquí para ver los requisitos de esta gestión.",
+        "url": "https://portal.sat.gob.gt/portal/project/acreditamiento-en-cuenta-de-remanente-de-retenciones-de-iva/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/11/ACREDITAMIENTO_REMANENTE_RETENCIONES_IVA_AZUL-e1689871150441.png",
+        "categories": [
+          "category-15577"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/e49b0a60-ACREDITAMIENTO_REMANENTE_RETENCIONES_IVA_AZUL-e1689871150441.png"
+      },
+      {
+        "id": "Actividades Económicas",
+        "title": "Actividades Económicas",
+        "description": "Identifica la actividad económica que realizas y asigna el código de la misma en tu registro y/o actualización ante la SAT",
+        "url": "https://portal.sat.gob.gt/portal/project/actividades-economicas/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Actividades-Económicas.jpg",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/d58877ae-Actividades-Economicas.jpg"
+      },
+      {
+        "id": "Agentes de Retención IVA",
+        "title": "Agentes de Retención IVA",
+        "description": "Descarga aquí el listado de agentes de retención del IVA",
+        "url": "https://portal.sat.gob.gt/portal/project/agentes-de-retencion-iva-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Agentes-de-retencion-IVA-celeste.jpg",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/f8f046b5-Agentes-de-retencion-IVA-celeste.jpg"
+      },
+      {
+        "id": "Asiste Hospitales Web",
+        "title": "Asiste Hospitales Web",
+        "description": "Registra los pagos a profesionales que brindan asistencias médicas en tu institución, de parte de terceros",
+        "url": "https://portal.sat.gob.gt/portal/project/asiste-hospitales-web/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Asiste_hospitales_web-Azul.png",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/e33e8f33-Asiste_hospitales_web-Azul.png"
+      },
+      {
+        "id": "Autoliquidación",
+        "title": "Autoliquidación",
+        "description": "Cálculo de las sanciones a pagar por presentación y pago extemporáneo o rectificaciones.",
+        "url": "https://portal.sat.gob.gt/portal/project/autoliquidacion/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Autoliquidación.jpg",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/f8c59ca1-Autoliquidacion.jpg"
+      },
+      {
+        "id": "Autorización de Máquina",
+        "title": "Autorización de Máquina",
+        "description": "Consulta sobre autorización de máquina",
+        "url": "https://portal.sat.gob.gt/portal/project/autorizacion-de-maquina-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Autorizacion-de-maquina-celeste.jpg",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/fa6c50d6-Autorizacion-de-maquina-celeste.jpg"
+      },
+      {
+        "id": "Aviso de Robo de Vehículo",
+        "title": "Aviso de Robo de Vehículo",
+        "description": "Puedes dar aviso por robo de auto haciendo click aquí.",
+        "url": "https://portal.sat.gob.gt/portal/project/aviso-de-robo-de-vehiculo/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Aviso-de-Robo-de-Vehiculo.jpg",
+        "categories": [
+          "category-15581"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/2ced4d01-Aviso-de-Robo-de-Vehiculo.jpg"
+      },
+      {
+        "id": "Calendario SAT",
+        "title": "Calendario SAT",
+        "description": "Consulta la fecha de vencimiento de impuestos según tu localidad",
+        "url": "https://portal.sat.gob.gt/portal/project/calendario-sat/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Celeste-Calendario-SAT.jpg",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/b0036f7f-Celeste-Calendario-SAT.jpg"
+      },
+      {
+        "id": "Cambio de Contraseña Agencia Virtual",
+        "title": "Cambio de Contraseña Agencia Virtual",
+        "description": "Ingresa aquí si no recuerdas tu contraseña para Agencia Virtual",
+        "url": "https://portal.sat.gob.gt/portal/project/cambio-de-contrasena-agencia-virtual-consultas-frecuentes/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Recuperacion-de-contrasena-de-AV.jpg",
+        "categories": [
+          "category-15575"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/665189fb-Recuperacion-de-contrasena-de-AV.jpg"
+      },
+      {
+        "id": "Cita para concluir la Solicitud de NIT",
+        "title": "Cita para concluir la Solicitud de NIT",
+        "description": "Para las otras gestiones debes realizar tus citas por medio de la Agencia Virtual",
+        "url": "https://portal.sat.gob.gt/portal/project/cita/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Celeste-Sistema-de-citas.jpg",
+        "categories": [
+          "category-15577"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/446d9cb3-Celeste-Sistema-de-citas.jpg"
+      },
+      {
+        "id": "Código Único de Verificación",
+        "title": "Código Único de Verificación",
+        "description": "Consulta el distintivo por medio del Código Único de Verificación",
+        "url": "https://portal.sat.gob.gt/portal/project/codigo-unico-de-verificacion-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Codigo-unico-de-verificacion-celeste.jpg",
+        "categories": [
+          "category-15581"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/f24fc083-Codigo-unico-de-verificacion-celeste.jpg"
+      },
+      {
+        "id": "Comprobación Valor Importación",
+        "title": "Comprobación Valor Importación",
+        "description": "Comprobación del valor en la importación de vehículos automotores terrestres usados",
+        "url": "https://portal.sat.gob.gt/portal/project/comprobacion-valor-importacion-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Comprobacion-Valor-Importacion.jpg",
+        "categories": [
+          "category-15581"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/e783fadd-Comprobacion-Valor-Importacion.jpg"
+      },
+      {
+        "id": "Constancias de Adquisición Insumos y Servicios -CAIS-",
+        "title": "Constancias de Adquisición Insumos y Servicios -CAIS-",
+        "description": "Aprende a emitir una constancia de adquisición de insumos y servicios",
+        "url": "https://portal.sat.gob.gt/portal/project/emision-constancias-de-adquisicion-de-insumos-y-servicios-cais/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/CAIS_AZUL.png",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/d7e94bc3-CAIS_AZUL.png"
+      },
+      {
+        "id": "Constancias de Exención de IVA -CIVA-",
+        "title": "Constancias de Exención de IVA -CIVA-",
+        "description": "Aprende a emitir una constancia de exención de IVA",
+        "url": "https://portal.sat.gob.gt/portal/project/emision-constancias-de-exencion-de-iva-civa/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/CIVA_CELESTE-1.png",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/76201bd2-CIVA_CELESTE-1.png"
+      },
+      {
+        "id": "Constancias de retención del IVA e ISR recibidas",
+        "title": "Constancias de retención del IVA e ISR recibidas",
+        "description": "Verificar la validez de las constancias emitidas por el Agente Retenedor",
+        "url": "https://portal.sat.gob.gt/portal/project/retenciones-del-iva-consulta-de-constancias-de-retencion-del-iva-recibidas/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/11/ACREDITAMIENTO_REMANENTE_RETENCIONES_IVA_AZUL-e1689871150441.png",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/e49b0a60-ACREDITAMIENTO_REMANENTE_RETENCIONES_IVA_AZUL-e1689871150441.png"
+      },
+      {
+        "id": "Consulta de Devolución de Crédito Fiscal Régimen General",
+        "title": "Consulta de Devolución de Crédito Fiscal Régimen General",
+        "description": "Encuentra aquí el listado de solicitudes pendientes",
+        "url": "https://portal.sat.gob.gt/portal/project/consulta-de-solicitudes-de-devolucion-de-credito-fiscal-regimen-general/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/05/ICONOS-SERVICIOS-VEHICULOS-04-1.png",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/d87568d7-ICONOS-SERVICIOS-VEHICULOS-04-1.png"
+      },
+      {
+        "id": "Consulta de Títulos QR",
+        "title": "Consulta de Títulos QR",
+        "description": "Consulta de Títulos QR",
+        "url": "https://portal.sat.gob.gt/portal/project/consulta-de-titulos-qr/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/01/Consulta-titulos-azul.png",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/ffdb5013-Consulta-titulos-azul.png"
+      },
+      {
+        "id": "Consulta de Vehículos",
+        "title": "Consulta de Vehículos",
+        "description": "Ingresa aquí para consultar el monto del ISCV, Garantía Mobiliaria, imprimir calcomanía de circulación y ver multas de tránsito.",
+        "url": "https://portal.sat.gob.gt/portal/project/impresion-de-calcomania-consulta-frecuente/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/05/ICONOS-SERVICIOS-VEHICULOS-03.png",
+        "categories": [
+          "category-15575"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/ef9c1b5a-ICONOS-SERVICIOS-VEHICULOS-03.png"
+      },
+      {
+        "id": "Consulta de Vehículos",
+        "title": "Consulta de Vehículos",
+        "description": "Ingresa aquí para consultar el monto del ISCV, Garantía Mobiliaria, imprimir calcomanía de circulación y ver multas de tránsito.",
+        "url": "https://portal.sat.gob.gt/portal/project/impresion-de-calcomania/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/05/ICONOS-SERVICIOS-VEHICULOS-03.png",
+        "categories": [
+          "category-15581"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/ef9c1b5a-ICONOS-SERVICIOS-VEHICULOS-03.png"
+      },
+      {
+        "id": "Consulta estado de cita",
+        "title": "Consulta estado de cita",
+        "description": "Verifica aquí el estado de tu cita",
+        "url": "https://portal.sat.gob.gt/portal/project/consulta-estado-de-cita/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Estado-de-Gestión-de-Cita-Celeste-1.png",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/dcc3ab55-Estado-de-Gestion-de-Cita-Celeste-1.png"
+      },
+      {
+        "id": "Consulta Movimiento de Pago",
+        "title": "Consulta Movimiento de Pago",
+        "description": "Realiza la consulta de tu facilidad de pago haciendo clic aquí",
+        "url": "https://portal.sat.gob.gt/portal/project/consulta-movimiento-de-pago/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Consulta-Movimiento-de-Convenio-azul.jpg",
+        "categories": [
+          "category-15577"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/2ccc708a-Consulta-Movimiento-de-Convenio-azul.jpg"
+      },
+      {
+        "id": "Consulta NIT",
+        "title": "Consulta NIT",
+        "description": "Si no recuerdas tu NIT o si tienes Agencia Virtual, puedes consultar aquí utilizando tu CUI (DPI).",
+        "url": "https://portal.sat.gob.gt/portal/project/consulta-nit/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Consulta-de-NIT-e1689869330761.jpg",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/36a45200-Consulta-de-NIT-e1689869330761.jpg"
+      },
+      {
+        "id": "CUI/NIT Agencia Virtual",
+        "title": "CUI/NIT Agencia Virtual",
+        "description": "Si no recuerdas tu NIT o si tienes Agencia Virtual, puedes consultar aquí.",
+        "url": "https://portal.sat.gob.gt/portal/project/cui-nit-agencia-virtual/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Consulta-de-NIT-e1689869330761.jpg",
+        "categories": [
+          "category-15575"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/36a45200-Consulta-de-NIT-e1689869330761.jpg"
+      },
+      {
+        "id": "Declaración Valor Cero",
+        "title": "Declaración Valor Cero",
+        "description": "Presenta de forma agil tu boleta SAT-2000 con valor cero",
+        "url": "https://portal.sat.gob.gt/portal/project/declaracion-valor-cero/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Declaracion-valor-cero.jpg",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/66c93e0b-Declaracion-valor-cero.jpg"
+      },
+      {
+        "id": "Declaraguate",
+        "title": "Declaraguate",
+        "description": "Realiza tu declaración de impuestos en línea por medio de formularios electrónicos",
+        "url": "https://portal.sat.gob.gt/portal/project/declaraguate/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Celeste-Declaraguate.jpg",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/62f47ddb-Celeste-Declaraguate.jpg"
+      },
+      {
+        "id": "Devolución de Depósito Aduanal",
+        "title": "Devolución de Depósito Aduanal",
+        "description": "Ingresa aquí para ver los requisitos de esta gestión.",
+        "url": "https://portal.sat.gob.gt/portal/project/devolucion-de-deposito-anual/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/11/DEVOLUCION_DEPOSITO_ADUANAL_CELESTE.png",
+        "categories": [
+          "category-15577"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/4e0035b9-DEVOLUCION_DEPOSITO_ADUANAL_CELESTE.png"
+      },
+      {
+        "id": "Devolución de Pagos en Exceso",
+        "title": "Devolución de Pagos en Exceso",
+        "description": "Realiza la gestión de Devolución de pagos en exceso haciendo click aquí",
+        "url": "https://portal.sat.gob.gt/portal/project/devolucion-de-pagos-en-exceso/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Devolucion-de-pagos-en-exceso.jpg",
+        "categories": [
+          "category-15577"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/dd65da80-Devolucion-de-pagos-en-exceso.jpg"
+      },
+      {
+        "id": "Devolución de Pagos Indebidos",
+        "title": "Devolución de Pagos Indebidos",
+        "description": "Conoce los requisitos haciendo click aquí",
+        "url": "https://portal.sat.gob.gt/portal/project/devolucion-de-pagos-indebidos/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Devolucion-de-pagos-indebidos-celeste-1-e1689870281677.jpg",
+        "categories": [
+          "category-15577"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/58ff57f4-Devolucion-de-pagos-indebidos-celeste-1-e1689870281677.jpg"
+      },
+      {
+        "id": "Distintivos Electrónicos (Título de propiedad y Tarjeta de Circulación)",
+        "title": "Distintivos Electrónicos (Título de propiedad y Tarjeta de Circulación)",
+        "description": "Infórmate sobre cómo imprimir los distintivos de tu vehículo",
+        "url": "https://portal.sat.gob.gt/portal/project/distintivos-electronicos-titulo-de-propiedad-y-tarjeta-de-circulacion/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Distintivos-electronicos-Titulo-de-propiedad-y-tarjeta-de-circulacion.jpg",
+        "categories": [
+          "category-15579"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/a99a2f9d-Distintivos-electronicos-Titulo-de-propiedad-y-tarjeta-de-circulacion.jpg"
+      },
+      {
+        "id": "Económico Coactivo",
+        "title": "Económico Coactivo",
+        "description": "Encuentra aquí el listado de contribuyentes morosos.",
+        "url": "https://portal.sat.gob.gt/portal/project/economico-coactivo/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Economico-coactivo-CELESTE.jpg",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/2d77b7f3-Economico-coactivo-CELESTE.jpg"
+      },
+      {
+        "id": "Estado de Gestión de  Agencia Virtual",
+        "title": "Estado de Gestión de Agencia Virtual",
+        "description": "Verifica aquí el estado de tu gestión de tu Agencia Virtual",
+        "url": "https://portal.sat.gob.gt/portal/project/estado-de-gestion-de-rtu-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/11/ESTADO-DE-GESTION-AV-AZUL.png",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/bcb1a70a-ESTADO-DE-GESTION-AV-AZUL.png"
+      },
+      {
+        "id": "Estado de Gestión de RTU",
+        "title": "Estado de Gestión de RTU",
+        "description": "Verifica aquí el estado de tu gestión de tu RTU",
+        "url": "https://portal.sat.gob.gt/portal/project/estado-de-gestion-de-rtu-consultas-frecuente/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Celeste-RTU-DIGITAL.jpg",
+        "categories": [
+          "category-15575"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/816da339-Celeste-RTU-DIGITAL.jpg"
+      },
+      {
+        "id": "Estado de Gestión de RTU",
+        "title": "Estado de Gestión de RTU",
+        "description": "Verifica aquí el estado de tu gestión de tu RTU",
+        "url": "https://portal.sat.gob.gt/portal/project/estado-de-gestion-de-rtu/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Celeste-RTU-DIGITAL.jpg",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/816da339-Celeste-RTU-DIGITAL.jpg"
+      },
+      {
+        "id": "Expertaje de Vehículos",
+        "title": "Expertaje de Vehículos",
+        "description": "Consulta la información de su expertaje en SAT",
+        "url": "https://portal.sat.gob.gt/portal/project/expertaje-de-vehiculos/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Expertaje-de-Vehiculo.jpg",
+        "categories": [
+          "category-15581"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/1002500c-Expertaje-de-Vehiculo.jpg"
+      },
+      {
+        "id": "Factura Electrónica",
+        "title": "Factura Electrónica",
+        "description": "Aprende sobre la emisión, transmisión, certificación y conservación de los documentos tributarios electrónicos",
+        "url": "https://portal.sat.gob.gt/portal/project/factura-electronica-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Factura-Electrónica-1-e1689870532806.jpg",
+        "categories": [
+          "category-15575"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/5287a436-Factura-Electronica-1-e1689870532806.jpg"
+      },
+      {
+        "id": "Factura Electrónica",
+        "title": "Factura Electrónica",
+        "description": "Aprende sobre la emisión, transmisión, certificación y conservación de los documentos tributarios electrónicos",
+        "url": "https://portal.sat.gob.gt/portal/project/factura-electronica/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Factura-Electrónica-1-e1689870532806.jpg",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/5287a436-Factura-Electronica-1-e1689870532806.jpg"
+      },
+      {
+        "id": "Formas de pago de impuestos",
+        "title": "Formas de pago de impuestos",
+        "description": "Encuentra las formas y los bancos del sistema autorizados para realizar tu pago.",
+        "url": "https://portal.sat.gob.gt/portal/project/otras-formas-de-pago/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Otras-formas-de-pago-celeste.jpg",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/b0664cbb-Otras-formas-de-pago-celeste.jpg"
+      },
+      {
+        "id": "Imprentas Inscritas",
+        "title": "Imprentas Inscritas",
+        "description": "Consulta de Imprentas Inscritas en el Registro Fiscal de Imprentas",
+        "url": "https://portal.sat.gob.gt/portal/project/imprentas-inscritas/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Imprentas-inscritas.jpg",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/a1eed212-Imprentas-inscritas.jpg"
+      },
+      {
+        "id": "Impresión de RTU",
+        "title": "Impresión de RTU",
+        "description": "Imprime aquí tu constancia de inscripción y/o actualización de datos al RTU",
+        "url": "https://portal.sat.gob.gt/portal/project/impresion-de-rtu-consultas-frecuentes/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/IMPRESION-DE-RTU-celeste.jpg",
+        "categories": [
+          "category-15575"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/939585f4-IMPRESION-DE-RTU-celeste.jpg"
+      },
+      {
+        "id": "Impresión de RTU",
+        "title": "Impresión de RTU",
+        "description": "Imprime aquí tu constancia de inscripción y/o actualización de datos al RTU",
+        "url": "https://portal.sat.gob.gt/portal/project/impresion-de-rtu/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/IMPRESION-DE-RTU-celeste.jpg",
+        "categories": [
+          "category-15579"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/939585f4-IMPRESION-DE-RTU-celeste.jpg"
+      },
+      {
+        "id": "Informe Electrónico de Compras y Ventas",
+        "title": "Informe Electrónico de Compras y Ventas",
+        "description": "Encuentra información para presentar informes de compras y ventas",
+        "url": "https://portal.sat.gob.gt/portal/project/asistente-para-libros-de-compras-y-ventas-electronicos/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/02/icono-servicios-informe-electronico-de-compras-y-ventas-06.png",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/3d24e7a9-icono-servicios-informe-electronico-de-compras-y-ventas-06.png"
+      },
+      {
+        "id": "IVA/ IPRIMA",
+        "title": "IVA/ IPRIMA",
+        "description": "Consulta para verificar el valor de su Vehículo para el Pago del IVA e IPRIMA",
+        "url": "https://portal.sat.gob.gt/portal/project/iva-iprima-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/IVA-IPRIMA-celeste-1.jpg",
+        "categories": [
+          "category-15581"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/c8dd2173-IVA-IPRIMA-celeste-1.jpg"
+      },
+      {
+        "id": "Libro Electrónico Tributario",
+        "title": "Libro Electrónico Tributario",
+        "description": "Sistema de Libro de Compras y Ventas para el cumplimiento de tus obligaciones",
+        "url": "https://portal.sat.gob.gt/portal/project/libro-electronico-tributario-let/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Celeste-LET.jpg",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/edbff630-Celeste-LET.jpg"
+      },
+      {
+        "id": "Morosos ISCV",
+        "title": "Morosos ISCV",
+        "description": "Consulta si te encuentras en estado «moroso» del Impuesto de Circulación de Vehículos",
+        "url": "https://portal.sat.gob.gt/portal/project/morosos-iscv-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Morosos-ISCV.jpg",
+        "categories": [
+          "category-15581"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/8980092b-Morosos-ISCV.jpg"
+      },
+      {
+        "id": "Multas de Tránsito",
+        "title": "Multas de Tránsito",
+        "description": "Consulta si tienes alguna multa por parte de la Policía de tránsito que corresponda.",
+        "url": "https://portal.sat.gob.gt/portal/project/multas-de-transito-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Multas-de-transito-celeste.jpg",
+        "categories": [
+          "category-15581"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/7b5ae6a7-Multas-de-transito-celeste.jpg"
+      },
+      {
+        "id": "NIT Pequeño Contribuyente",
+        "title": "NIT Pequeño Contribuyente",
+        "description": "Consulta aquí si estas inscrito en el régimen de pequeño contribuyente",
+        "url": "https://portal.sat.gob.gt/portal/project/nit-pequeno-contribuyente/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/NIT-pequeno-contribuyente-celeste-e1689870772118.jpg",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/f64760c8-NIT-pequeno-contribuyente-celeste-e1689870772118.jpg"
+      },
+      {
+        "id": "Patentados Fiscales Web",
+        "title": "Patentados Fiscales Web",
+        "description": "Patentados Fiscales Web ofrece soluciones digitales para la gestión tributaria y fiscal",
+        "url": "https://portal.sat.gob.gt/portal/project/patentados-fiscales-web/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/01/Consulta-titulos-azul.png",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/ffdb5013-Consulta-titulos-azul.png"
+      },
+      {
+        "id": "Planilla IVA-FEL",
+        "title": "Planilla IVA-FEL",
+        "description": "Conoce los pasos para presentar tu Planilla de IVA – FEL",
+        "url": "https://portal.sat.gob.gt/portal/project/planilla-iva-fel/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/01/Planilla-IVA-FEL-azul-e1689870857641.jpg",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/e15b87e1-Planilla-IVA-FEL-azul-e1689870857641.jpg"
+      },
+      {
+        "id": "Razón Electrónica Timbres Fiscales",
+        "title": "Razón Electrónica Timbres Fiscales",
+        "description": "Consulta el pago del Impuesto de Timbres Fiscales y Tarifa Específica",
+        "url": "https://portal.sat.gob.gt/portal/project/razon-electronica-timbres-fiscales/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/09/Razon-Electronica-timbres-fiscales.jpg",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/0eac08b7-Razon-Electronica-timbres-fiscales.jpg"
+      },
+      {
+        "id": "Recuperación de Contraseña de Agencia Virtual",
+        "title": "Recuperación de Contraseña de Agencia Virtual",
+        "description": "Ingresa aquí si no recuerdas tu contraseña para Agencia Virtual",
+        "url": "https://portal.sat.gob.gt/portal/project/recuperacion-de-contrasena-de-agencia-virtual/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Recuperacion-de-contrasena-de-AV.jpg",
+        "categories": [
+          "category-15577"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/665189fb-Recuperacion-de-contrasena-de-AV.jpg"
+      },
+      {
+        "id": "Reporte Semestral de Inventarios",
+        "title": "Reporte Semestral de Inventarios",
+        "description": "Herramienta Reporte Semestral de Inventarios desde la Agencia Virtual",
+        "url": "https://portal.sat.gob.gt/portal/project/reporte-semestral-de-inventarios/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/06/RSI-azul.png",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/0042a71d-RSI-azul.png"
+      },
+      {
+        "id": "Requisitos gestiones Persona/Empresa",
+        "title": "Requisitos gestiones Persona/Empresa",
+        "description": "Ingresa aquí para ver los requisitos para tus gestiones en RTU",
+        "url": "https://portal.sat.gob.gt/portal/project/requisitos-para-tramites/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Requisitos-para-trámites.jpg",
+        "categories": [
+          "category-15599"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/1eb642e1-Requisitos-para-tramites.jpg"
+      },
+      {
+        "id": "Requisitos gestiones vehículos para Propietarios",
+        "title": "Requisitos gestiones vehículos para Propietarios",
+        "description": "Verifica los requisitos indispensables como propietario para realizar tus gestiones",
+        "url": "https://portal.sat.gob.gt/portal/project/requisitos-para-tramites-de-propietarios/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Requisitos-para-tramites-de-propietarios-celeste.jpg",
+        "categories": [
+          "category-15599"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/bed54467-Requisitos-para-tramites-de-propietarios-celeste.jpg"
+      },
+      {
+        "id": "RTU Digital",
+        "title": "RTU Digital",
+        "description": "Solicitud de NIT, actualización de datos y cese de actividades comerciales y/o de servicios.",
+        "url": "https://portal.sat.gob.gt/portal/project/rtu-digital-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/RTU-DIGITAL-celeste.jpg",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/3689f6e3-RTU-DIGITAL-celeste.jpg"
+      },
+      {
+        "id": "Sistema Retenciones Web -ICT-",
+        "title": "Sistema Retenciones Web -ICT-",
+        "description": "Es el Sistema que tienen a disposición todas las personas individuales o jurídicas afiliadas al Impuesto a la Confianza Tributaria",
+        "url": "https://portal.sat.gob.gt/portal/project/sistema-retenciones-web-ict/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/05/Retenciones-ITC-Azul.png",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/7b2cd3ef-Retenciones-ITC-Azul.png"
+      },
+      {
+        "id": "Sistema Retenciones Web -ISR-",
+        "title": "Sistema Retenciones Web -ISR-",
+        "description": "Permite a los agentes acceder a facturas electrónicas para realizar retenciones",
+        "url": "https://portal.sat.gob.gt/portal/project/sistema-retenciones-web-isr/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Retenciones-web-isr-Celeste-e1689871038330.png",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/e3d31978-Retenciones-web-isr-Celeste-e1689871038330.png"
+      },
+      {
+        "id": "Sistema Retenciones Web -ISR-",
+        "title": "Sistema Retenciones Web -ISR-",
+        "description": "Permite a los Agentes de Retención retener el impuesto correspondiente a No Residentes sin establecimiento permanente",
+        "url": "https://portal.sat.gob.gt/portal/project/sistema-de-retenciones-web-isr-no-residentes/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/02/RETENCIONES-WEB-NO-RESIDENTES-AZUL.png",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/28f50d60-RETENCIONES-WEB-NO-RESIDENTES-AZUL.png"
+      },
+      {
+        "id": "Sistema Retenciones Web -IVA-",
+        "title": "Sistema Retenciones Web -IVA-",
+        "description": "Permite a los agentes designados por la SAT retener el impuesto correspondientes",
+        "url": "https://portal.sat.gob.gt/portal/project/sistema-retenciones-web-iva/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Retenciones-web-iva-Celeste-e1689870982548.png",
+        "categories": [
+          "category-15578"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/16b856f3-Retenciones-web-iva-Celeste-e1689870982548.png"
+      },
+      {
+        "id": "Solicitar NIT",
+        "title": "Solicitar NIT",
+        "description": "El siguiente paso es el registro como nuevo contribuyente en la administración tributaria correspondiente",
+        "url": "https://portal.sat.gob.gt/portal/project/solicitar-nit-consultas-frecuentes/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2024/09/Primer-NIT-Azul.png",
+        "categories": [
+          "category-15575"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/e18bb3ae-Primer-NIT-Azul.png"
+      },
+      {
+        "id": "Solvencia Fiscal",
+        "title": "Solvencia Fiscal",
+        "description": "Solicita tu Solvencia Fiscal en línea haciendo click aquí.",
+        "url": "https://portal.sat.gob.gt/portal/project/solvencia-fiscal/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Solvencia-Fiscal-celeste.jpg",
+        "categories": [
+          "category-15577"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/dd445060-Solvencia-Fiscal-celeste.jpg"
+      },
+      {
+        "id": "Tablas y acuerdos",
+        "title": "Tablas y acuerdos",
+        "description": "Consulta la tabla de valores y los acuerdos sobre los impuestos aplicados a Vehículos",
+        "url": "https://portal.sat.gob.gt/portal/project/tablas-y-acuerdos-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Tablas-y-acuerdos.jpg",
+        "categories": [
+          "category-15581"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/770b5758-Tablas-y-acuerdos.jpg"
+      },
+      {
+        "id": "Terceros Autorizados",
+        "title": "Terceros Autorizados",
+        "description": "Consulta de Datos del Gestor Tributario o Auxiliar de Gestor Tributario",
+        "url": "https://portal.sat.gob.gt/portal/project/terceros-autorizados/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/12/Terceros-Autorizados.png",
+        "categories": [
+          "category-15581"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/1c22c0eb-Terceros-Autorizados.png"
+      },
+      {
+        "id": "Títulos Universitarios",
+        "title": "Títulos Universitarios",
+        "description": "Registro y Habilitación de Títulos para Ejercer Profesión",
+        "url": "https://portal.sat.gob.gt/portal/project/titulos-universitarios/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Titulos-universitarios.jpg",
+        "categories": [
+          "category-15579"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/689f5820-Titulos-universitarios.jpg"
+      },
+      {
+        "id": "Uso Comercial no Inscritos IVA",
+        "title": "Uso Comercial no Inscritos IVA",
+        "description": "Consulta si formas parte de este grupo de contribuyentes",
+        "url": "https://portal.sat.gob.gt/portal/project/uso-comercial-no-inscritos-iva/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Uso-comercial-no-inscritos-IVA.jpg",
+        "categories": [
+          "category-15581"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/15dad431-Uso-comercial-no-inscritos-IVA.jpg"
+      },
+      {
+        "id": "Verificador Integrado",
+        "title": "Verificador Integrado",
+        "description": "Consulta Omisos y la situación de un emisor de factura ante la SAT",
+        "url": "https://portal.sat.gob.gt/portal/project/verificador-integrado-consulta-frecuente/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Verificador-integrado-celeste-e1689871387501.jpg",
+        "categories": [
+          "category-15575"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/00d19be5-Verificador-integrado-celeste-e1689871387501.jpg"
+      },
+      {
+        "id": "Verificador Integrado",
+        "title": "Verificador Integrado",
+        "description": "Consulta Omisos y la situación de un emisor de factura ante la SAT",
+        "url": "https://portal.sat.gob.gt/portal/project/verificador-integrado/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Verificador-integrado-celeste-e1689871387501.jpg",
+        "categories": [
+          "category-15580"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/00d19be5-Verificador-integrado-celeste-e1689871387501.jpg"
+      }
+    ]
+  },
+  "customs": {
+    "categories": [
+      {
+        "name": "Exportación",
+        "id": "category-15583",
+        "url": "https://portal.sat.gob.gt/portal/?term=exportacion",
+        "default": true
+      },
+      {
+        "name": "Facilitación de Comercio",
+        "id": "category-15585",
+        "url": "https://portal.sat.gob.gt/portal/?term=facilitacion-de-comercio",
+        "default": false
+      },
+      {
+        "name": "Gestiones Aduaneras",
+        "id": "category-15586",
+        "url": "https://portal.sat.gob.gt/portal/?term=gestiones-aduaneras",
+        "default": false
+      },
+      {
+        "name": "Gestiones de Mercancías",
+        "id": "category-15591",
+        "url": "https://portal.sat.gob.gt/portal/?term=gestiones-de-mercancias",
+        "default": false
+      },
+      {
+        "name": "Importación",
+        "id": "category-15582",
+        "url": "https://portal.sat.gob.gt/portal/?term=importacion",
+        "default": false
+      },
+      {
+        "name": "Lucha contra la Defraudación y Contrabando Aduaneros",
+        "id": "category-15598",
+        "url": "https://portal.sat.gob.gt/portal/?term=lucha-contra-la-defraudacion-y-contrabando-aduaneros",
+        "default": false
+      },
+      {
+        "name": "Marco Legal",
+        "id": "category-15584",
+        "url": "https://portal.sat.gob.gt/portal/?term=marco-legal",
+        "default": false
+      },
+      {
+        "name": "MIAD",
+        "id": "category-15854",
+        "url": "https://portal.sat.gob.gt/portal/?term=miad",
+        "default": false
+      }
+    ],
+    "cards": [
+      {
+        "id": "-PCI- Puestos de Control Interinstitucional",
+        "title": "-PCI- Puestos de Control Interinstitucional",
+        "description": "Una medida guatemalteca para fortalecer controles y cumplimiento en beneficio nacional",
+        "url": "https://portal.sat.gob.gt/portal/project/pci-puestos-de-control-interinstitucional/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/06/puesto-de-control-celeste.png",
+        "categories": [
+          "category-15598"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/5f460be9-puesto-de-control-celeste.png"
+      },
+      {
+        "id": "Actuaciones Conjuntas",
+        "title": "Actuaciones Conjuntas",
+        "description": "Ingresa aquí para descargar convenios y protocolos sobre actuaciones en conjunto con otras instituciones.",
+        "url": "https://portal.sat.gob.gt/portal/project/actuaciones-conjuntas/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Actuaciones-conjuntas.jpg",
+        "categories": [
+          "category-15584"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/eb2c52bc-Actuaciones-conjuntas.jpg"
+      },
+      {
+        "id": "Acuerdo de Facilitación del Comercio OMC",
+        "title": "Acuerdo de Facilitación del Comercio OMC",
+        "description": "Descarga y verifica el Acuerdo de Facilitación de Comercio -OMC-",
+        "url": "https://portal.sat.gob.gt/portal/project/operador-economico-autorizado-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/21_Acuerdo_de_Facilitacion_de_Comercio–OMC-1-2.jpg",
+        "categories": [
+          "category-15585"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/e452564b-21_Acuerdo_de_Facilitacion_de_ComercioOMC-1-2.jpg"
+      },
+      {
+        "id": "Aduana Sin Papeles",
+        "title": "Aduana Sin Papeles",
+        "description": "Digitalización de las Declaraciones de Mercancías para la eliminación papel",
+        "url": "https://portal.sat.gob.gt/portal/project/aduana-sin-papeles/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/21_Aduana_sin_papeles-1.jpg",
+        "categories": [
+          "category-15585"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/9917d7e6-21_Aduana_sin_papeles-1.jpg"
+      },
+      {
+        "id": "Autorización de Lista de Embarque",
+        "title": "Autorización de Lista de Embarque",
+        "description": "Pasos y requisitos para obtener la lista de embarque firmada y sellada por un funcionario de SAT",
+        "url": "https://portal.sat.gob.gt/portal/project/autorizacion-de-lista-de-embarque-2-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/11_Autorizacion_de_Lista_de_Embarque-2.jpg",
+        "categories": [
+          "category-15583"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/a5d08bb7-11_Autorizacion_de_Lista_de_Embarque-2.jpg"
+      },
+      {
+        "id": "Auxiliares de la Función Pública Aduanera",
+        "title": "Auxiliares de la Función Pública Aduanera",
+        "description": "Descarga aquí el listado autorizado",
+        "url": "https://portal.sat.gob.gt/portal/project/auxiliares-de-la-funcion-publica-aduanera-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/15_Auxiliares_de_la_Funcion_Publica_Aduaneras-2.jpg",
+        "categories": [
+          "category-15586"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/efff06f9-15_Auxiliares_de_la_Funcion_Publica_Aduaneras-2.jpg"
+      },
+      {
+        "id": "Catálogo de Permisos / Arancel Integrado",
+        "title": "Catálogo de Permisos / Arancel Integrado",
+        "description": "Visualiza de forma integral la información arancelaria asociada a una mercancía específica.",
+        "url": "https://portal.sat.gob.gt/portal/project/catalogo-de-permisos-arancel-integrado/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Catalogo-de-PermisosArancel-Integrado.jpg",
+        "categories": [
+          "category-15585"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/252f006f-Catalogo-de-PermisosArancel-Integrado.jpg"
+      },
+      {
+        "id": "Componente Infraestructura",
+        "title": "Componente Infraestructura",
+        "description": "Conoce aquí sobre las mejoras sustanciales de las instalaciones aduaneras.",
+        "url": "https://portal.sat.gob.gt/portal/project/componente-infraestructura/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Infraestructura-2.jpg",
+        "categories": [
+          "category-15854"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/6697edf7-Componente-Infraestructura-2.jpg"
+      },
+      {
+        "id": "Componente Procesos",
+        "title": "Componente Procesos",
+        "description": "Conoce sobre el rediseño de los procedimientos aduaneros para simplificar y transparentar las gestiones de los usuarios.",
+        "url": "https://portal.sat.gob.gt/portal/project/componente-procesos/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Procesos-1.jpg",
+        "categories": [
+          "category-15854"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/6fe72471-Componente-Procesos-1.jpg"
+      },
+      {
+        "id": "Componente Recursos",
+        "title": "Componente Recursos",
+        "description": "Conoce aquí las acciones de fortalecimiento de las capacidades del capital humano.",
+        "url": "https://portal.sat.gob.gt/portal/project/componente-recursos/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Recursos.jpg",
+        "categories": [
+          "category-15854"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/dbd3a5d7-Componente-Recursos.jpg"
+      },
+      {
+        "id": "Componente Seguridad",
+        "title": "Componente Seguridad",
+        "description": "Aquí podrás encontrar las acciones relacionadas al resguardo de las zonas primarias de control aduanero.",
+        "url": "https://portal.sat.gob.gt/portal/project/componente-seguridad/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Seguridad-2.jpg",
+        "categories": [
+          "category-15854"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/1a70639a-Componente-Seguridad-2.jpg"
+      },
+      {
+        "id": "Componente Tecnología",
+        "title": "Componente Tecnología",
+        "description": "Conoce las herramientas informáticas destinadas al control aduanero.",
+        "url": "https://portal.sat.gob.gt/portal/project/componente-tecnologia/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Tecnologia-1.jpg",
+        "categories": [
+          "category-15854"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/94ec7603-Componente-Tecnologia-1.jpg"
+      },
+      {
+        "id": "Conceptos Generales",
+        "title": "Conceptos Generales",
+        "description": "Encuentra aquí conceptos generales a tomar en cuenta",
+        "url": "https://portal.sat.gob.gt/portal/project/conceptos-generales-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/1_Icono_conceptos_generales.jpg",
+        "categories": [
+          "category-15582"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/68f9835b-1_Icono_conceptos_generales.jpg"
+      },
+      {
+        "id": "Consideraciones Para Hacer Tu Compra",
+        "title": "Consideraciones Para Hacer Tu Compra",
+        "description": "Encuentra aquí aspectos relevantes a tomar en cuenta",
+        "url": "https://portal.sat.gob.gt/portal/project/consideraciones-para-hacer-tu-compra-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/2_Icono_Consideraciones-para-hacer-tu-compra-3.jpg",
+        "categories": [
+          "category-15582"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/27f6b5d5-2_Icono_Consideraciones-para-hacer-tu-compra-3.jpg"
+      },
+      {
+        "id": "Consideraciones Para Hacer Tu Envío Vía Aérea",
+        "title": "Consideraciones Para Hacer Tu Envío Vía Aérea",
+        "description": "Encuentra aquí aspectos relevantes a tomar en cuenta",
+        "url": "https://portal.sat.gob.gt/portal/project/consideraciones-para-hacer-tu-envio-via-aerea-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/3_Consideraciones_para_hacer_tu_envío_vía_aerea-1.jpg",
+        "categories": [
+          "category-15582"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/24e13d89-3_Consideraciones_para_hacer_tu_envio_via_aerea-1.jpg"
+      },
+      {
+        "id": "Consultas de Aduanas",
+        "title": "Consultas de Aduanas",
+        "description": "Realiza tus consultas",
+        "url": "https://portal.sat.gob.gt/portal/project/gestion-de-riesgo-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/06/3-30.png",
+        "categories": [
+          "category-15586"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/49fac36d-3-30.png"
+      },
+      {
+        "id": "Convenios Aduaneros",
+        "title": "Convenios Aduaneros",
+        "description": "Descarga aquí todos los convenios aduaneros vigentes",
+        "url": "https://portal.sat.gob.gt/portal/project/convenios-aduaneros/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Convenios-Aduaneros-2.jpg",
+        "categories": [
+          "category-15585",
+          "category-15584"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/d4a543fc-Convenios-Aduaneros-2.jpg"
+      },
+      {
+        "id": "Declaración Anticipada",
+        "title": "Declaración Anticipada",
+        "description": "Requisitos para la Declaración Anticipada y la Base Legal (Resoluciones de Instancia Ministerial)",
+        "url": "https://portal.sat.gob.gt/portal/project/declaracion-anticipada/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Declaracion-Anticipada-2.jpg",
+        "categories": [
+          "category-15585"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/d4f7d3aa-Declaracion-Anticipada-2.jpg"
+      },
+      {
+        "id": "Declaración de Mercancías",
+        "title": "Declaración de Mercancías",
+        "description": "Ingrese aquí para consultar Declaraciones de Mercancías",
+        "url": "https://portal.sat.gob.gt/portal/project/declaracion-de-mercancias/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/20_Declaracion_de_mercancias-1.jpg",
+        "categories": [
+          "category-15591"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/9ba89e5b-20_Declaracion_de_mercancias-1.jpg"
+      },
+      {
+        "id": "Declaración Jurada Regional de Viajero",
+        "title": "Declaración Jurada Regional de Viajero",
+        "description": "DJRV Declaración Jurada Regional de Viajero Electrónica",
+        "url": "https://portal.sat.gob.gt/portal/project/declaracion-jurada-regional-de-viajero/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/07/DJRV-CELESTE.png",
+        "categories": [
+          "category-15586"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/de58aa3b-DJRV-CELESTE.png"
+      },
+      {
+        "id": "Declaraciones Complementarias",
+        "title": "Declaraciones Complementarias",
+        "description": "Consulta el reporte de Declaraciones Rechazadas y Simplificadas.",
+        "url": "https://portal.sat.gob.gt/portal/project/consulta-de-declaraciones-complementarias-2-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/10_Consulta_de_declaraciones_complementarias.jpg",
+        "categories": [
+          "category-15583"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/3d1bde69-10_Consulta_de_declaraciones_complementarias.jpg"
+      },
+      {
+        "id": "Documentos de Orientación para Gestiones Aduaneras",
+        "title": "Documentos de Orientación para Gestiones Aduaneras",
+        "description": "Descarga aquí los documentos de orientación para gestiones aduaneras",
+        "url": "https://portal.sat.gob.gt/portal/project/documentos-de-orientacion-para-gestiones-aduaneras/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Documentos-de-orientacion-para-gestiones-aduaneras.jpg",
+        "categories": [
+          "category-15586",
+          "category-15584"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/8a5bd847-Documentos-de-orientacion-para-gestiones-aduaneras.jpg"
+      },
+      {
+        "id": "Documentos Guía de Manifiestos de Carga",
+        "title": "Documentos Guía de Manifiestos de Carga",
+        "description": "Descarga aquí todos los documentos guía de Manifiestos de carga vigentes",
+        "url": "https://portal.sat.gob.gt/portal/project/documentos-guia-de-manifiestos-de-carga/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Documentos-guia-de-Manifiestos-de-Carga-1.jpg",
+        "categories": [
+          "category-15584"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/426afde2-Documentos-guia-de-Manifiestos-de-Carga-1.jpg"
+      },
+      {
+        "id": "Estrategia Centroamericana del Facilitación de Comercio y Competitividad",
+        "title": "Estrategia Centroamericana del Facilitación de Comercio y Competitividad",
+        "description": "Accede aquí para conocer y descargar información fácilmente",
+        "url": "https://portal.sat.gob.gt/portal/project/estrategia-centroamericana-de-facilitacion-de-comercio-y-competitividad/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Estrategia-Centroamericana-de-Facilitacion-de-Comercio-y-Competitividad-1.jpg",
+        "categories": [
+          "category-15585"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/94cef7a2-Estrategia-Centroamericana-de-Facilitacion-de-Comercio-y-Competitividad-1.jpg"
+      },
+      {
+        "id": "Estudio de Tiempos de Despacho",
+        "title": "Estudio de Tiempos de Despacho",
+        "description": "Estudio y el Plan de Acción Nacional para la Reducción de Tiempos de Despacho",
+        "url": "https://portal.sat.gob.gt/portal/project/estudio-de-tiempos-de-despacho/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/23_Estudio_de_Tiempos_de_Despacho.jpg",
+        "categories": [
+          "category-15585"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/be539f1d-23_Estudio_de_Tiempos_de_Despacho.jpg"
+      },
+      {
+        "id": "Foliares",
+        "title": "Foliares",
+        "description": "Descarga aquí todos los foliares aduaneros vigentes",
+        "url": "https://portal.sat.gob.gt/portal/project/foliares/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Foliares-2.jpg",
+        "categories": [
+          "category-15584"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/65f8768a-Foliares-2.jpg"
+      },
+      {
+        "id": "Formatos",
+        "title": "Formatos",
+        "description": "Descarga aquí todos los formatos aduaneros vigentes",
+        "url": "https://portal.sat.gob.gt/portal/project/formatos/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Formatos.jpg",
+        "categories": [
+          "category-15584"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/f7f82413-Formatos.jpg"
+      },
+      {
+        "id": "Formularios y Documentos para Importación, Exportación y Tránsito de Mercancías",
+        "title": "Formularios y Documentos para Importación, Exportación y Tránsito de Mercancías",
+        "description": "Descarga los formatos esenciales para tus gestiones aduaneras",
+        "url": "https://portal.sat.gob.gt/portal/project/formularios-y-documentos-para-la-importacion-exportacion-y-transito-de-mercancias/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/17_Formularios_y_documentos-utilizados_para_la_importacion_exportacion_y_transito_de_mercancias.jpg",
+        "categories": [
+          "category-15591"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/bb477beb-17_Formularios_y_documentos-utilizados_para_la_importacion_exportacion_y_transito_de_mercancias.jpg"
+      },
+      {
+        "id": "Franquicias Electrónicas",
+        "title": "Franquicias Electrónicas",
+        "description": "Proceso bajo nuevo Sistema de Franquicias Electrónicas",
+        "url": "https://portal.sat.gob.gt/portal/project/franquicia-electronica/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/12/Franquicia-anaranjada-e1689871598882.png",
+        "categories": [
+          "category-15586"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/3da98a4c-Franquicia-anaranjada-e1689871598882.png"
+      },
+      {
+        "id": "Gestiones Aduaneras",
+        "title": "Gestiones Aduaneras",
+        "description": "Conoce Procedimientos, normas, Instructivos, Guias y otros Procedimientos",
+        "url": "https://portal.sat.gob.gt/portal/project/gestiones-aduaneras/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/06/ICONO-CONSULTAS-ADUANAS-CELESTES.png",
+        "categories": [
+          "category-15586"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/167d5b13-ICONO-CONSULTAS-ADUANAS-CELESTES.png"
+      },
+      {
+        "id": "Importación de Vehículos",
+        "title": "Importación de Vehículos",
+        "description": "Descarga aquí todo lo relacionado con importación de vehículos",
+        "url": "https://portal.sat.gob.gt/portal/project/importacion-de-vehiculos-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/7_Importacion_de_Vehiculos.jpg",
+        "categories": [
+          "category-15582"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/8d1b3bd0-7_Importacion_de_Vehiculos.jpg"
+      },
+      {
+        "id": "Información y Estadísticas Aduaneras",
+        "title": "Información y Estadísticas Aduaneras",
+        "description": "Ingresa aquí para descargar información y estadísticas del comportamiento aduanero.",
+        "url": "https://portal.sat.gob.gt/portal/project/auxiliares-de-la-funcion-publica-aduanera/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/16_Informacion_y_Estadisticas_Aduaneras.jpg",
+        "categories": [
+          "category-15586"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/57eed9ba-16_Informacion_y_Estadisticas_Aduaneras.jpg"
+      },
+      {
+        "id": "Instructivos",
+        "title": "Instructivos",
+        "description": "Descarga aquí todos los instructivos aduaneros vigentes",
+        "url": "https://portal.sat.gob.gt/portal/project/instructivos/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Instructivos-1.jpg",
+        "categories": [
+          "category-15584"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/b229266c-Instructivos-1.jpg"
+      },
+      {
+        "id": "Manual de Procedimientos",
+        "title": "Manual de Procedimientos",
+        "description": "Descarga aquí todos los procedimientos aduaneros vigentes",
+        "url": "https://portal.sat.gob.gt/portal/project/manual-de-procedimientos/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Manual-de-Procedimientos-2.jpg",
+        "categories": [
+          "category-15584"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/e67c66c8-Manual-de-Procedimientos-2.jpg"
+      },
+      {
+        "id": "Manuales y Guías de Usuario",
+        "title": "Manuales y Guías de Usuario",
+        "description": "Descarga aquí todos los manuales y guías de usuario aduaneros vigentes",
+        "url": "https://portal.sat.gob.gt/portal/project/manuales-y-guias-de-usuario/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Manuales-y-Guias-de-Usuario-1.jpg",
+        "categories": [
+          "category-15584"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/aa2e7fbf-Manuales-y-Guias-de-Usuario-1.jpg"
+      },
+      {
+        "id": "Operador Económico Autorizado",
+        "title": "Operador Económico Autorizado",
+        "description": "Ingresa aquí para conocer más sobre el programa de Operador Económico Autorizado.",
+        "url": "https://portal.sat.gob.gt/portal/project/operador-economico-autorizado/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/22_Operador_economico_autorizado-2.jpg",
+        "categories": [
+          "category-15585"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/283700ba-22_Operador_economico_autorizado-2.jpg"
+      },
+      {
+        "id": "Pasos Previos a Tu Importación de Mercancías Vía Aérea",
+        "title": "Pasos Previos a Tu Importación de Mercancías Vía Aérea",
+        "description": "Encuentra aquí aspectos relevantes a tomar en cuenta",
+        "url": "https://portal.sat.gob.gt/portal/project/pasos-previos-a-tu-importacion-de-mercancias-via-aerea-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/4_Pasos_previos_a_tu_importación_de_mercancías_via_aerea-2.jpg",
+        "categories": [
+          "category-15582"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/dac89a36-4_Pasos_previos_a_tu_importacion_de_mercancias_via_aerea-2.jpg"
+      },
+      {
+        "id": "Planes de Contingencia",
+        "title": "Planes de Contingencia",
+        "description": "Encuentra aquí las directrices y resoluciones sobre los Planes de Contingencia establecidos.",
+        "url": "https://portal.sat.gob.gt/portal/project/planes-de-contingencia/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/19_Planes_de_Contingencia-2.jpg",
+        "categories": [
+          "category-15591"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/06c13383-19_Planes_de_Contingencia-2.jpg"
+      },
+      {
+        "id": "Política Nacional",
+        "title": "Política Nacional",
+        "description": "Política Nacional de Prevención y Combate de la Defraudación y el Contrabando Aduaneros",
+        "url": "https://portal.sat.gob.gt/portal/project/politica-nacional/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Politica-Nacional-1.jpg",
+        "categories": [
+          "category-15592",
+          "category-15598"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/3b0f5460-Politica-Nacional-1.jpg"
+      },
+      {
+        "id": "Presentación y Análisis de Declaraciones Complementarias de Exportación",
+        "title": "Presentación y Análisis de Declaraciones Complementarias de Exportación",
+        "description": "Visualiza el requisito aqui",
+        "url": "https://portal.sat.gob.gt/portal/project/presentacion-y-analisis-de-declaraciones-complementarias-de-exportacion-2/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/13_Presentación_y_Análisis_de_Declaraciones_Complementarias_de_Exportacion-1.jpg",
+        "categories": [
+          "category-15583"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/8d09de9e-13_Presentacion_y_Analisis_de_Declaraciones_Complementarias_de_Exportacion-1.jpg"
+      },
+      {
+        "id": "Procedimientos Administrativos",
+        "title": "Procedimientos Administrativos",
+        "description": "Descarga aquí todos los procedimientos administrativos vigentes",
+        "url": "https://portal.sat.gob.gt/portal/project/procedimientos-administrativos/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Procedimientos-Administrativos.jpg",
+        "categories": [
+          "category-15584"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/58772b30-Procedimientos-Administrativos.jpg"
+      },
+      {
+        "id": "Requisitos Gestiones en Aduanas",
+        "title": "Requisitos Gestiones en Aduanas",
+        "description": "Ingresa aquí para conocer los requisitos de distintos procesos aduanales.",
+        "url": "https://portal.sat.gob.gt/portal/project/requisitos-aduanas/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Formatos-2.jpg",
+        "categories": [
+          "category-15586"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/1db64c49-Formatos-2.jpg"
+      },
+      {
+        "id": "Selectivo de Declaraciones de Exportación",
+        "title": "Selectivo de Declaraciones de Exportación",
+        "description": "Ingresa aquí para consultar el selectivo asignado a su declaración",
+        "url": "https://portal.sat.gob.gt/portal/project/selectivo-de-declaraciones-de-exportacion/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/12_Selectivo_de_Declaraciones_de_Exportación-2.jpg",
+        "categories": [
+          "category-15583"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/b42e920f-12_Selectivo_de_Declaraciones_de_Exportacion-2.jpg"
+      },
+      {
+        "id": "Subastas y Donaciones Aduaneras",
+        "title": "Subastas y Donaciones Aduaneras",
+        "description": "Conoce sobre las subastas públicas aduaneras por región así como las mercancías disponibles para donación.",
+        "url": "https://portal.sat.gob.gt/portal/project/subastas-y-donaciones-aduaneras/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/18_Subastas_y_Donaciones_Aduaneras-1.jpg",
+        "categories": [
+          "category-15591"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/97da23c5-18_Subastas_y_Donaciones_Aduaneras-1.jpg"
+      },
+      {
+        "id": "Unión Aduanera",
+        "title": "Unión Aduanera",
+        "description": "Resoluciones y procedimientos de la Unión Aduanera entre Guatemala y Honduras",
+        "url": "https://portal.sat.gob.gt/portal/project/union-aduanera/",
+        "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/04/union-aduanera-celeste.png",
+        "categories": [
+          "category-15585"
+        ],
+        "initiallyVisible": true,
+        "image": "/assets/6b1233ee-union-aduanera-celeste.png"
+      }
+    ]
+  },
+  "training": [
+    {
+      "title": "Sobre la SAT",
+      "widgetId": "6ca349a",
+      "description": "> ¿Qué es la SAT? > Órganos y Dependencias > Altos Funcionarios > Memoria de Labores > Criterios Institucionales > Revista Panorama Tributario",
+      "links": [
+        {
+          "title": "¿Qué es la SAT?",
+          "url": "https://portal.sat.gob.gt/portal/que-es-la-sat/"
+        },
+        {
+          "title": "Órganos y Dependencias",
+          "url": "https://portal.sat.gob.gt/portal/organos-y-dependencias-sat/"
+        },
+        {
+          "title": "Altos Funcionarios",
+          "url": "https://portal.sat.gob.gt/portal/altos-funcionarios/"
+        },
+        {
+          "title": "Memoria de Labores",
+          "url": "https://portal.sat.gob.gt/portal/memoria-de-labores/"
+        },
+        {
+          "title": "Criterios Institucionales",
+          "url": "https://portal.sat.gob.gt/portal/criterios-institucionales/"
+        },
+        {
+          "title": "Revista Panorama Tributario",
+          "url": "https://portal.sat.gob.gt/portal/revista-panorama-tributario/"
+        }
+      ],
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-21.png",
+      "image": "/assets/d7442088-Mesa-de-trabajo-21.png"
+    },
+    {
+      "title": "Capacitaciones",
+      "widgetId": "3c0f92e",
+      "description": "> Calendario de Capacitaciones > Solicitud de Capacitaciones > Diplomados Virtuales > Cursos Virtuales > Eventos grabados",
+      "links": [
+        {
+          "title": "Calendario de Capacitaciones",
+          "url": "https://portal.sat.gob.gt/portal/events/"
+        },
+        {
+          "title": "Solicitud de Capacitaciones",
+          "url": "https://forms.gle/eoHRdK74tUfX9Q259"
+        },
+        {
+          "title": "Diplomados Virtuales",
+          "url": "https://portal.sat.gob.gt/portal/capacitaciones/capacitacion-virtual/diplomados-virtuales/"
+        },
+        {
+          "title": "Cursos Virtuales",
+          "url": "https://sites.google.com/capacitacionessat.page/cultura-tributariad/cursos-virtuales-sat"
+        },
+        {
+          "title": "Eventos grabados",
+          "url": "https://portal.sat.gob.gt/portal/capacitaciones/capacitacion-virtual/videos-introductorios-temas-tributarios/"
+        }
+      ],
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Recurso-2.svg",
+      "image": "/assets/154e7028-Recurso-2.svg",
+      "backgroundSize": "69% auto"
+    },
+    {
+      "title": "Cultura Tributaria",
+      "widgetId": "010e7fb",
+      "description": "> NAF > Proyección Educativa > Solicitud de Actividades > Videos Educativos > Recursos Educativos",
+      "links": [
+        {
+          "title": "NAF",
+          "url": "https://portal.sat.gob.gt/portal/nucleos-de-apoyo-contable-y-fiscal-naf/"
+        },
+        {
+          "title": "Proyección Educativa",
+          "url": "https://portal.sat.gob.gt/portal/educacion/"
+        },
+        {
+          "title": "Solicitud de Actividades",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScCxvGsehcWigqXjUu4yH5KwFZF-HDCrOwY-zL8SqwWhuZ-fQ/viewform"
+        },
+        {
+          "title": "Videos Educativos",
+          "url": "https://sites.google.com/capacitacionessat.page/videos-educativos/p%C3%A1gina-principal/"
+        },
+        {
+          "title": "Recursos Educativos",
+          "url": "https://sites.google.com/capacitacionessat.page/capacitaciones-a-centros-educa/p%C3%A1gina-principal"
+        }
+      ],
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Iconocultura-tributaria.svg",
+      "image": "/assets/6308af01-Iconocultura-tributaria.svg",
+      "backgroundSize": "90% auto"
+    },
+    {
+      "title": "Biblioteca Virtual",
+      "widgetId": "d46242c",
+      "description": "> Repositorio Virtual > Legislación > Descarga de Aplicaciones > Descargas > Presentaciones Virtuales > Estudios Jurídicos y Criterios Relevantes de la Corte de Constitucionalidad",
+      "links": [
+        {
+          "title": "Repositorio Virtual",
+          "url": "https://portal.sat.gob.gt/portal/biblioteca-en-linea-sat/archivo-de-documentos/"
+        },
+        {
+          "title": "Legislación",
+          "url": "https://portal.sat.gob.gt/portal/biblioteca-en-linea-sat/legislacion/"
+        },
+        {
+          "title": "Descarga de Aplicaciones",
+          "url": "https://portal.sat.gob.gt/portal/biblioteca-en-linea-sat/software/"
+        },
+        {
+          "title": "Descargas",
+          "url": "https://portal.sat.gob.gt/portal/biblioteca-en-linea-sat/"
+        },
+        {
+          "title": "Presentaciones Virtuales",
+          "url": "https://sites.google.com/capacitacionessat.page/presentaciones-virtuales/"
+        },
+        {
+          "title": "Estudios Jurídicos y Criterios Relevantes de la Corte de Constitucionalidad",
+          "url": "https://portal.sat.gob.gt/portal/consulta-de-especialistas/"
+        }
+      ],
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Iconobiblioteca-virtual.svg",
+      "image": "/assets/99ed854b-Iconobiblioteca-virtual.svg",
+      "backgroundSize": "40% auto"
+    },
+    {
+      "title": "Preguntas Frecuentes",
+      "widgetId": "d7219c2",
+      "description": "",
+      "links": [
+        {
+          "title": "Preguntas Frecuentes",
+          "url": "https://portal.sat.gob.gt/portal/preguntas-frecuentes/"
+        }
+      ],
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Iconopreguntas-frecuentes.svg",
+      "image": "/assets/d52c430f-Iconopreguntas-frecuentes.svg",
+      "backgroundSize": "40% auto"
+    },
+    {
+      "title": "Tijonem pa Maya’ taq ch’ab’äl",
+      "widgetId": "301c9f9",
+      "description": "",
+      "links": [
+        {
+          "title": "Tijonem pa Maya’ taq ch’ab’äl",
+          "url": "https://sites.google.com/capacitacionessat.page/idiomas-mayas/p%C3%A1gina-principal"
+        }
+      ],
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/04/icono_idiomas_mayas-04.svg",
+      "image": "/assets/05f4ab8d-icono_idiomas_mayas-04.svg",
+      "backgroundSize": "70% auto"
+    }
+  ],
+  "contacts": [
+    {
+      "title": "Ubicaciones y Horarios",
+      "widgetId": "c881487",
+      "description": "- Agencias - Aduanas - Oficinas Administrativas - Jornadas Móviles y Horarios Especiales",
+      "links": [
+        {
+          "title": "- Agencias",
+          "url": "https://portal.sat.gob.gt/portal/contacto/"
+        },
+        {
+          "title": "- Aduanas",
+          "url": "https://portal.sat.gob.gt/portal/ubicacion-y-horario-de-aduanas/"
+        },
+        {
+          "title": "- Oficinas Administrativas",
+          "url": "https://portal.sat.gob.gt/portal/contacto/oficinas-administrativas/"
+        },
+        {
+          "title": "- Jornadas Móviles y Horarios Especiales",
+          "url": "https://portal.sat.gob.gt/portal/jornadas-moviles-y-horarios-especiales-de-atencion/"
+        }
+      ],
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-clara-1.jpg",
+      "image": "/assets/e9789f34-imagen-clara-1.jpg",
+      "backgroundSize": "cover"
+    },
+    {
+      "title": "Orientación Tributaria",
+      "widgetId": "2e9856b",
+      "description": "- Chat en línea - Consultas Tributarias y Aduaneras - Consultas Legales - Solicitud de Información Pública - Orientación Legal, Derechos del Contribuyente y Recursos",
+      "links": [
+        {
+          "title": "- Chat en línea",
+          "url": "https://portal.sat.gob.gt/portal/soporte-chat/"
+        },
+        {
+          "title": "- Consultas Tributarias y Aduaneras",
+          "url": "https://portal.sat.gob.gt/portal/consultas-tributarias-y-aduaneras/"
+        },
+        {
+          "title": "- Consultas Legales",
+          "url": "https://portal.sat.gob.gt/portal/contacto/consultas-legales/"
+        },
+        {
+          "title": "- Solicitud de Información Pública",
+          "url": "https://portal.sat.gob.gt/portal/libre-acceso-la-informacion-publica/"
+        },
+        {
+          "title": "- Orientación Legal, Derechos del Contribuyente y Recursos",
+          "url": "https://portal.sat.gob.gt/portal/orientacion-legal/"
+        }
+      ],
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-clara-2.jpg",
+      "image": "/assets/e0277ca6-imagen-clara-2.jpg",
+      "backgroundSize": "cover"
+    },
+    {
+      "title": "Quejas",
+      "widgetId": "2216a47",
+      "description": "- Manual de uso - Quejas por mal Servicio - Consultar estado de la queja",
+      "links": [
+        {
+          "title": "- Manual de uso",
+          "url": "https://portal.sat.gob.gt/portal/descarga/15423/gestion-de-calidad/60881/manual-de-usuario-ingreso-de-quejas.pdf"
+        },
+        {
+          "title": "- Quejas por mal Servicio",
+          "url": "https://portal.sat.gob.gt/portal/contacto/quejas-por-mal-servicio-o-servicio-no-conforme/"
+        },
+        {
+          "title": "- Consultar estado de la queja",
+          "url": "https://portal.sat.gob.gt/portal/contacto/consulta-estado-de-queja/"
+        }
+      ],
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-clara-3.jpg",
+      "image": "/assets/39a3d298-imagen-clara-3.jpg",
+      "backgroundSize": "cover"
+    },
+    {
+      "title": "Denuncias",
+      "widgetId": "ca88a59",
+      "description": "- Denuncias Tributarias - Corrupción e incumplimiento ético - Denuncias por Comercio Ilícito",
+      "links": [
+        {
+          "title": "- Denuncias Tributarias",
+          "url": "https://portal.sat.gob.gt/portal/contacto/denuncias-no-facturacion/"
+        },
+        {
+          "title": "- Corrupción e incumplimiento ético",
+          "url": "https://portal.sat.gob.gt/portal/contacto/denuncias-por-corrupcion/"
+        },
+        {
+          "title": "- Denuncias por Comercio Ilícito",
+          "url": "https://portal.sat.gob.gt/portal/contacto/denuncias-por-comercio-ilicito/"
+        }
+      ],
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-clara-4.jpg",
+      "image": "/assets/ec50ef46-imagen-clara-4.jpg",
+      "backgroundSize": "cover"
+    },
+    {
+      "title": "CLIC · El poder anticorrupción",
+      "widgetId": "fa8c3b5",
+      "description": "",
+      "links": [
+        {
+          "title": "CLIC · El poder anticorrupción",
+          "url": "https://clicelpoderanticorrupcion.gt/"
+        }
+      ],
+      "labelSource": "Provided visual reference; title is graphical in the artwork.",
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2024/09/clic3.png",
+      "image": "/assets/c54fe346-clic3.png",
+      "backgroundSize": "cover"
+    }
+  ],
+  "news": [
+    {
+      "title": "¡Agiliza tus trámites en puertos!",
+      "description": "Más de 9,000 contenedores se encuentran pendientes de iniciar o completar el proceso de despacho definitivo de mercancías.",
+      "url": "https://portal.sat.gob.gt/portal/noticias/agiliza-tus-tramites-en-puertos/",
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/10/CONTENEDORES-DETENIDOS_oct-2.jpg",
+      "date": "2026-10-12T10:17:32-06:00",
+      "image": "/assets/cca42df4-CONTENEDORES-DETENIDOS_oct-2.jpg"
+    },
+    {
+      "title": "Participa en la encuesta de opinión SAT 2026",
+      "description": "SAT invita a los contribuyentes seleccionados a participar en la Encuesta de Opinión Pública 2026, una iniciativa que busca recopilar…",
+      "url": "https://portal.sat.gob.gt/portal/noticias/encuesta-opinion-sat-2026/",
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/09/Consultoría-Opinión-Pública-2026_2.jpg",
+      "date": "2026-09-30T14:23:06-06:00",
+      "image": "/assets/05f27c3f-Consultoria-Opinion-Publica-2026_2.jpg"
+    },
+    {
+      "title": "Presentación de documentos para solicitudes de devolución de crédito fiscal",
+      "description": "Los contribuyentes exportadores que soliciten devolución de crédito fiscal mediante el Régimen Especial Electrónico deben adjuntar la documentación de soporte…",
+      "url": "https://portal.sat.gob.gt/portal/noticias/presentacion-de-documentos-para-solicitudes-de-devolucion-de-credito-fiscal/",
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/09/Cápsulas-Régimen-Electrónico-de-Devolución-Fiscal-marzo-2026_Cápsula-RED_3-1.jpg",
+      "date": "2026-09-17T08:07:56-06:00",
+      "image": "/assets/d4ac72bd-Capsulas-Regimen-Electronico-de-Devolucion-Fiscal-marzo-2026_Capsula-RED_3-1.jpg"
+    },
+    {
+      "title": "Unen esfuerzos para un comercio seguro",
+      "description": "SAT y SCAN firmaron un Memorándum de Entendimiento y cooperación que promueva un comercio internacional seguro a través del Programa…",
+      "url": "https://portal.sat.gob.gt/portal/noticias/unen-esfuerzos-para-un-comercio-seguro/",
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/08/SAT_SCAN_1.jpg",
+      "date": "2026-08-19T19:30:32-06:00",
+      "image": "/assets/781c1ed0-SAT_SCAN_1.jpg"
+    }
+  ],
+  "institutional": [
+    {
+      "title": "Transparencia",
+      "description": "Aquí encontraras publicados los documentos sujetos a la Ley de Información Pública, así como el proceso y los encargados de la Unidad de Información Pública.",
+      "url": "https://portal.sat.gob.gt/portal/transparencia/",
+      "sourceImage": "inline:print-script-24:widget-77a5595",
+      "widgetId": "77a5595",
+      "image": "/assets/inline-77a5595.svg"
+    },
+    {
+      "title": "Sistema de Gestión y Código de Ética",
+      "description": "Conoce aquí el modelo de mejora continua en los procesos institucionales, coadyuvando al fortalecimiento de las capacidades de gestión institucional con base a las normas ISO.",
+      "url": "https://portal.sat.gob.gt/portal/sistema-de-gestion-y-codigo-de-etica/",
+      "sourceImage": "inline:print-script-24:widget-e11b232",
+      "widgetId": "e11b232",
+      "image": "/assets/inline-e11b232.svg"
+    },
+    {
+      "title": "Bolsa de Empleo",
+      "description": "Ingresa aquí para formar parte del personal de la SAT. Ingresa tus datos a nuestra base de reclutamiento y crea una cuenta para ingresar tu currículum.",
+      "url": "https://reclutamiento.sat.gob.gt/",
+      "sourceImage": "inline:print-script-24:widget-0765fe2",
+      "widgetId": "0765fe2",
+      "image": "/assets/inline-0765fe2.svg"
+    },
+    {
+      "title": "Objeciones y recomendaciones a procedimientos SAT",
+      "description": "Tu opinión es importante. En esta sección encontrarás procedimientos institucionales en proceso de creación o actualización a los cuales podrás contribuir con tus comentarios y sugerencias previo a su aprobación.",
+      "url": "https://portal.sat.gob.gt/portal/recepcion-de-objeciones-y-recomendaciones-procedimientos-de-la-sat/",
+      "sourceImage": "inline:print-script-24:widget-ff85305",
+      "widgetId": "ff85305",
+      "image": "/assets/inline-ff85305.svg"
+    }
+  ],
+  "slides": [
+    {
+      "title": "8953 Canales Denuncia",
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/07-16-2026-BANNER-CANALES.jpg",
+      "image": "/assets/ff81472a-07-16-2026-BANNER-CANALES.jpg",
+      "width": 3958,
+      "height": 1562,
+      "order": "3"
+    },
+    {
+      "title": "7459 Atención Importadores OEA-GT",
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/12/Atencion-Importadores-OEA-GT-1.jpg",
+      "image": "/assets/bbe606d4-Atencion-Importadores-OEA-GT-1.jpg",
+      "width": 3000,
+      "height": 1137,
+      "order": "1"
+    },
+    {
+      "title": "8616 si eres contribuyente",
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/06/Banner-Portal-Declaraguate-a-AV-02.jpg",
+      "image": "/assets/61bc424e-Banner-Portal-Declaraguate-a-AV-02.jpg",
+      "width": 2800,
+      "height": 1105,
+      "order": "2"
+    },
+    {
+      "title": "7966 No te dejes Engañar",
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/02/Banner-portal-No-te-dejes-engañar.jpg",
+      "image": "/assets/c74a9d9b-Banner-portal-No-te-dejes-enganar.jpg",
+      "width": 2850,
+      "height": 1125,
+      "order": "4"
+    },
+    {
+      "title": "8962 Corazon azul",
+      "sourceImage": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/BANNER-PORTAL-CAMPAÑA-CORAZON-AZUL.jpg",
+      "image": "/assets/7a9ae03d-BANNER-PORTAL-CAMPANA-CORAZON-AZUL.jpg",
+      "width": 3958,
+      "height": 1562,
+      "order": "5"
+    }
+  ],
+  "assets": {
+    "https://portal.sat.gob.gt/portal/wp-content/cache/fonts/1/google-fonts/fonts/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2": "/assets/eae94167-KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2": "/assets/0758a230-fa-brands-400.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2": "/assets/8404b11a-fa-solid-900.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/revslider/public/css/fonts/revicons/fonts/revicons.woff?5510888": "/assets/ec552ceb-revicons.woff",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-10-150x150.png": "/assets/9975faee-Mesa-de-trabajo-10-150x150.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-10.png": "/assets/09e67172-Mesa-de-trabajo-10.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-11-150x150.png": "/assets/6658e3c1-Mesa-de-trabajo-11-150x150.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-11.png": "/assets/c56561e5-Mesa-de-trabajo-11.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-21.png": "/assets/d7442088-Mesa-de-trabajo-21.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-9-150x150.png": "/assets/a8d9574b-Mesa-de-trabajo-9-150x150.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Mesa-de-trabajo-9.png": "/assets/8bf79f4b-Mesa-de-trabajo-9.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/Recurso-2.svg": "/assets/154e7028-Recurso-2.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/edificio_sat.jpg": "/assets/165a35a7-edificio_sat.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/06/logo_sat_blanco-1.png": "/assets/300b861b-logo_sat_blanco-1.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Iconobiblioteca-virtual.svg": "/assets/99ed854b-Iconobiblioteca-virtual.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Iconocultura-tributaria.svg": "/assets/6308af01-Iconocultura-tributaria.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Iconopreguntas-frecuentes.svg": "/assets/d52c430f-Iconopreguntas-frecuentes.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Recurso-1.svg": "/assets/499bbf70-Recurso-1.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Recurso-2.svg": "/assets/538ea772-Recurso-2.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/07/Recurso-3.svg": "/assets/b8ea2076-Recurso-3.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/10_Consulta_de_declaraciones_complementarias.jpg": "/assets/3d1bde69-10_Consulta_de_declaraciones_complementarias.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/11_Autorizacion_de_Lista_de_Embarque-2.jpg": "/assets/a5d08bb7-11_Autorizacion_de_Lista_de_Embarque-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/12_Selectivo_de_Declaraciones_de_Exportacio%CC%81n-2.jpg": "/assets/284cfa2b-12_Selectivo_de_Declaraciones_de_Exportacion-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/12_Selectivo_de_Declaraciones_de_Exportación-2.jpg": "/assets/b42e920f-12_Selectivo_de_Declaraciones_de_Exportacion-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/13_Presentacio%CC%81n_y_Ana%CC%81lisis_de_Declaraciones_Complementarias_de_Exportacion-1.jpg": "/assets/8a921851-13_Presentacion_y_Analisis_de_Declaraciones_Complementarias_de_Exportacion-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/13_Presentación_y_Análisis_de_Declaraciones_Complementarias_de_Exportacion-1.jpg": "/assets/8d09de9e-13_Presentacion_y_Analisis_de_Declaraciones_Complementarias_de_Exportacion-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/15_Auxiliares_de_la_Funcion_Publica_Aduaneras-2.jpg": "/assets/efff06f9-15_Auxiliares_de_la_Funcion_Publica_Aduaneras-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/16_Informacion_y_Estadisticas_Aduaneras.jpg": "/assets/57eed9ba-16_Informacion_y_Estadisticas_Aduaneras.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/17_Formularios_y_documentos-utilizados_para_la_importacion_exportacion_y_transito_de_mercancias.jpg": "/assets/bb477beb-17_Formularios_y_documentos-utilizados_para_la_importacion_exportacion_y_transito_de_mercancias.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/18_Subastas_y_Donaciones_Aduaneras-1.jpg": "/assets/97da23c5-18_Subastas_y_Donaciones_Aduaneras-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/19_Planes_de_Contingencia-2.jpg": "/assets/06c13383-19_Planes_de_Contingencia-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/1_Icono_conceptos_generales.jpg": "/assets/68f9835b-1_Icono_conceptos_generales.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/20_Declaracion_de_mercancias-1.jpg": "/assets/9ba89e5b-20_Declaracion_de_mercancias-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/21_Acuerdo_de_Facilitacion_de_Comercio–OMC-1-2.jpg": "/assets/e452564b-21_Acuerdo_de_Facilitacion_de_ComercioOMC-1-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/21_Aduana_sin_papeles-1.jpg": "/assets/9917d7e6-21_Aduana_sin_papeles-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/22_Operador_economico_autorizado-2.jpg": "/assets/283700ba-22_Operador_economico_autorizado-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/23_Estudio_de_Tiempos_de_Despacho.jpg": "/assets/be539f1d-23_Estudio_de_Tiempos_de_Despacho.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/2_Icono_Consideraciones-para-hacer-tu-compra-3.jpg": "/assets/27f6b5d5-2_Icono_Consideraciones-para-hacer-tu-compra-3.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/3_Consideraciones_para_hacer_tu_envío_vía_aerea-1.jpg": "/assets/24e13d89-3_Consideraciones_para_hacer_tu_envio_via_aerea-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/4_Pasos_previos_a_tu_importación_de_mercancías_via_aerea-2.jpg": "/assets/dac89a36-4_Pasos_previos_a_tu_importacion_de_mercancias_via_aerea-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/7_Importacion_de_Vehiculos.jpg": "/assets/8d1b3bd0-7_Importacion_de_Vehiculos.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Actuaciones-conjuntas.jpg": "/assets/eb2c52bc-Actuaciones-conjuntas.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Agentes-de-retencion-IVA-celeste.jpg": "/assets/f8f046b5-Agentes-de-retencion-IVA-celeste.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Autorizacion-de-maquina-celeste.jpg": "/assets/fa6c50d6-Autorizacion-de-maquina-celeste.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Aviso-de-Robo-de-Vehiculo.jpg": "/assets/2ced4d01-Aviso-de-Robo-de-Vehiculo.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Catalogo-de-PermisosArancel-Integrado.jpg": "/assets/252f006f-Catalogo-de-PermisosArancel-Integrado.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Celeste-Declaraguate.jpg": "/assets/62f47ddb-Celeste-Declaraguate.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Celeste-RTU-DIGITAL.jpg": "/assets/816da339-Celeste-RTU-DIGITAL.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Codigo-unico-de-verificacion-celeste.jpg": "/assets/f24fc083-Codigo-unico-de-verificacion-celeste.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Infraestructura-2.jpg": "/assets/6697edf7-Componente-Infraestructura-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Procesos-1.jpg": "/assets/6fe72471-Componente-Procesos-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Recursos.jpg": "/assets/dbd3a5d7-Componente-Recursos.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Seguridad-2.jpg": "/assets/1a70639a-Componente-Seguridad-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Componente-Tecnologia-1.jpg": "/assets/94ec7603-Componente-Tecnologia-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Comprobacion-Valor-Importacion.jpg": "/assets/e783fadd-Comprobacion-Valor-Importacion.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Consulta-de-NIT-e1689869330761.jpg": "/assets/36a45200-Consulta-de-NIT-e1689869330761.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Convenios-Aduaneros-2.jpg": "/assets/d4a543fc-Convenios-Aduaneros-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Declaracion-Anticipada-2.jpg": "/assets/d4f7d3aa-Declaracion-Anticipada-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Declaracion-valor-cero.jpg": "/assets/66c93e0b-Declaracion-valor-cero.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Devolucion-de-pagos-en-exceso.jpg": "/assets/dd65da80-Devolucion-de-pagos-en-exceso.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Devolucion-de-pagos-indebidos-celeste-1-e1689870281677.jpg": "/assets/58ff57f4-Devolucion-de-pagos-indebidos-celeste-1-e1689870281677.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Distintivos-electronicos-Titulo-de-propiedad-y-tarjeta-de-circulacion.jpg": "/assets/a99a2f9d-Distintivos-electronicos-Titulo-de-propiedad-y-tarjeta-de-circulacion.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Documentos-de-orientacion-para-gestiones-aduaneras.jpg": "/assets/8a5bd847-Documentos-de-orientacion-para-gestiones-aduaneras.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Documentos-guia-de-Manifiestos-de-Carga-1.jpg": "/assets/426afde2-Documentos-guia-de-Manifiestos-de-Carga-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Estrategia-Centroamericana-de-Facilitacion-de-Comercio-y-Competitividad-1.jpg": "/assets/94cef7a2-Estrategia-Centroamericana-de-Facilitacion-de-Comercio-y-Competitividad-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Expertaje-de-Vehiculo.jpg": "/assets/1002500c-Expertaje-de-Vehiculo.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Foliares-2.jpg": "/assets/65f8768a-Foliares-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Formatos-2.jpg": "/assets/1db64c49-Formatos-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Formatos.jpg": "/assets/f7f82413-Formatos.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/IMPRESION-DE-RTU-celeste.jpg": "/assets/939585f4-IMPRESION-DE-RTU-celeste.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/IVA-IPRIMA-celeste-1.jpg": "/assets/c8dd2173-IVA-IPRIMA-celeste-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Instructivos-1.jpg": "/assets/b229266c-Instructivos-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Manual-de-Procedimientos-2.jpg": "/assets/e67c66c8-Manual-de-Procedimientos-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Manuales-y-Guias-de-Usuario-1.jpg": "/assets/aa2e7fbf-Manuales-y-Guias-de-Usuario-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Morosos-ISCV.jpg": "/assets/8980092b-Morosos-ISCV.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Multas-de-transito-celeste.jpg": "/assets/7b5ae6a7-Multas-de-transito-celeste.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Otras-formas-de-pago-celeste.jpg": "/assets/b0664cbb-Otras-formas-de-pago-celeste.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Politica-Nacional-1.jpg": "/assets/3b0f5460-Politica-Nacional-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Procedimientos-Administrativos.jpg": "/assets/58772b30-Procedimientos-Administrativos.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/RTU-DIGITAL-celeste.jpg": "/assets/3689f6e3-RTU-DIGITAL-celeste.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Recuperacion-de-contrasena-de-AV.jpg": "/assets/665189fb-Recuperacion-de-contrasena-de-AV.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Requisitos-para-tramites-de-propietarios-celeste.jpg": "/assets/bed54467-Requisitos-para-tramites-de-propietarios-celeste.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Requisitos-para-trámites.jpg": "/assets/1eb642e1-Requisitos-para-tramites.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Tablas-y-acuerdos.jpg": "/assets/770b5758-Tablas-y-acuerdos.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Titulos-universitarios.jpg": "/assets/689f5820-Titulos-universitarios.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Uso-comercial-no-inscritos-IVA.jpg": "/assets/15dad431-Uso-comercial-no-inscritos-IVA.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/08/Verificador-integrado-celeste-e1689871387501.jpg": "/assets/00d19be5-Verificador-integrado-celeste-e1689871387501.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-clara-1.jpg": "/assets/e9789f34-imagen-clara-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-clara-2.jpg": "/assets/e0277ca6-imagen-clara-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-clara-3.jpg": "/assets/39a3d298-imagen-clara-3.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-clara-4.jpg": "/assets/ec50ef46-imagen-clara-4.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-oscura-1.jpg": "/assets/c3a264ed-imagen-oscura-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-oscura-2.jpg": "/assets/d78ceeef-imagen-oscura-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-oscura-3.jpg": "/assets/9cb15dd9-imagen-oscura-3.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/10/imagen-oscura-4.jpg": "/assets/86f4d69a-imagen-oscura-4.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/11/ACREDITAMIENTO_REMANENTE_RETENCIONES_IVA_AZUL-e1689871150441.png": "/assets/e49b0a60-ACREDITAMIENTO_REMANENTE_RETENCIONES_IVA_AZUL-e1689871150441.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/11/DEVOLUCION_DEPOSITO_ADUANAL_CELESTE.png": "/assets/4e0035b9-DEVOLUCION_DEPOSITO_ADUANAL_CELESTE.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/11/ESTADO-DE-GESTION-AV-AZUL.png": "/assets/bcb1a70a-ESTADO-DE-GESTION-AV-AZUL.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/12/iconos-pie-de-pagina-04.png": "/assets/f7029166-iconos-pie-de-pagina-04.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2021/12/iconos-pie-de-pagina-05.png": "/assets/fa0f170e-iconos-pie-de-pagina-05.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/01/Consulta-titulos-azul.png": "/assets/ffdb5013-Consulta-titulos-azul.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/01/Planilla-IVA-FEL-azul-e1689870857641.jpg": "/assets/e15b87e1-Planilla-IVA-FEL-azul-e1689870857641.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/04/union-aduanera-celeste.png": "/assets/6b1233ee-union-aduanera-celeste.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Actividades-Econo%CC%81micas.jpg": "/assets/303913f5-Actividades-Economicas.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Actividades-Económicas.jpg": "/assets/d58877ae-Actividades-Economicas.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Autoliquidacio%CC%81n.jpg": "/assets/a805dd30-Autoliquidacion.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Autoliquidación.jpg": "/assets/f8c59ca1-Autoliquidacion.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/CAIS_AZUL.png": "/assets/d7e94bc3-CAIS_AZUL.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/CIVA_CELESTE-1.png": "/assets/76201bd2-CIVA_CELESTE-1.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Celeste-LET.jpg": "/assets/edbff630-Celeste-LET.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Factura-Electro%CC%81nica-1-e1689870532806.jpg": "/assets/24363688-Factura-Electronica-1-e1689870532806.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/05/Factura-Electrónica-1-e1689870532806.jpg": "/assets/5287a436-Factura-Electronica-1-e1689870532806.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/06/3-30.png": "/assets/49fac36d-3-30.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/06/ICONO-CONSULTAS-ADUANAS-CELESTES.png": "/assets/167d5b13-ICONO-CONSULTAS-ADUANAS-CELESTES.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/09/Razon-Electronica-timbres-fiscales.jpg": "/assets/0eac08b7-Razon-Electronica-timbres-fiscales.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Celeste-Sistema-de-citas.jpg": "/assets/446d9cb3-Celeste-Sistema-de-citas.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Consulta-Movimiento-de-Convenio-azul.jpg": "/assets/2ccc708a-Consulta-Movimiento-de-Convenio-azul.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Estado-de-Gestio%CC%81n-de-Cita-Celeste-1-2048x1639.png": "/assets/6ff9cabe-Estado-de-Gestion-de-Cita-Celeste-1-2048x1639.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Estado-de-Gestión-de-Cita-Celeste-1.png": "/assets/dcc3ab55-Estado-de-Gestion-de-Cita-Celeste-1.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/11/Solvencia-Fiscal-celeste.jpg": "/assets/dd445060-Solvencia-Fiscal-celeste.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2022/12/Franquicia-anaranjada-e1689871598882.png": "/assets/3da98a4c-Franquicia-anaranjada-e1689871598882.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/02/icono-servicios-informe-electronico-de-compras-y-ventas-06.png": "/assets/3d24e7a9-icono-servicios-informe-electronico-de-compras-y-ventas-06.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Asiste_hospitales_web-Azul.png": "/assets/e33e8f33-Asiste_hospitales_web-Azul.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Celeste-Calendario-SAT.jpg": "/assets/b0036f7f-Celeste-Calendario-SAT.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Economico-coactivo-CELESTE.jpg": "/assets/2d77b7f3-Economico-coactivo-CELESTE.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Imprentas-inscritas.jpg": "/assets/a1eed212-Imprentas-inscritas.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/NIT-pequeno-contribuyente-celeste-e1689870772118.jpg": "/assets/f64760c8-NIT-pequeno-contribuyente-celeste-e1689870772118.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Retenciones-web-isr-Celeste-e1689871038330.png": "/assets/e3d31978-Retenciones-web-isr-Celeste-e1689871038330.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/03/Retenciones-web-iva-Celeste-e1689870982548.png": "/assets/16b856f3-Retenciones-web-iva-Celeste-e1689870982548.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/04/icono_idiomas_mayas-04.svg": "/assets/05f4ab8d-icono_idiomas_mayas-04.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/05/ICONOS-SERVICIOS-VEHICULOS-03-2048x1639.png": "/assets/d1c2744b-ICONOS-SERVICIOS-VEHICULOS-03-2048x1639.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/05/ICONOS-SERVICIOS-VEHICULOS-03.png": "/assets/ef9c1b5a-ICONOS-SERVICIOS-VEHICULOS-03.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/05/ICONOS-SERVICIOS-VEHICULOS-04-1.png": "/assets/d87568d7-ICONOS-SERVICIOS-VEHICULOS-04-1.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/06/puesto-de-control-celeste.png": "/assets/5f460be9-puesto-de-control-celeste.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/07/DJRV-CELESTE.png": "/assets/de58aa3b-DJRV-CELESTE.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/Declara-jurada-viajero-banner-1536x242.png": "/assets/7b2c275e-Declara-jurada-viajero-banner-1536x242.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/Declara-jurada-viajero-banner-768x121.png": "/assets/adfb514c-Declara-jurada-viajero-banner-768x121.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/icon-av-64.png": "/assets/dca667f3-icon-av-64.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/icon-denun-64.png": "/assets/b642fb8c-icon-denun-64.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/icon-dg-64.png": "/assets/e059647e-icon-dg-64.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/icon-find-64.png": "/assets/d5ef42dc-icon-find-64.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/11/icon-uip-64.png": "/assets/eed309e0-icon-uip-64.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2023/12/Terceros-Autorizados.png": "/assets/1c22c0eb-Terceros-Autorizados.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2024/09/Primer-NIT-Azul.png": "/assets/e18bb3ae-Primer-NIT-Azul.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2024/09/clic3.png": "/assets/c54fe346-clic3.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/05/Retenciones-ITC-Azul.png": "/assets/7b2cd3ef-Retenciones-ITC-Azul.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/06/RSI-azul.png": "/assets/0042a71d-RSI-azul.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/08/ChatSAT-flotante.png": "/assets/9ebc7f83-ChatSAT-flotante.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/12/Atencion-Importadores-OEA-GT-1-50x100.jpg": "/assets/310ca65a-Atencion-Importadores-OEA-GT-1-50x100.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/12/Atencion-Importadores-OEA-GT-1.jpg": "/assets/bbe606d4-Atencion-Importadores-OEA-GT-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/02/Banner-portal-No-te-dejes-engan%CC%83ar.jpg": "/assets/d62b6506-Banner-portal-No-te-dejes-enganar.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/02/Banner-portal-No-te-dejes-engañar-50x100.jpg": "/assets/cc36fa8b-Banner-portal-No-te-dejes-enganar-50x100.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/02/Banner-portal-No-te-dejes-engañar.jpg": "/assets/c74a9d9b-Banner-portal-No-te-dejes-enganar.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/02/RETENCIONES-WEB-NO-RESIDENTES-AZUL.png": "/assets/28f50d60-RETENCIONES-WEB-NO-RESIDENTES-AZUL.png",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/06/Banner-Portal-Declaraguate-a-AV-02-50x100.jpg": "/assets/c920af09-Banner-Portal-Declaraguate-a-AV-02-50x100.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/06/Banner-Portal-Declaraguate-a-AV-02.jpg": "/assets/61bc424e-Banner-Portal-Declaraguate-a-AV-02.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/07-16-2026-BANNER-CANALES-50x100.jpg": "/assets/9e7a5aab-07-16-2026-BANNER-CANALES-50x100.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/07-16-2026-BANNER-CANALES.jpg": "/assets/ff81472a-07-16-2026-BANNER-CANALES.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/BANNER-PORTAL-CAMPAN%CC%83A-CORAZON-AZUL.jpg": "/assets/ad6f01aa-BANNER-PORTAL-CAMPANA-CORAZON-AZUL.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/BANNER-PORTAL-CAMPAÑA-CORAZON-AZUL-50x100.jpg": "/assets/4a255fc6-BANNER-PORTAL-CAMPANA-CORAZON-AZUL-50x100.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/BANNER-PORTAL-CAMPAÑA-CORAZON-AZUL.jpg": "/assets/7a9ae03d-BANNER-PORTAL-CAMPANA-CORAZON-AZUL.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/08/SAT_SCAN_1.jpg": "/assets/781c1ed0-SAT_SCAN_1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/09/Ca%CC%81psulas-Re%CC%81gimen-Electro%CC%81nico-de-Devolucio%CC%81n-Fiscal-marzo-2026_Ca%CC%81psula-RED_3-1.jpg": "/assets/be37cb37-Capsulas-Regimen-Electronico-de-Devolucion-Fiscal-marzo-2026_Capsula-RED_3-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/09/Cápsulas-Régimen-Electrónico-de-Devolución-Fiscal-marzo-2026_Cápsula-RED_3-1.jpg": "/assets/d4ac72bd-Capsulas-Regimen-Electronico-de-Devolucion-Fiscal-marzo-2026_Capsula-RED_3-1.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/09/Consultori%CC%81a-Opinio%CC%81n-Pu%CC%81blica-2026_2-2048x1024.jpg": "/assets/2f8cc596-Consultoria-Opinion-Publica-2026_2-2048x1024.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/09/Consultoría-Opinión-Pública-2026_2.jpg": "/assets/05f27c3f-Consultoria-Opinion-Publica-2026_2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/10/CONTENEDORES-DETENIDOS_oct-2.jpg": "/assets/cca42df4-CONTENEDORES-DETENIDOS_oct-2.jpg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizdrevithgc8qdibstkq4xkriuf2zc.woff2": "/assets/a910b1b0-librefranklin-jizdrevithgc8qdibstkq4xkriuf2zc.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/smile_fonts/icomoon/icomoon.ttf?oy956q": "/assets/5a5b2b5a-icomoon.ttf",
+    "https://s3bucket-satgt-pro-chatbot-ac-portal-sat.s3.amazonaws.com/v3.0.4/assets/satgt-rita-icon-v2-43x43.png": "/assets/fb8bf996-satgt-rita-icon-v2-43x43.png",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf": "/assets/07105f6b-fa-brands-400.ttf",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff": "/assets/cedb48d3-fa-brands-400.woff",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf": "/assets/de418174-fa-solid-900.ttf",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff": "/assets/2bbc9240-fa-solid-900.woff",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/revslider/public/css/fonts/revicons/fonts/revicons.svg?5510888#revicons": "/assets/d1318d7d-revicons.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/revslider/public/css/fonts/revicons/fonts/revicons.ttf?5510888": "/assets/fdb4542d-revicons.ttf",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu-icons/assets/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular": "/assets/e15508c5-fontawesome-webfont.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu-icons/assets/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0": "/assets/e425f163-fontawesome-webfont.ttf",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu-icons/assets/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0": "/assets/082e04b8-fontawesome-webfont.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu-icons/assets/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0": "/assets/036816a6-fontawesome-webfont.woff",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-brands-400.ttf": "/assets/56afe32e-fa-brands-400.ttf",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-brands-400.woff": "/assets/9a8d79c8-fa-brands-400.woff",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-brands-400.woff2": "/assets/c0be7b05-fa-brands-400.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-regular-400.ttf": "/assets/c9232548-fa-regular-400.ttf",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-regular-400.woff": "/assets/ac29d360-fa-regular-400.woff",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-regular-400.woff2": "/assets/b93f24b7-fa-regular-400.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-solid-900.ttf": "/assets/0948229a-fa-solid-900.ttf",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-solid-900.woff": "/assets/137d2007-fa-solid-900.woff",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/ubermenu/assets/fontawesome/webfonts/fa-solid-900.woff2": "/assets/e8d42480-fa-solid-900.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_category.svg": "/assets/6e683f44-wpfd_category.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_category_hover.svg": "/assets/e1bb8c01-wpfd_category_hover.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_file.svg": "/assets/c187f76c-wpfd_file.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_file_hover.svg": "/assets/280df54e-wpfd_file_hover.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_pdf_embed.svg": "/assets/4e6b3d3e-wpfd_pdf_embed.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_pdf_embed_hover.svg": "/assets/3377f41f-wpfd_pdf_embed_hover.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_search.svg": "/assets/0a15925e-wpfd_search.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/plugins/wp-file-download/app/includes/elementor/assets/images/wpfd_search_hover.svg": "/assets/57eca902-wpfd_search_hover.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/backgrounds/patterns/full/halftone-dark.png": "/assets/eb3678f8-halftone-dark.png",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/fullscreen-exit.svg": "/assets/431999dc-fullscreen-exit.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/fullscreen.svg": "/assets/7404357b-fullscreen.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-check-circle-fill.svg": "/assets/8e036f5c-the7-check-circle-fill.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-chevron-down.svg": "/assets/5df921ef-the7-chevron-down.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-chevron-left.svg": "/assets/486462d4-the7-chevron-left.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-chevron-right.svg": "/assets/d92e951a-the7-chevron-right.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-chevron-side.svg": "/assets/6673dd8a-the7-chevron-side.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-exclamation-circle-fill.svg": "/assets/c2ce0141-the7-exclamation-circle-fill.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/the7-share-fill.svg": "/assets/2af24b05-the7-share-fill.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/x-lg.svg": "/assets/2d11381b-x-lg.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/zoom-in.svg": "/assets/b3c2c23d-zoom-in.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/themes/dt-the7/images/zoom-out.svg": "/assets/3695bb63-zoom-out.svg",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizbrevithgc8qdibstkq4xkriua6zetjmbi.woff2": "/assets/666ad17f-librefranklin-jizbrevithgc8qdibstkq4xkriua6zetjmbi.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizbrevithgc8qdibstkq4xkriua6zgtjmbi.woff2": "/assets/09f2b8b3-librefranklin-jizbrevithgc8qdibstkq4xkriua6zgtjmbi.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizbrevithgc8qdibstkq4xkriua6zotjmbi.woff2": "/assets/1e526705-librefranklin-jizbrevithgc8qdibstkq4xkriua6zotjmbi.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizbrevithgc8qdibstkq4xkriua6zstjmbi.woff2": "/assets/ae6bd096-librefranklin-jizbrevithgc8qdibstkq4xkriua6zstjmbi.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizbrevithgc8qdibstkq4xkriua6zutjg.woff2": "/assets/cfa45c03-librefranklin-jizbrevithgc8qdibstkq4xkriua6zutjg.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizdrevithgc8qdibstkq4xkriub2zclig.woff2": "/assets/8f43eceb-librefranklin-jizdrevithgc8qdibstkq4xkriub2zclig.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizdrevithgc8qdibstkq4xkriuq2zclig.woff2": "/assets/2245d401-librefranklin-jizdrevithgc8qdibstkq4xkriuq2zclig.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizdrevithgc8qdibstkq4xkriur2zclig.woff2": "/assets/6edf2ea5-librefranklin-jizdrevithgc8qdibstkq4xkriur2zclig.woff2",
+    "https://portal.sat.gob.gt/portal/wp-content/uploads/elementor/google-fonts/fonts/librefranklin-jizdrevithgc8qdibstkq4xkrius2zclig.woff2": "/assets/64bd73af-librefranklin-jizdrevithgc8qdibstkq4xkrius2zclig.woff2"
+  },
+  "sliderConfig": {
+    "id": "5",
+    "alias": "banner",
+    "title": "Banner principal",
+    "slider_params": {
+      "addOns": [],
+      "version": "6.7.58",
+      "pakps": false,
+      "shortcode": "[rev_slider alias=\"banner\"][/rev_slider]",
+      "type": "standard",
+      "layouttype": "fullwidth",
+      "sourcetype": "gallery",
+      "googleFont": [],
+      "id": "",
+      "class": "",
+      "wrapperclass": "",
+      "snap": {
+        "adjust": "none",
+        "snap": false,
+        "helpLines": false,
+        "gap": 20
+      },
+      "acc": {
+        "use": false,
+        "live": false
+      },
+      "source": {
+        "type": "",
+        "post": {
+          "excerptLimit": 55,
+          "maxPosts": 30
+        },
+        "woo": {
+          "excerptLimit": 55,
+          "maxProducts": 30
+        },
+        "instagram": {
+          "count": 8
+        },
+        "facebook": {
+          "count": 8
+        },
+        "flickr": {
+          "count": 8
+        },
+        "twitter": {
+          "count": 8
+        },
+        "vimeo": {
+          "count": 8
+        },
+        "youtube": {
+          "count": 8
+        }
+      },
+      "def": {
+        "intelligentInherit": true,
+        "autoResponsive": true,
+        "responsiveChilds": true,
+        "responsiveOffset": true,
+        "transition": "fade",
+        "transitionDuration": 300,
+        "delay": "12000ms",
+        "background": {
+          "fit": "cover",
+          "fitX": 100,
+          "fitY": 100,
+          "position": "center center",
+          "positionX": 0,
+          "positionY": 0,
+          "repeat": "no-repeat",
+          "imageSourceType": "full"
+        },
+        "panZoom": {
+          "set": false,
+          "blurStart": 0,
+          "blurEnd": 0,
+          "duration": 10000,
+          "ease": "none",
+          "fitEnd": 100,
+          "fitStart": 100,
+          "xEnd": 0,
+          "yEnd": 0,
+          "xStart": 0,
+          "yStart": 0,
+          "rotateStart": 0,
+          "rotateEnd": 0
+        }
+      },
+      "size": {
+        "enableUpscaling": false,
+        "respectAspectRatio": false,
+        "disableForceFullWidth": false,
+        "custom": {
+          "d": true,
+          "n": false,
+          "t": false,
+          "m": false
+        },
+        "minHeightFullScreen": 0,
+        "minHeight": 0,
+        "maxWidth": 0,
+        "maxHeight": 0,
+        "fullScreenOffsetContainer": "",
+        "fullScreenOffset": "",
+        "width": {
+          "d": 1200,
+          "n": 1200,
+          "t": 778,
+          "m": 600
+        },
+        "height": {
+          "d": 600,
+          "n": 1200,
+          "t": 778,
+          "m": 600
+        },
+        "editorCache": {
+          "d": 600,
+          "n": 1200,
+          "t": 777,
+          "m": 600
+        },
+        "overflow": false,
+        "useFullScreenHeight": true,
+        "overflowHidden": false,
+        "gridEQModule": false,
+        "forceOverflow": false,
+        "keepBPHeight": false,
+        "ignoreHeightChanges": true,
+        "layersAlignOnModule": false
+      },
+      "codes": {
+        "css": ".rs-layer.phone-number * {\n \tcolor:inherit;\n    text-decoration:inherit;\n}",
+        "javascript": "",
+        "javascript7": ""
+      },
+      "carousel": {
+        "orientation": "h",
+        "prevNextVis": "50px",
+        "justify": false,
+        "justifyMaxWidth": false,
+        "snap": true,
+        "borderRadius": 0,
+        "borderRadiusUnit": "px",
+        "ease": "power3.inOut",
+        "fadeOut": true,
+        "scale": false,
+        "offsetScale": false,
+        "horizontal": "center",
+        "vertical": "center",
+        "infinity": false,
+        "maxItems": 3,
+        "maxRotation": 0,
+        "maxOpacity": 100,
+        "paddingTop": 0,
+        "paddingBottom": 0,
+        "rotation": false,
+        "scaleDown": 50,
+        "space": 0,
+        "speed": 800,
+        "stretch": false,
+        "varyFade": false,
+        "varyRotate": false,
+        "varyScale": false,
+        "showAllLayers": "false",
+        "skewX": 0,
+        "skewY": 0,
+        "spin": "off",
+        "spinAngle": 0,
+        "overshoot": false
+      },
+      "hero": {
+        "activeSlide": -1
+      },
+      "layout": {
+        "bg": {
+          "color": "transparent",
+          "padding": 0,
+          "dottedOverlay": "none",
+          "dottedOverlaySize": 1,
+          "dottedColorA": "transparent",
+          "dottedColorB": "#000000",
+          "shadow": 0,
+          "useImage": false,
+          "image": "",
+          "imageSourceType": "full",
+          "fit": "cover",
+          "position": "center center",
+          "repeat": "no-repeat"
+        },
+        "spinner": {
+          "color": "#ffffff",
+          "type": "6"
+        },
+        "position": {
+          "marginTop": 0,
+          "marginBottom": 0,
+          "marginLeft": 0,
+          "marginRight": 0,
+          "align": "center",
+          "fixedOnTop": false,
+          "addClear": false
+        }
+      },
+      "visibility": {
+        "hideSelectedLayersUnderLimit": 0,
+        "hideAllLayersUnderLimit": 0,
+        "hideSliderUnderLimit": 0
+      },
+      "general": {
+        "slideshow": {
+          "slideShow": true,
+          "stopOnHover": false,
+          "stopSlider": false,
+          "stopAfterLoops": 0,
+          "stopAtSlide": 1,
+          "shuffle": false,
+          "loopSingle": false,
+          "viewPort": false,
+          "viewPortStart": "wait",
+          "viewPortArea": {
+            "d": {
+              "v": "200px",
+              "e": false,
+              "u": ""
+            },
+            "n": {
+              "v": "200px",
+              "e": false,
+              "u": ""
+            },
+            "t": {
+              "v": "200px",
+              "e": false,
+              "u": ""
+            },
+            "m": {
+              "v": "200px",
+              "e": false,
+              "u": ""
+            }
+          },
+          "presetSliderHeight": false,
+          "initDelay": 0,
+          "waitForInit": false,
+          "globalViewPort": "true",
+          "globalViewDist": "-200px"
+        },
+        "progressbar": {
+          "set": false,
+          "alignby": "slider",
+          "style": "horizontal",
+          "size": "5px",
+          "radius": 10,
+          "vertical": "bottom",
+          "horizontal": "left",
+          "x": 0,
+          "y": 0,
+          "color": "rgba(255,255,255,0.5)",
+          "bgcolor": "transparent",
+          "basedon": "slide",
+          "gapsize": 0,
+          "gap": false,
+          "gapcolor": "rgba(255,255,255,0.5)",
+          "reset": "reset",
+          "visibility": {
+            "d": true,
+            "m": true,
+            "n": true,
+            "t": true
+          }
+        },
+        "firstSlide": {
+          "set": false,
+          "duration": 300,
+          "slotAmount": 7,
+          "type": "fade",
+          "alternativeFirstSlideSet": false,
+          "alternativeFirstSlide": 1
+        },
+        "icache": "default",
+        "DPR": "dpr",
+        "observeWrap": false,
+        "layerSelection": false,
+        "lazyLoad": "single",
+        "nextSlideOnFocus": false,
+        "disableFocusListener": false,
+        "freezeOnBlur": false,
+        "mISB": false,
+        "enableurlhash": false,
+        "disableOnMobile": false,
+        "autoPlayVideoOnMobile": true,
+        "disablePanZoomMobile": false,
+        "useWPML": false,
+        "perspective": 600,
+        "perspectiveType": "global"
+      },
+      "nav": {
+        "acc": {
+          "hidden": true,
+          "pressed": "unset",
+          "next": "Next Slide",
+          "prev": "Previous Slide",
+          "role": "button",
+          "tab": "Tab",
+          "thumb": "Thumbnail",
+          "bullet": "Bullet"
+        },
+        "preview": {
+          "width": 50,
+          "height": 100
+        },
+        "swipe": {
+          "set": false,
+          "setOnDesktop": false,
+          "setMobileCarousel": true,
+          "setDesktopCarousel": true,
+          "blockDragVertical": false,
+          "direction": "horizontal",
+          "minTouch": 1,
+          "velocity": 75
+        },
+        "keyboard": {
+          "direction": "horizontal",
+          "set": false
+        },
+        "mouse": {
+          "set": "on",
+          "reverse": "default",
+          "viewport": 50,
+          "calldelay": 1000,
+          "threshold": 50
+        },
+        "arrows": {
+          "set": true,
+          "rtl": false,
+          "animSpeed": "1000ms",
+          "animDelay": "1000ms",
+          "style": "1000",
+          "preset": "",
+          "presets": {
+            "bg-color": "rgba(0,0,0,0.5)",
+            "bg-color-def": false,
+            "bg-size": "50",
+            "bg-size-def": true,
+            "arrow-color": "#ffffff",
+            "arrow-color-def": false,
+            "arrow-size": "25",
+            "arrow-size-def": true,
+            "hover-bg-color": "#000000",
+            "hover-bg-color-def": false,
+            "left-icon": "\\e82c",
+            "left-icon-def": false,
+            "right-icon": "\\e82d",
+            "right-icon-def": false
+          },
+          "alwaysOn": true,
+          "hideDelay": 200,
+          "hideDelayMobile": 1200,
+          "hideOver": false,
+          "hideOverLimit": 0,
+          "hideUnder": false,
+          "hideUnderLimit": 778,
+          "left": {
+            "anim": "fade",
+            "horizontal": "left",
+            "vertical": "center",
+            "offsetX": "25px",
+            "offsetY": "0px",
+            "align": "slider"
+          },
+          "right": {
+            "anim": "fade",
+            "horizontal": "right",
+            "vertical": "center",
+            "offsetX": "90px",
+            "offsetY": "0px",
+            "align": "slider"
+          }
+        },
+        "thumbs": {
+          "anim": "fade",
+          "animSpeed": "1000ms",
+          "animDelay": "1000ms",
+          "set": false,
+          "rtl": false,
+          "style": "2000",
+          "preset": "default",
+          "presets": {
+            "title-bg": "rgba(0,0,0,0.85)",
+            "title-bg-def": false,
+            "title-color": "#ffffff",
+            "title-color-def": false,
+            "title-font-size": "12",
+            "title-font-size-def": false
+          },
+          "alwaysOn": true,
+          "hideDelay": 200,
+          "hideDelayMobile": 1200,
+          "hideOver": false,
+          "hideOverLimit": 0,
+          "hideUnder": false,
+          "hideUnderLimit": 778,
+          "spanWrapper": false,
+          "horizontal": "center",
+          "vertical": "bottom",
+          "amount": 5,
+          "direction": "horizontal",
+          "height": "160",
+          "width": "160",
+          "widthMin": 100,
+          "innerOuter": "inner",
+          "offsetX": 0,
+          "offsetY": 20,
+          "space": 5,
+          "align": "slider",
+          "padding": 5,
+          "wrapperColor": "transparent",
+          "mhoffset": 0,
+          "mvoffset": 0
+        },
+        "tabs": {
+          "anim": "fade",
+          "animSpeed": "1000ms",
+          "animDelay": "1000ms",
+          "set": false,
+          "rtl": false,
+          "style": "4000",
+          "preset": "default",
+          "presets": [],
+          "alwaysOn": true,
+          "hideDelay": 200,
+          "hideDelayMobile": 1200,
+          "hideOver": false,
+          "hideOverLimit": 0,
+          "hideUnder": false,
+          "hideUnderLimit": 778,
+          "spanWrapper": false,
+          "horizontal": "center",
+          "vertical": "bottom",
+          "amount": 5,
+          "direction": "horizontal",
+          "height": 50,
+          "width": 100,
+          "widthMin": 100,
+          "innerOuter": "inner",
+          "offsetX": 0,
+          "offsetY": 20,
+          "space": 5,
+          "align": "slider",
+          "padding": 5,
+          "wrapperColor": "transparent",
+          "mhoffset": 0,
+          "mvoffset": 0
+        },
+        "bullets": {
+          "anim": "fade",
+          "animSpeed": "1000ms",
+          "animDelay": "1000ms",
+          "set": false,
+          "rtl": false,
+          "style": "3000",
+          "preset": "default",
+          "presets": [],
+          "alwaysOn": true,
+          "horizontal": "center",
+          "vertical": "bottom",
+          "direction": "horizontal",
+          "offsetX": 0,
+          "offsetY": 20,
+          "align": "slider",
+          "space": 5,
+          "hideDelay": 200,
+          "hideDelayMobile": 1200,
+          "hideOver": false,
+          "hideOverLimit": 0,
+          "hideUnder": false,
+          "hideUnderLimit": 778
+        },
+        "scrubber": {
+          "set": false,
+          "preset": "default",
+          "animSpeed": "1000ms",
+          "on": true,
+          "direction": "horizontal",
+          "s": 1000,
+          "dIn": 1000,
+          "dOut": 1200,
+          "show": true,
+          "space": 5,
+          "width": 100,
+          "widthMin": 100,
+          "height": 30,
+          "align": "slider",
+          "anim": "fade",
+          "innerOuter": "inner",
+          "offsetX": 0,
+          "offsetY": 20,
+          "vertical": "bottom",
+          "horizontal": "center",
+          "wrapperColor": "transparent",
+          "spanWrapper": false,
+          "padding": 5,
+          "thumbScale": "100%",
+          "handleScale": "100%",
+          "hoverScale": false,
+          "thumbnail": true,
+          "handleProgress": false,
+          "progressAlign": "left",
+          "scale": "100",
+          "fade": true,
+          "animScale": false,
+          "translate": "50px",
+          "spin": false,
+          "handleArrows": true,
+          "trackPattern": "dots",
+          "minSize": "60%",
+          "thumbOffset": "0",
+          "skew": "0",
+          "changeOnRelease": false,
+          "style": "5000",
+          "presets": {
+            "title-bg": "rgba(0,0,0,0.15)",
+            "title-bg-def": false,
+            "title-color": "#ffffff",
+            "title-color-def": false,
+            "title-font-size": "12",
+            "title-font-size-def": false,
+            "bg-color": "rgba(0, 0, 0, 0.5)",
+            "bg-color-def": false,
+            "handle-bg": "rgba(255, 255, 255, 0.3)",
+            "handle-bg-def": false,
+            "pattern-color": "#ffffff",
+            "pattern-color-def": false,
+            "progress-bg": "rgba(0, 0, 0, 0.5)",
+            "progress-bg-def": false,
+            "arrow-color": "#ffffff",
+            "arrow-color-def": false,
+            "arrow-size": "20",
+            "arrow-size-def": false,
+            "arrow-space": "30",
+            "arrow-space-def": false,
+            "left-icon": "\\e82c",
+            "left-icon-def": false,
+            "right-icon": "\\e82d",
+            "right-icon-def": false
+          }
+        }
+      },
+      "troubleshooting": {
+        "alternateImageType": "off",
+        "alternateURL": "",
+        "jsNoConflict": false,
+        "jsInBody": false,
+        "outPutFilter": "none",
+        "simplify_ie8_ios4": false
+      },
+      "parallax": {
+        "set": false,
+        "setDDD": false,
+        "disableOnMobile": false,
+        "levels": [
+          5,
+          10,
+          15,
+          20,
+          25,
+          30,
+          35,
+          40,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          30
+        ],
+        "ddd": {
+          "BGFreeze": false,
+          "layerOverflow": false,
+          "overflow": false,
+          "shadow": false,
+          "zCorrection": 65
+        },
+        "mouse": {
+          "speed": 0,
+          "bgSpeed": 0,
+          "layersSpeed": 0,
+          "origo": "slidercenter",
+          "type": "scroll",
+          "omulti": 1,
+          "smulti": 1,
+          "env": "single",
+          "dir": "same"
+        }
+      },
+      "modal": {
+        "bodyclass": "",
+        "horizontal": "center",
+        "vertical": "middle",
+        "cover": true,
+        "allowPageScroll": false,
+        "coverColor": "rgba(0,0,0,0.5)",
+        "coverSpeed": 1000
+      },
+      "scrolleffects": {
+        "set": true,
+        "setBlur": false,
+        "setFade": false,
+        "setGrayScale": false,
+        "bg": false,
+        "direction": "both",
+        "layers": false,
+        "maxBlur": 10,
+        "multiplicator": "1.3",
+        "multiplicatorLayers": "1.3",
+        "disableOnMobile": false,
+        "parallaxLayers": false,
+        "staticLayers": false,
+        "staticParallaxLayers": false,
+        "tilt": 30
+      },
+      "scrolltimeline": {
+        "align": "top",
+        "set": false,
+        "fixed": false,
+        "fixedStart": 2000,
+        "fixedEnd": 4000,
+        "layers": false,
+        "ease": "none",
+        "speed": 500,
+        "pullcontent": false
+      },
+      "skins": {
+        "colorsAtStart": false,
+        "cid": 2,
+        "colors": [
+          {
+            "alias": "Highlight",
+            "v": "transparent",
+            "ref": []
+          },
+          {
+            "alias": "Headline Text",
+            "v": "#ffffff",
+            "ref": []
+          },
+          {
+            "alias": "Content Text",
+            "v": "#156ba0",
+            "ref": []
+          }
+        ]
+      },
+      "modalshortcode": "[rev_slider usage=\"modal\" alias=\"banner\"][/rev_slider]"
+    },
+    "slider_settings": {
+      "version": "6.7.58"
+    },
+    "slides": [
+      {
+        "order": "1",
+        "params": {
+          "title": "7459 Atención Importadores OEA-GT",
+          "bg": {
+            "type": "image",
+            "image": "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/12/Atencion-Importadores-OEA-GT-1.jpg",
+            "imageId": 91966,
+            "imageLib": "medialibrary",
+            "imageWidth": 3000,
+            "imageHeight": 1137,
+            "imageRatio": 2.638522427440633
+          },
+          "info": {
+            "params": [
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              }
+            ]
+          },
+          "slideChange": {
+            "in": {
+              "o": 0
+            },
+            "out": {
+              "a": false
+            },
+            "title": "*opacity* Fade In",
+            "main": "basic",
+            "group": "fade",
+            "preset": "fade"
+          },
+          "seo": {
+            "set": true,
+            "link": "https://portal.sat.gob.gt/portal/operador-economico-autorizado/"
+          },
+          "nav": {
+            "arrows": {
+              "presets": {
+                "bg-color": "rgba(0,0,0,0.5)",
+                "bg-color-def": false,
+                "bg-size": "40",
+                "bg-size-def": false,
+                "arrow-color": "#ffffff",
+                "arrow-color-def": false,
+                "arrow-size": "20",
+                "arrow-size-def": false,
+                "hover-bg-color": "#000000",
+                "hover-bg-color-def": false,
+                "left-icon": "\\e82c",
+                "left-icon-def": false,
+                "right-icon": "\\e82d",
+                "right-icon-def": false
+              }
+            }
+          },
+          "version": "6.7.56",
+          "thumb": {
+            "customThumbSrc": "https://portal.sat.gob.gt/portal/wp-content/uploads/2025/12/Atencion-Importadores-OEA-GT-1-50x100.jpg"
+          }
+        },
+        "layers": {
+          "top": {
+            "uid": "top",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "TOP ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          },
+          "middle": {
+            "uid": "middle",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "MID ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          },
+          "bottom": {
+            "uid": "bottom",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "BOTTOM ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          }
+        },
+        "id": 61
+      },
+      {
+        "order": "2",
+        "params": {
+          "title": "8616 si eres contribuyente",
+          "bg": {
+            "type": "image",
+            "image": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/06/Banner-Portal-Declaraguate-a-AV-02.jpg",
+            "imageId": 95187,
+            "imageLib": "medialibrary",
+            "imageWidth": 2800,
+            "imageHeight": 1105,
+            "imageRatio": 2.5339366515837103
+          },
+          "info": {
+            "params": [
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              }
+            ]
+          },
+          "slideChange": {
+            "in": {
+              "o": 0
+            },
+            "out": {
+              "a": false
+            },
+            "title": "*opacity* Fade In",
+            "main": "basic",
+            "group": "fade",
+            "preset": "fade"
+          },
+          "seo": {
+            "set": true,
+            "link": "https://farm3.sat.gob.gt/menu/login.jsf"
+          },
+          "nav": {
+            "arrows": {
+              "presets": {
+                "bg-color": "rgba(0,0,0,0.5)",
+                "bg-color-def": false,
+                "bg-size": "40",
+                "bg-size-def": false,
+                "arrow-color": "#ffffff",
+                "arrow-color-def": false,
+                "arrow-size": "20",
+                "arrow-size-def": false,
+                "hover-bg-color": "#000000",
+                "hover-bg-color-def": false,
+                "left-icon": "\\e82c",
+                "left-icon-def": false,
+                "right-icon": "\\e82d",
+                "right-icon-def": false
+              }
+            }
+          },
+          "version": "6.7.56",
+          "thumb": {
+            "customThumbSrc": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/06/Banner-Portal-Declaraguate-a-AV-02-50x100.jpg"
+          }
+        },
+        "layers": {
+          "top": {
+            "uid": "top",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "TOP ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          },
+          "middle": {
+            "uid": "middle",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "MID ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          },
+          "bottom": {
+            "uid": "bottom",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "BOTTOM ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          }
+        },
+        "id": 74
+      },
+      {
+        "order": "3",
+        "params": {
+          "title": "8953 Canales Denuncia",
+          "bg": {
+            "type": "image",
+            "image": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/07-16-2026-BANNER-CANALES.jpg",
+            "imageId": 95741,
+            "imageLib": "medialibrary",
+            "imageWidth": 3958,
+            "imageHeight": 1562,
+            "imageRatio": 2.5339308578745197
+          },
+          "info": {
+            "params": [
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              }
+            ]
+          },
+          "slideChange": {
+            "in": {
+              "o": 0
+            },
+            "out": {
+              "a": false
+            },
+            "title": "*opacity* Fade In",
+            "main": "basic",
+            "group": "fade",
+            "preset": "fade"
+          },
+          "seo": {
+            "set": true,
+            "link": "https://portal.sat.gob.gt/portal/contacto/denuncias-por-corrupcion/"
+          },
+          "nav": {
+            "arrows": {
+              "presets": {
+                "bg-color": "rgba(0,0,0,0.5)",
+                "bg-color-def": false,
+                "bg-size": "40",
+                "bg-size-def": false,
+                "arrow-color": "#ffffff",
+                "arrow-color-def": false,
+                "arrow-size": "20",
+                "arrow-size-def": false,
+                "hover-bg-color": "#000000",
+                "hover-bg-color-def": false,
+                "left-icon": "\\e82c",
+                "left-icon-def": false,
+                "right-icon": "\\e82d",
+                "right-icon-def": false
+              }
+            }
+          },
+          "version": "6.7.58",
+          "thumb": {
+            "customThumbSrc": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/07-16-2026-BANNER-CANALES-50x100.jpg"
+          }
+        },
+        "layers": {
+          "top": {
+            "uid": "top",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "TOP ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          },
+          "middle": {
+            "uid": "middle",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "MID ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          },
+          "bottom": {
+            "uid": "bottom",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "BOTTOM ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          }
+        },
+        "id": 80
+      },
+      {
+        "order": "4",
+        "params": {
+          "title": "7966 No te dejes Engañar",
+          "bg": {
+            "type": "image",
+            "image": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/02/Banner-portal-No-te-dejes-engañar.jpg",
+            "imageId": 93013,
+            "imageLib": "medialibrary",
+            "imageWidth": 2850,
+            "imageHeight": 1125,
+            "imageRatio": 2.533333333333333
+          },
+          "info": {
+            "params": [
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              }
+            ]
+          },
+          "slideChange": {
+            "in": {
+              "o": 0
+            },
+            "out": {
+              "a": false
+            },
+            "title": "*opacity* Fade In",
+            "main": "basic",
+            "group": "fade",
+            "preset": "fade"
+          },
+          "seo": {
+            "set": true,
+            "link": "https://farm3.sat.gob.gt/menu/login.jsf"
+          },
+          "nav": {
+            "arrows": {
+              "presets": {
+                "bg-color": "rgba(0,0,0,0.5)",
+                "bg-color-def": false,
+                "bg-size": "40",
+                "bg-size-def": false,
+                "arrow-color": "#ffffff",
+                "arrow-color-def": false,
+                "arrow-size": "20",
+                "arrow-size-def": false,
+                "hover-bg-color": "#000000",
+                "hover-bg-color-def": false,
+                "left-icon": "\\e82c",
+                "left-icon-def": false,
+                "right-icon": "\\e82d",
+                "right-icon-def": false
+              }
+            }
+          },
+          "version": "6.7.56",
+          "thumb": {
+            "customThumbSrc": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/02/Banner-portal-No-te-dejes-engañar-50x100.jpg"
+          }
+        },
+        "layers": {
+          "top": {
+            "uid": "top",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "TOP ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          },
+          "middle": {
+            "uid": "middle",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "MID ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          },
+          "bottom": {
+            "uid": "bottom",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "BOTTOM ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          }
+        },
+        "id": 75
+      },
+      {
+        "order": "5",
+        "params": {
+          "title": "8962 Corazon azul",
+          "bg": {
+            "type": "image",
+            "image": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/BANNER-PORTAL-CAMPAÑA-CORAZON-AZUL.jpg",
+            "imageId": 95825,
+            "imageLib": "medialibrary",
+            "imageWidth": 3958,
+            "imageHeight": 1562,
+            "imageRatio": 2.5339308578745197
+          },
+          "info": {
+            "params": [
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              },
+              {
+                "v": "",
+                "l": 10
+              }
+            ]
+          },
+          "slideChange": {
+            "in": {
+              "o": 0
+            },
+            "out": {
+              "a": false
+            },
+            "title": "*opacity* Fade In",
+            "main": "basic",
+            "group": "fade",
+            "preset": "fade"
+          },
+          "seo": {
+            "set": true,
+            "link": "https://svet.gob.gt/tratadepersonas/"
+          },
+          "nav": {
+            "arrows": {
+              "presets": {
+                "bg-color": "rgba(0,0,0,0.5)",
+                "bg-color-def": false,
+                "bg-size": "40",
+                "bg-size-def": false,
+                "arrow-color": "#ffffff",
+                "arrow-color-def": false,
+                "arrow-size": "20",
+                "arrow-size-def": false,
+                "hover-bg-color": "#000000",
+                "hover-bg-color-def": false,
+                "left-icon": "\\e82c",
+                "left-icon-def": false,
+                "right-icon": "\\e82d",
+                "right-icon-def": false
+              }
+            }
+          },
+          "version": "6.7.58",
+          "thumb": {
+            "customThumbSrc": "https://portal.sat.gob.gt/portal/wp-content/uploads/2026/07/BANNER-PORTAL-CAMPAÑA-CORAZON-AZUL-50x100.jpg"
+          }
+        },
+        "layers": {
+          "top": {
+            "uid": "top",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "TOP ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          },
+          "middle": {
+            "uid": "middle",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "MID ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          },
+          "bottom": {
+            "uid": "bottom",
+            "group": {
+              "puid": -1,
+              "groupOrder": 0
+            },
+            "type": "zone",
+            "alias": "BOTTOM ROWS",
+            "position": {
+              "zIndex": 0
+            },
+            "text": "",
+            "toggle": {
+              "text": ""
+            }
+          }
+        },
+        "id": 81
+      }
+    ],
+    "static_slide": {
+      "params": {
+        "static": {
+          "isstatic": true
+        },
+        "title": "Global Layers",
+        "info": {
+          "params": [
+            {
+              "v": "",
+              "l": 10
+            },
+            {
+              "v": "",
+              "l": 10
+            },
+            {
+              "v": "",
+              "l": 10
+            },
+            {
+              "v": "",
+              "l": 10
+            },
+            {
+              "v": "",
+              "l": 10
+            },
+            {
+              "v": "",
+              "l": 10
+            },
+            {
+              "v": "",
+              "l": 10
+            },
+            {
+              "v": "",
+              "l": 10
+            },
+            {
+              "v": "",
+              "l": 10
+            },
+            {
+              "v": "",
+              "l": 10
+            }
+          ]
+        },
+        "slideChange": {
+          "in": {
+            "o": 0
+          },
+          "out": {
+            "a": false
+          },
+          "title": "*opacity* Fade In",
+          "main": "basic",
+          "group": "fade",
+          "preset": "fade"
+        },
+        "nav": {
+          "arrows": {
+            "presets": {
+              "bg-color": "rgba(0,0,0,0.5)",
+              "bg-color-def": false,
+              "bg-size": "40",
+              "bg-size-def": false,
+              "arrow-color": "#ffffff",
+              "arrow-color-def": false,
+              "arrow-size": "20",
+              "arrow-size-def": false,
+              "hover-bg-color": "#000000",
+              "hover-bg-color-def": false,
+              "left-icon": "\\e82c",
+              "left-icon-def": false,
+              "right-icon": "\\e82d",
+              "right-icon-def": false
+            }
+          }
+        },
+        "version": "6.7.21"
+      },
+      "layers": {
+        "top": {
+          "uid": "top",
+          "group": {
+            "puid": -1,
+            "groupOrder": 0
+          },
+          "type": "zone",
+          "alias": "TOP ROWS",
+          "position": {
+            "zIndex": 0
+          },
+          "version": "6.6.21"
+        },
+        "middle": {
+          "uid": "middle",
+          "group": {
+            "puid": -1,
+            "groupOrder": 0
+          },
+          "type": "zone",
+          "alias": "MID ROWS",
+          "position": {
+            "zIndex": 0
+          },
+          "version": "6.6.21"
+        },
+        "bottom": {
+          "uid": "bottom",
+          "group": {
+            "puid": -1,
+            "groupOrder": 0
+          },
+          "type": "zone",
+          "alias": "BOTTOM ROWS",
+          "position": {
+            "zIndex": 0
+          },
+          "version": "6.6.21"
+        }
+      },
+      "id": 13
+    },
+    "navs": {
+      "arrows": {
+        "1000": {
+          "id": 1000,
+          "handle": "hesperiden",
+          "type": "arrows",
+          "name": "Hesperiden",
+          "css": ".hesperiden.tparrows {\n\tcursor:pointer;\n\tbackground:##bg-color##;\n\twidth:##bg-size##px;\n\theight:##bg-size##px;\n\tposition:absolute;\n\tdisplay:block;\n\tz-index:1000;\n    border-radius: 50%;\n}\n.hesperiden.tparrows.rs-touchhover {\n\tbackground:##hover-bg-color##;\n}\n.hesperiden.tparrows:before {\n\tfont-family: 'revicons';\n\tfont-size:##arrow-size##px;\n\tcolor:##arrow-color##;\n\tdisplay:block;\n\tline-height: ##bg-size##px;\n\ttext-align: center;\n}\n.hesperiden.tparrows.tp-leftarrow:before {\n\tcontent: '##left-icon##';\n    margin-left:-3px;\n}\n.hesperiden.tparrows.tp-rightarrow:before {\n\tcontent: '##right-icon##';\n    margin-right:-3px;\n}",
+          "markup": "",
+          "factory": true,
+          "dim": {
+            "width": "160",
+            "height": "160"
+          },
+          "placeholders": {
+            "bg-color": {
+              "title": "BG-Color",
+              "type": "color",
+              "data": "rgba(0,0,0,0.5)"
+            },
+            "bg-size": {
+              "title": "BG-Size",
+              "type": "custom",
+              "data": "40"
+            },
+            "arrow-color": {
+              "title": "Arrow-Color",
+              "type": "color",
+              "data": "#ffffff"
+            },
+            "arrow-size": {
+              "title": "Arrow-Size",
+              "type": "custom",
+              "data": "20"
+            },
+            "hover-bg-color": {
+              "title": "Hover-BG-Color",
+              "type": "color",
+              "data": "#000000"
+            },
+            "left-icon": {
+              "title": "Left-Icon",
+              "type": "icon",
+              "data": "\\e82c"
+            },
+            "right-icon": {
+              "title": "Right-Icon",
+              "type": "icon",
+              "data": "\\e82d"
+            }
+          },
+          "presets": [],
+          "version": "6.0.0"
+        }
+      }
+    },
+    "trans": {
+      "basic": {
+        "icon": "aspect_ratio",
+        "fade": {
+          "title": "*opacity* Fade In",
+          "in": {
+            "o": 0
+          },
+          "out": {
+            "a": false
+          }
+        }
+      }
+    },
+    "v6v7ids": {
+      "s": {
+        "5": 13
+      },
+      "n": {
+        "25": 1,
+        "44": 3,
+        "47": 4,
+        "57": 5,
+        "58": 6,
+        "62": 7,
+        "65": 8,
+        "66": 9,
+        "67": 10,
+        "68": 11,
+        "69": 12,
+        "70": 15,
+        "71": 16,
+        "72": 17,
+        "73": 18,
+        "74": 19,
+        "75": 20,
+        "76": 21,
+        "77": 22,
+        "79": 23,
+        "80": 24,
+        "81": 25,
+        "82": 26,
+        "83": 27,
+        "84": 28,
+        "85": 29,
+        "86": 30,
+        "87": 31,
+        "88": 32,
+        "89": 33,
+        "90": 34,
+        "91": 35,
+        "92": 36,
+        "93": 37,
+        "94": 38,
+        "95": 39,
+        "96": 40,
+        "97": 41,
+        "98": 42,
+        "99": 43,
+        "100": 44,
+        "101": 45,
+        "102": 46,
+        "103": 47,
+        "105": 48,
+        "106": 49,
+        "107": 50,
+        "115": 59,
+        "116": 60,
+        "118": 61,
+        "119": 62,
+        "120": 63,
+        "122": 64,
+        "123": 65,
+        "124": 66,
+        "125": 67,
+        "126": 68,
+        "127": 69,
+        "128": 70,
+        "129": 71,
+        "131": 72,
+        "132": 73,
+        "133": 74,
+        "134": 75,
+        "135": 76,
+        "136": 77,
+        "137": 78,
+        "138": 79,
+        "139": 80,
+        "140": 81,
+        "141": 82
+      }
+    },
+    "addOns": []
+  }
+}

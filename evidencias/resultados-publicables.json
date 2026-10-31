@@ -1,0 +1,41 @@
+{
+  "purpose": "Resumen revisado para publicación académica; no contiene rutas del equipo ni capturas de sesión.",
+  "source": "Informe local Playwright, conservado fuera de Git.",
+  "test_run_started_at": "2026-10-31T16:45:33.953Z",
+  "statistics": {
+    "duration": 59144.6,
+    "expected": 22,
+    "unexpected": 0,
+    "skipped": 0,
+    "flaky": 0
+  },
+  "viewports": [
+    {
+      "name": "desktop",
+      "width": 1520,
+      "height": 900
+    },
+    {
+      "name": "mobile",
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "coverage": {
+    "local_content_routes_per_viewport": 150,
+    "categories": 15,
+    "service_cards": 111
+  },
+  "build": {
+    "command": "npm run build",
+    "result": "passed",
+    "verified_date": "2026-10-31",
+    "vite": "8.3.5"
+  },
+  "limits": [
+    "Las pruebas de interfaz son históricas del código de esta primera versión; no se volvieron a ejecutar para cambios de documentación y .gitignore.",
+    "Las rutas se comprobaron por renderizado; no se pulsó cada enlace individualmente.",
+    "No se visitaron todos los destinos externos ni se probaron trámites reales.",
+    "Móvil utiliza emulación Chromium, no un teléfono físico."
+  ]
+}
