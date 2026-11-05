@@ -1,0 +1,44 @@
+{
+  "fechaLocal": "2026-11-04",
+  "zonaHoraria": "America/Guatemala",
+  "build": {"comando": "npm run build", "resultado": "aprobado"},
+  "pruebas": {
+    "comando": "npm test",
+    "total": 34,
+    "aprobadas": 34,
+    "fallidas": 0,
+    "escritorio": {"ancho": 1520, "alto": 900, "aprobadas": 17},
+    "movil": {"ancho": 390, "alto": 844, "aprobadas": 17},
+    "casosNuevosDeAccesosLaterales": 12
+  },
+  "comparacionVisual": {
+    "metodo": "Revisión manual contra las cinco capturas adjuntas y las observaciones de REA",
+    "capturasAdicionales": {"ancho": 1920, "alto": 932, "cantidad": 5},
+    "capturas": "capturas-laterales/",
+    "metricas": "laterales-revision-1920.json",
+    "sinImagenesRotas": true,
+    "sinDesbordesHorizontales": true,
+    "limites": ["No es una comparación automática de píxeles", "El diseño móvil se comprobó en la aplicación local; no se observó el original en móvil"]
+  },
+  "accesosProbadosDesdePortada": [
+    {"nombre": "Agencia Virtual", "ruta": "/demostracion/agencia-virtual", "nuevaPestana": true},
+    {"nombre": "Declaraguate", "ruta": "/demostracion/declaraguate", "nuevaPestana": true},
+    {"nombre": "UIPSAT", "ruta": "/contenido/portal/libre-acceso-la-informacion-publica/", "nuevaPestana": true},
+    {"nombre": "Denuncias Tributarias", "ruta": "/contenido/portal/contacto/denuncias-no-facturacion/", "nuevaPestana": false},
+    {"nombre": "Chat SAT", "ruta": "/contenido/portal/soporte-chat/", "nuevaPestana": false}
+  ],
+  "original": {
+    "herramienta": "REA mediante MCP y Chromium CDP en http://127.0.0.1:9222",
+    "pantallasInspeccionadas": 6,
+    "lupa": "Panel de búsqueda confirmado tras clic manual del usuario",
+    "rita": "Panel de conversación confirmado tras clic manual del usuario",
+    "comportamientosPendientesDeLupaORita": [],
+    "formulariosOriginalesEnviados": 0
+  },
+  "demostraciones": {
+    "datos": "ficticios",
+    "persistencia": "solo estado en memoria; se reinicia al recargar",
+    "backendSAT": false,
+    "documentosUIPSAT": "enlaces con orientación local; sin documentos legales íntegros"
+  }
+}

@@ -115,8 +115,8 @@ test('estadísticas demuestran selección de año sin presentar cifras reales',a
 });
 
 test('chat local responde a temas, admite mensaje y no aparenta atención oficial',async({page})=>{
- await page.getByRole('button',{name:'Abrir chat de demostración',exact:true}).click();const chat=page.getByRole('dialog',{name:'Chat de demostración',exact:true});
- await expect(chat).toContainText('No es atención oficial');await chat.getByRole('button',{name:'Impresión de RTU',exact:true}).click();await expect(chat.getByRole('log')).toContainText('La consulta muestra datos ficticios');
+ await page.getByRole('button',{name:'RITA · Chat de demostración',exact:true}).click();const chat=page.getByRole('dialog',{name:'Chat de demostración',exact:true});
+ await expect(chat).toContainText('No es atención oficial');await chat.getByRole('button',{name:'Información sobre RTU Digital',exact:true}).click();await expect(chat.getByRole('log')).toContainText('La consulta muestra datos ficticios');
  await chat.getByRole('textbox',{name:'Mensaje de demostración',exact:true}).fill('vehículos');await chat.getByRole('button',{name:'Enviar',exact:true}).click();await expect(chat.getByRole('log')).toContainText('Elegí «Vehículos»');
  await page.keyboard.press('Escape');await expect(chat).not.toBeVisible();
 });

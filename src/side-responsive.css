@@ -1,0 +1,314 @@
+/* Shared containment applies to both the original desktop layout and smaller views. */
+.av-layout > *,
+.uip-layout > *,
+.support-columns > *,
+.side-form,
+.side-form > *,
+.dg-workspace,
+.survey-form {
+  min-width: 0;
+}
+
+.side-form textarea {
+  resize: vertical;
+  line-height: 1.5;
+}
+
+.sat-side-page,
+.av-help,
+.av-account,
+.dg-workspace,
+.bubble {
+  overflow-wrap: anywhere;
+}
+
+.dg-table-wrap {
+  max-width: 100%;
+  overscroll-behavior-inline: contain;
+  scrollbar-width: thin;
+}
+
+.dg-table-wrap:focus-visible {
+  outline: 3px solid #00b4df;
+  outline-offset: 3px;
+}
+
+.dg-table-hint,
+.dg-announcement-text,
+.select-description {
+  display: none;
+}
+
+.modal-close {
+  z-index: 2;
+  min-width: 44px;
+  min-height: 44px;
+}
+
+/* Keep the two-column login on tablets where there is room for both sides. */
+@media (min-width: 901px) and (max-width: 1100px) {
+  .av-page .av-layout {
+    width: 100%;
+    max-width: 968px;
+    gap: 28px;
+    grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr);
+  }
+
+  .av-logo { width: 100%; height: auto; max-width: 320px; }
+  .av-panel { padding: 45px 28px 32px; min-height: 0; }
+  .av-panel h1 { margin-bottom: 30px; }
+}
+
+/* Tablet and phone controls have at least 44px of touch height. */
+@media (max-width: 1100px) {
+  :root { --access-offset: calc(60px + env(safe-area-inset-bottom, 0px)); }
+  html { scroll-padding-bottom: calc(var(--access-offset) + 16px); }
+  .app-portal { padding-bottom: var(--access-offset); }
+
+  .av-page button,
+  .av-page .side-back,
+  .dg-nav a,
+  .dg-forms button,
+  .dg-workspace button,
+  .side-form button,
+  .side-back,
+  .side-faq summary,
+  .sat-side-page .side-text-link,
+  .verify-button,
+  .captcha-refresh,
+  .chat-prompts button {
+    min-height: 44px;
+  }
+
+  .av-field button,
+  .captcha-refresh { min-width: 44px; }
+  .av-field button { flex: 0 0 44px; }
+  .av-field { gap: 8px; }
+  .av-delegated { min-height: 44px; }
+  .av-delegated input { flex-shrink: 0; }
+  .av-options { gap: 8px; }
+  .av-options button { padding: 8px 0; line-height: 1.5; }
+  .av-video { text-align: left; line-height: 1.5; }
+  .av-video svg { flex: none; }
+  .av-help button { padding: 8px 0; }
+
+  .side-form label,
+  .side-form input,
+  .side-form select,
+  .side-form textarea,
+  .complaint-sheet .side-form label,
+  .complaint-sheet .side-form input,
+  .complaint-verification input,
+  .chat-conversation form input,
+  .chat-modal form input,
+  .search-field input { font-size: 16px; }
+
+  .side-form input,
+  .side-form select,
+  .complaint-verification input,
+  .chat-conversation form input { min-height: 44px; }
+
+  .side-form button,
+  .side-status,
+  .av-help { overflow-wrap: anywhere; max-width: 100%; }
+  .side-demo-notice { font-size: 12px; line-height: 1.5; }
+  .sat-side-page .side-text-link { display: inline-block; padding-block: 8px; }
+  .side-form .primary-button { white-space: normal; }
+
+  .sat-side-page {
+    width: calc(100% - 64px);
+    margin: 0 auto;
+    padding: 30px 0 44px;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  .uip-description { text-align: left; }
+  .uip-section-title img { height: auto; max-height: 145px; }
+  .uip-request .uip-section-title img { height: auto; max-height: 160px; }
+  .uip-links > button { line-height: 1.5; }
+  .support-warning { white-space: normal; font-size: 16px; line-height: 1.5; padding: 12px; }
+  .support-hours { font-size: 21px; line-height: 1.4; }
+  .support-hours > .primary-button { min-height: 44px; }
+  .support-live-chat .messages { height: 300px; }
+  .chat-prompts button { font-size: 14px; padding: 9px 12px; }
+  .chat-conversation form button { min-height: 44px; }
+  .bubble { line-height: 1.5; }
+  .complaint-verification { line-height: 1.5; }
+  .complaint-verification small { font-size: 13px; }
+  .complaint-verification #captcha-notice { font-size: 12px; }
+  .select-description { display: block; font-size: 14px; margin: -8px 0 0; }
+
+  .dg-nav { gap: 10px 20px; }
+  .dg-nav a { display: flex; align-items: center; line-height: 1.4; }
+  .dg-ethics p { font-size: 18px; line-height: 1.5; text-align: left; }
+  .dg-announcement-text {
+    display: block;
+    margin: 14px 0 26px;
+    background: #eef8fc;
+    padding: 16px;
+    color: #164e73;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  .dg-announcement-text a { display: block; padding-top: 10px; text-decoration: underline; }
+  .dg-table-hint { display: block; color: #415c71; font-size: 14px; }
+  .dg-forms { min-width: 700px; font-size: 16px; }
+  .dg-forms td, .dg-forms th { padding: 12px; }
+  .dg-help { position: static; margin: 0 20px 24px auto; padding: 10px 16px; min-height: 44px; }
+  .dg-help img { width: 32px; height: 32px; }
+  .dg-body { padding-bottom: 20px; }
+
+  /* All seven accesses remain reachable even in a short landscape viewport. */
+  .side-access {
+    top: auto;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: stretch;
+    background: white;
+    border-top: 1px solid #d9e6ed;
+    box-shadow: 0 -2px 8px #0001;
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+  .side-access > div { display: flex; flex: 1; min-width: 0; width: auto; box-shadow: none; }
+  .side-access a, .side-access > div > button { flex: 1; min-width: 44px; width: auto; height: 59px; }
+  .side-access img { width: 28px; height: 28px; }
+  .side-access > .rita-launcher {
+    display: block;
+    flex: 0 0 44px;
+    width: 44px;
+    height: 59px;
+    margin: 0;
+    padding: 0;
+    background: #ffd43f;
+  }
+  .side-access > .rita-launcher > img { padding: 4px 2px 12px; }
+  .side-access > .rita-launcher small { font-size: 6px; line-height: 10px; }
+  .side-tooltip { display: none; }
+  .back-top { position: static; margin: 12px 20px 12px auto; width: 44px; height: 44px; }
+  .local-badge { position: static; display: table; max-width: calc(100% - 32px); margin: 12px 16px; font-size: 10px; }
+
+  .modal {
+    width: min(650px, calc(100% - 24px));
+    max-height: calc(100dvh - var(--access-offset) - 24px);
+    margin: auto;
+    overscroll-behavior: contain;
+    padding: 22px;
+  }
+  .modal h2 { margin-right: 40px; }
+  .search-modal[open] { display: flex; flex-direction: column; }
+  .search-modal > * { flex-shrink: 0; }
+  .search-modal .search-results { flex: 1 1 auto; min-height: 0; max-height: none; }
+  .search-results > a { min-height: 60px; }
+  .chat-modal[open] {
+    display: flex;
+    flex-direction: column;
+    width: min(440px, calc(100% - 24px));
+    height: min(650px, calc(100dvh - var(--access-offset) - 24px));
+    padding: 0;
+    margin: auto auto calc(var(--access-offset) + 12px);
+    overflow: hidden;
+  }
+  .chat-modal .chat-header { flex: none; padding: 16px; }
+  .chat-modal .chat-conversation { display: flex; flex-direction: column; min-height: 0; flex: 1; }
+  .chat-modal .messages { height: auto; min-height: 60px; flex: 1; overscroll-behavior: contain; }
+  .chat-modal .chat-prompts { flex: none; max-height: min(160px, 23dvh); overflow-y: auto; padding: 10px; }
+  .chat-modal .chat-conversation form { flex: none; margin: 0; padding: 10px; }
+}
+
+@media (max-width: 1000px) {
+  :root { --header-height: 64px; }
+  .header { padding: 0 16px; justify-content: space-between; }
+  .brand { flex-basis: 145px; }
+  .brand img { width: 145px; height: 60px; }
+  .menu-toggle { display: inline-flex; margin-left: auto; min-width: 44px; min-height: 44px; }
+  .contact-center { display: flex; min-width: 55px; }
+  .contact-center strong { font-size: 18px; }
+  .navigation {
+    display: none;
+    position: absolute;
+    inset: 64px 0 auto;
+    height: auto;
+    max-height: calc(100dvh - 64px - var(--access-offset) - 8px);
+    overflow-y: auto;
+    background: var(--blue);
+    padding: 8px 16px;
+    box-shadow: 0 4px 8px #0002;
+  }
+  .navigation.expanded { display: block; }
+  .navigation > a { font-size: 16px; white-space: normal; min-height: 44px; padding: 10px 12px; border-right: 0; border-bottom: 1px solid #ffffff26; }
+  .navigation > a:first-child { display: none; }
+  .mobile-search { display: flex; align-items: center; gap: 8px; width: 100%; min-height: 44px; padding: 10px 12px; border: 0; background: none; color: white; text-align: left; }
+}
+
+@media (max-width: 900px) {
+  .av-page { display: block; padding: 64px 24px 32px; }
+  .av-page .av-layout { display: flex; flex-direction: column; width: 100%; max-width: 540px; gap: 24px; transform: none; }
+  .av-brand { width: 100%; padding-top: 0; }
+  .av-logo { width: 180px; height: auto; }
+  .av-video { margin: 12px 0 6px; font-size: 14px; }
+  .av-sat { width: 110px; height: auto; }
+  .av-panel { width: 100%; padding: 32px 28px; min-height: 0; }
+  .av-panel h1 { font-size: 28px; margin-bottom: 28px; white-space: normal; }
+  .av-options { margin-top: 24px; }
+  .uip-layout { display: flex; flex-direction: column; gap: 30px; }
+  .uip-links { width: 100%; }
+  .uip-section-title { min-height: 100px; gap: 24px; padding-bottom: 18px; margin-bottom: 24px; }
+  .uip-section-title img { width: 90px; height: auto; }
+  .uip-section-title h1, .uip-section-title h2 { text-align: left; font-size: 30px; }
+  .uip-request { margin-top: 44px; }
+  .uip-request .uip-section-title { min-height: 100px; }
+  .uip-request .uip-section-title img { height: auto; }
+  .support-columns { grid-template-columns: minmax(0, 1fr); gap: 36px; }
+  .support-survey { max-width: 600px; }
+  .survey-art { max-width: 406px; }
+}
+
+@media (max-width: 600px) {
+  .sat-side-page { width: auto; margin: 0; padding: 24px 16px 32px; }
+  .sat-page-title { font-size: 30px; }
+  .uip-section-title { gap: 16px; }
+  .uip-section-title img { width: 60px; }
+  .uip-section-title h1, .uip-section-title h2 { font-size: clamp(23px, 6.7vw, 29px); }
+  .uip-index { font-size: 16px; }
+  .uip-breadcrumb { flex-wrap: wrap; font-size: 12px; }
+  .av-page { padding-inline: 16px; }
+  .av-panel { padding: 28px 20px; }
+  .av-panel h1 { font-size: 25px; }
+  .av-field input { width: 0; flex: 1; font-size: 16px; }
+  .av-options { margin-inline: 0; }
+  .av-delegated { font-size: 16px; }
+  .av-panel > .side-demo-notice { font-size: 12px; }
+  .dg-nav { gap: 4px 12px; }
+  .dg-nav a { flex-basis: calc(50% - 6px); font-size: 15px; padding: 8px 0; }
+  .dg-ethics p { font-size: 16px; }
+  .dg-announcement { margin-inline: 0; }
+  .dg-workspace { padding: 16px; }
+  .dg-body { padding: 22px 16px; }
+  .dg-help { font-size: 15px; }
+  .complaint-frame { padding: 5px 5px 0; }
+  .complaint-sheet { padding: 24px 10px 18px; }
+  .complaint-sheet h2 { font-size: 18px; }
+  .demo-captcha { font-size: 40px; letter-spacing: 5px; }
+  .complaint-sheet .side-form .primary-button { width: 100%; padding-inline: 10px; }
+  .support-hours { padding: 16px 12px; font-size: 19px; }
+  .support-live-chat { padding: 12px; }
+  .support-live-chat .chat-prompts { gap: 8px; }
+  .chat-modal .chat-header h2 { font-size: 18px; }
+  .modal { padding: 22px 16px; }
+}
+
+/* A landscape phone has less vertical space than even a small portrait phone. */
+@media (max-width: 1100px) and (max-height: 500px) {
+  .chat-modal .chat-header { padding: 10px 14px; }
+  .chat-modal .chat-header h2 { font-size: 17px; }
+  .chat-modal .chat-header small { font-size: 11px; }
+  .chat-modal .chat-prompts { max-height: 64px; padding: 6px 10px; }
+  .chat-modal .messages { min-height: 56px; padding: 10px; }
+  .chat-modal .chat-conversation form { padding: 6px 10px; }
+  .search-modal > p { display: none; }
+  .search-modal h2 { margin-bottom: 8px; font-size: 22px; }
+}

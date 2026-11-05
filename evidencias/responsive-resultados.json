@@ -1,0 +1,89 @@
+{
+  "fechaLocal": "2026-11-04",
+  "zonaHoraria": "America/Guatemala",
+  "navegador": "Chromium",
+  "vistas": [
+    "Agencia Virtual",
+    "Declaraguate",
+    "UIPSAT",
+    "Denuncias Tributarias",
+    "Chat SAT"
+  ],
+  "paneles": [
+    "Lupa con resultados",
+    "RITA con mensajes y temas"
+  ],
+  "tamanos": [
+    {
+      "ancho": 320,
+      "alto": 740,
+      "horizontal": false,
+      "escenariosAprobados": 6
+    },
+    {
+      "ancho": 390,
+      "alto": 844,
+      "horizontal": false,
+      "escenariosAprobados": 6
+    },
+    {
+      "ancho": 768,
+      "alto": 1024,
+      "horizontal": false,
+      "escenariosAprobados": 6
+    },
+    {
+      "ancho": 1024,
+      "alto": 768,
+      "horizontal": false,
+      "escenariosAprobados": 6
+    },
+    {
+      "ancho": 1440,
+      "alto": 900,
+      "horizontal": false,
+      "escenariosAprobados": 6
+    },
+    {
+      "ancho": 844,
+      "alto": 390,
+      "horizontal": true,
+      "escenariosAprobados": 6
+    }
+  ],
+  "responsive": {
+    "comando": "npm run test:responsive",
+    "aprobadas": 36,
+    "fallidas": 0,
+    "omitidas": 0
+  },
+  "regresion": {
+    "comando": "npm test",
+    "aprobadas": 34,
+    "fallidas": 0,
+    "omitidas": 0
+  },
+  "build": {
+    "comando": "npm run build",
+    "resultado": "aprobado"
+  },
+  "comprobaciones": [
+    "Apertura de cada icono desde la portada y pestaña correcta",
+    "Sin desbordes horizontales de página en las vistas y estados abiertos",
+    "Campos contenidos e imágenes cargadas",
+    "Centro de controles accionables libre de superposiciones",
+    "Controles táctiles de al menos 44 px de alto",
+    "Tabla con desplazamiento dentro de su región cuando es necesario",
+    "Menú y temas RITA accesibles mediante desplazamiento",
+    "Sesión, recuperación, formularios, conversación y encuesta locales"
+  ],
+  "capturas": {
+    "carpeta": "responsive/",
+    "cantidad": 84,
+    "diagnosticoAnterior": "responsive-antes/"
+  },
+  "referencias": "Se reutilizaron las capturas e inspección REA documentadas en laterales-inspeccion.md.",
+  "limites": [
+    "Pruebas automatizadas y revisión visual en Chromium; no son pruebas físicas de iOS o Android ni de sus teclados virtuales."
+  ]
+}

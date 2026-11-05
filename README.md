@@ -40,6 +40,28 @@ Los recursos visuales y tipográficos están en `public/assets/`. La portada y s
 
 ## Comprobaciones
 
+### Pantallas de los accesos laterales
+
+Actualización del 4 de noviembre de 2026: los íconos abren cinco vistas React propias. Agencia Virtual, Declaraguate y UIPSAT abren una pestaña local nueva, según sus enlaces originales. Denuncias Tributarias y Chat SAT navegan en la pestaña actual. La lupa abre búsqueda y RITA un panel independiente de conversación; ambos comportamientos se confirmaron con acciones manuales del usuario e inspección REA.
+
+Agencia Virtual usa el usuario ficticio `DEMO-001`; Declaraguate permite recorrer formularios de ejemplo; UIPSAT muestra información pública y enlaces de orientación; Denuncias valida el código simulado `DEMO` (o `SAT8` después de refrescar); Chat SAT contiene atención y encuesta locales. Todo permanece en memoria y se reinicia al recargar. No se envían trámites, credenciales ni mensajes a servicios de SAT.
+
+La [inspección y comparación de las cinco vistas](evidencias/laterales-inspeccion.md) incluye rutas, evidencias REA, capturas de escritorio y móvil y límites. Para regenerar las capturas a 1920 × 932 con Vite activo:
+
+```bash
+node scripts/visual-side-review.mjs
+```
+
+### Pruebas de la aplicación
+
+Para la revisión responsive de las cinco vistas laterales, sus formularios y los paneles de lupa y RITA:
+
+```bash
+npm run test:responsive
+```
+
+La matriz de Chromium incluye 320 × 740, 390 × 844, 768 × 1024, 1024 × 768, 1440 × 900 y celular horizontal de 844 × 390. Cada escenario abre el acceso desde la portada, revisa el ancho y ejercita sus controles. La tabla de Declaraguate se desplaza dentro de su contenedor cuando hace falta. El [informe responsive](evidencias/responsive/README.md) incluye capturas de las vistas y de los formularios y diálogos abiertos.
+
 ```bash
 npm test
 ```

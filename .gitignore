@@ -65,3 +65,5 @@ evidencias/estructura-desde-script-impresion.json
 evidencias/scripts-publicos/
 evidencias/original-viewport.png
 evidencias/playwright-results.json
+evidencias/laterales-dom-original.json
+evidencias/responsive-playwright.json

@@ -4,6 +4,7 @@ import fs from 'node:fs';
 const installedChromium = '/snap/chromium/current/usr/lib/chromium-browser/chrome';
 export default defineConfig({
   testDir: './tests',
+  testIgnore: '**/responsive.spec.js',
   fullyParallel: false,
   workers: 1,
   retries: 0,

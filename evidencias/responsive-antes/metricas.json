@@ -1,0 +1,864 @@
+[
+  {
+    "key": "agencia",
+    "width": 320,
+    "height": 740,
+    "viewport": 320,
+    "scrollWidth": 320,
+    "smallControls": [
+      {
+        "text": "Conoce más acerca de Agencia Virtual",
+        "height": 18
+      },
+      {
+        "text": "ⓘ",
+        "height": 29
+      },
+      {
+        "text": "ⓘ",
+        "height": 29
+      },
+      {
+        "text": "checkbox",
+        "height": 25
+      },
+      {
+        "text": "¿Olvidaste tu contraseña?",
+        "height": 20
+      },
+      {
+        "text": "¿No tienes Agencia Virtual?",
+        "height": 20
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "declaraguate",
+    "width": 320,
+    "height": 740,
+    "viewport": 320,
+    "scrollWidth": 320,
+    "smallControls": [
+      {
+        "text": "IVA GENERAL",
+        "height": 20
+      },
+      {
+        "text": "ISR TRIMESTRAL",
+        "height": 20
+      },
+      {
+        "text": "ISR ANUAL",
+        "height": 20
+      },
+      {
+        "text": "ISO",
+        "height": 20
+      },
+      {
+        "text": "AUTOCAPACITACIÓN",
+        "height": 20
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "uip",
+    "width": 320,
+    "height": 740,
+    "viewport": 320,
+    "scrollWidth": 320,
+    "smallControls": [
+      {
+        "text": "Simular solicitud de información",
+        "height": 38
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "denuncias",
+    "width": 320,
+    "height": 740,
+    "viewport": 320,
+    "scrollWidth": 320,
+    "smallControls": [
+      {
+        "text": "text",
+        "height": 29
+      },
+      {
+        "text": "✓ Verificar",
+        "height": 29
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "chat",
+    "width": 320,
+    "height": 740,
+    "viewport": 320,
+    "scrollWidth": 320,
+    "smallControls": [
+      {
+        "text": "link",
+        "height": 24
+      },
+      {
+        "text": "Iniciar chat de demostración",
+        "height": 38
+      },
+      {
+        "text": "encuesta de satisfacción",
+        "height": 24
+      },
+      {
+        "text": "Ir a la encuesta",
+        "height": 24
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "agencia",
+    "width": 390,
+    "height": 844,
+    "viewport": 390,
+    "scrollWidth": 390,
+    "smallControls": [
+      {
+        "text": "Conoce más acerca de Agencia Virtual",
+        "height": 18
+      },
+      {
+        "text": "ⓘ",
+        "height": 29
+      },
+      {
+        "text": "ⓘ",
+        "height": 29
+      },
+      {
+        "text": "checkbox",
+        "height": 25
+      },
+      {
+        "text": "¿Olvidaste tu contraseña?",
+        "height": 20
+      },
+      {
+        "text": "¿No tienes Agencia Virtual?",
+        "height": 20
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "declaraguate",
+    "width": 390,
+    "height": 844,
+    "viewport": 390,
+    "scrollWidth": 390,
+    "smallControls": [
+      {
+        "text": "IVA GENERAL",
+        "height": 20
+      },
+      {
+        "text": "ISR TRIMESTRAL",
+        "height": 20
+      },
+      {
+        "text": "ISR ANUAL",
+        "height": 20
+      },
+      {
+        "text": "ISO",
+        "height": 20
+      },
+      {
+        "text": "AUTOCAPACITACIÓN",
+        "height": 20
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "uip",
+    "width": 390,
+    "height": 844,
+    "viewport": 390,
+    "scrollWidth": 390,
+    "smallControls": [
+      {
+        "text": "ÍNDICE DE INFORMACIÓN PÚBLICA DE LA SAT",
+        "height": 21
+      },
+      {
+        "text": "INFORMACIÓN POR TRANSPARENCIA PROACTIVA",
+        "height": 21
+      },
+      {
+        "text": "Simular solicitud de información",
+        "height": 38
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "denuncias",
+    "width": 390,
+    "height": 844,
+    "viewport": 390,
+    "scrollWidth": 390,
+    "smallControls": [
+      {
+        "text": "Procedimiento de denuncias tributarias.",
+        "height": 24
+      },
+      {
+        "text": "text",
+        "height": 29
+      },
+      {
+        "text": "✓ Verificar",
+        "height": 29
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "chat",
+    "width": 390,
+    "height": 844,
+    "viewport": 390,
+    "scrollWidth": 390,
+    "smallControls": [
+      {
+        "text": "link",
+        "height": 24
+      },
+      {
+        "text": "Iniciar chat de demostración",
+        "height": 38
+      },
+      {
+        "text": "encuesta de satisfacción",
+        "height": 24
+      },
+      {
+        "text": "Ir a la encuesta",
+        "height": 24
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "agencia",
+    "width": 768,
+    "height": 1024,
+    "viewport": 924,
+    "scrollWidth": 924,
+    "smallControls": [
+      {
+        "text": "Conoce más acerca de Agencia Virtual",
+        "height": 20
+      },
+      {
+        "text": "ⓘ",
+        "height": 29
+      },
+      {
+        "text": "ⓘ",
+        "height": 29
+      },
+      {
+        "text": "checkbox",
+        "height": 30
+      },
+      {
+        "text": "¿Olvidaste tu contraseña?",
+        "height": 23
+      },
+      {
+        "text": "¿No tienes Agencia Virtual?",
+        "height": 23
+      },
+      {
+        "text": "¿Olvidaste tu correo electrónico de Agencia Virtua",
+        "height": 23
+      }
+    ],
+    "overflow": [
+      {
+        "tag": "DIV",
+        "class": "av-layout"
+      },
+      {
+        "tag": "DIV",
+        "class": "av-panel"
+      },
+      {
+        "tag": "H1",
+        "class": ""
+      },
+      {
+        "tag": "FORM",
+        "class": "av-login"
+      },
+      {
+        "tag": "DIV",
+        "class": "av-field"
+      },
+      {
+        "tag": "INPUT",
+        "class": ""
+      },
+      {
+        "tag": "BUTTON",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "class": "av-field"
+      }
+    ]
+  },
+  {
+    "key": "declaraguate",
+    "width": 768,
+    "height": 1024,
+    "viewport": 768,
+    "scrollWidth": 768,
+    "smallControls": [
+      {
+        "text": "IVA GENERAL",
+        "height": 23
+      },
+      {
+        "text": "ISR TRIMESTRAL",
+        "height": 23
+      },
+      {
+        "text": "ISR ANUAL",
+        "height": 23
+      },
+      {
+        "text": "ISO",
+        "height": 23
+      },
+      {
+        "text": "AUTOCAPACITACIÓN",
+        "height": 23
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "uip",
+    "width": 768,
+    "height": 1024,
+    "viewport": 768,
+    "scrollWidth": 768,
+    "smallControls": [
+      {
+        "text": "ÍNDICE DE INFORMACIÓN PÚBLICA DE LA SAT",
+        "height": 20
+      },
+      {
+        "text": "INFORMACIÓN POR TRANSPARENCIA PROACTIVA",
+        "height": 20
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "denuncias",
+    "width": 768,
+    "height": 1024,
+    "viewport": 768,
+    "scrollWidth": 768,
+    "smallControls": [
+      {
+        "text": "Procedimiento de denuncias tributarias.",
+        "height": 20
+      },
+      {
+        "text": "text",
+        "height": 29
+      },
+      {
+        "text": "✓ Verificar",
+        "height": 29
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "chat",
+    "width": 768,
+    "height": 1024,
+    "viewport": 768,
+    "scrollWidth": 768,
+    "smallControls": [
+      {
+        "text": "link",
+        "height": 20
+      },
+      {
+        "text": "encuesta de satisfacción",
+        "height": 20
+      },
+      {
+        "text": "Ir a la encuesta",
+        "height": 20
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "agencia",
+    "width": 1024,
+    "height": 768,
+    "viewport": 1024,
+    "scrollWidth": 1024,
+    "smallControls": [
+      {
+        "text": "Conoce más acerca de Agencia Virtual",
+        "height": 20
+      },
+      {
+        "text": "ⓘ",
+        "height": 29
+      },
+      {
+        "text": "ⓘ",
+        "height": 29
+      },
+      {
+        "text": "checkbox",
+        "height": 30
+      },
+      {
+        "text": "¿Olvidaste tu contraseña?",
+        "height": 23
+      },
+      {
+        "text": "¿No tienes Agencia Virtual?",
+        "height": 23
+      },
+      {
+        "text": "¿Olvidaste tu correo electrónico de Agencia Virtua",
+        "height": 23
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "declaraguate",
+    "width": 1024,
+    "height": 768,
+    "viewport": 1024,
+    "scrollWidth": 1024,
+    "smallControls": [
+      {
+        "text": "IVA GENERAL",
+        "height": 23
+      },
+      {
+        "text": "ISR OPCIONAL MENSUAL",
+        "height": 23
+      },
+      {
+        "text": "ISR TRIMESTRAL",
+        "height": 23
+      },
+      {
+        "text": "ISR ANUAL",
+        "height": 23
+      },
+      {
+        "text": "ISO",
+        "height": 23
+      },
+      {
+        "text": "VEHÍCULOS CIRCULACIÓN",
+        "height": 23
+      },
+      {
+        "text": "AUTOCAPACITACIÓN",
+        "height": 23
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "uip",
+    "width": 1024,
+    "height": 768,
+    "viewport": 1024,
+    "scrollWidth": 1024,
+    "smallControls": [
+      {
+        "text": "ÍNDICE DE INFORMACIÓN PÚBLICA DE LA SAT",
+        "height": 20
+      },
+      {
+        "text": "INFORMACIÓN POR TRANSPARENCIA PROACTIVA",
+        "height": 20
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "denuncias",
+    "width": 1024,
+    "height": 768,
+    "viewport": 1024,
+    "scrollWidth": 1024,
+    "smallControls": [
+      {
+        "text": "Procedimiento de denuncias tributarias.",
+        "height": 20
+      },
+      {
+        "text": "text",
+        "height": 29
+      },
+      {
+        "text": "✓ Verificar",
+        "height": 29
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "chat",
+    "width": 1024,
+    "height": 768,
+    "viewport": 1024,
+    "scrollWidth": 1024,
+    "smallControls": [
+      {
+        "text": "link",
+        "height": 20
+      },
+      {
+        "text": "encuesta de satisfacción",
+        "height": 20
+      },
+      {
+        "text": "Ir a la encuesta",
+        "height": 20
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "agencia",
+    "width": 1440,
+    "height": 900,
+    "viewport": 1440,
+    "scrollWidth": 1440,
+    "smallControls": [
+      {
+        "text": "Conoce más acerca de Agencia Virtual",
+        "height": 23
+      },
+      {
+        "text": "ⓘ",
+        "height": 29
+      },
+      {
+        "text": "ⓘ",
+        "height": 29
+      },
+      {
+        "text": "checkbox",
+        "height": 30
+      },
+      {
+        "text": "¿Olvidaste tu contraseña?",
+        "height": 23
+      },
+      {
+        "text": "¿No tienes Agencia Virtual?",
+        "height": 23
+      },
+      {
+        "text": "¿Olvidaste tu correo electrónico de Agencia Virtua",
+        "height": 23
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "declaraguate",
+    "width": 1440,
+    "height": 900,
+    "viewport": 1440,
+    "scrollWidth": 1440,
+    "smallControls": [
+      {
+        "text": "IVA GENERAL",
+        "height": 23
+      },
+      {
+        "text": "IVA PEQUEÑO CONTRIBUYENTE",
+        "height": 23
+      },
+      {
+        "text": "ISR OPCIONAL MENSUAL",
+        "height": 23
+      },
+      {
+        "text": "ISR TRIMESTRAL",
+        "height": 23
+      },
+      {
+        "text": "ISR ANUAL",
+        "height": 23
+      },
+      {
+        "text": "ISO",
+        "height": 23
+      },
+      {
+        "text": "VEHÍCULOS CIRCULACIÓN",
+        "height": 23
+      },
+      {
+        "text": "AUTOCAPACITACIÓN",
+        "height": 23
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "uip",
+    "width": 1440,
+    "height": 900,
+    "viewport": 1440,
+    "scrollWidth": 1440,
+    "smallControls": [
+      {
+        "text": "ÍNDICE DE INFORMACIÓN PÚBLICA DE LA SAT",
+        "height": 20
+      },
+      {
+        "text": "INFORMACIÓN POR TRANSPARENCIA PROACTIVA",
+        "height": 20
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "denuncias",
+    "width": 1440,
+    "height": 900,
+    "viewport": 1440,
+    "scrollWidth": 1440,
+    "smallControls": [
+      {
+        "text": "Procedimiento de denuncias tributarias.",
+        "height": 20
+      },
+      {
+        "text": "text",
+        "height": 29
+      },
+      {
+        "text": "✓ Verificar",
+        "height": 29
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "chat",
+    "width": 1440,
+    "height": 900,
+    "viewport": 1440,
+    "scrollWidth": 1440,
+    "smallControls": [
+      {
+        "text": "link",
+        "height": 20
+      },
+      {
+        "text": "encuesta de satisfacción",
+        "height": 20
+      },
+      {
+        "text": "Ir a la encuesta",
+        "height": 20
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "agencia",
+    "width": 844,
+    "height": 390,
+    "viewport": 924,
+    "scrollWidth": 924,
+    "smallControls": [
+      {
+        "text": "Conoce más acerca de Agencia Virtual",
+        "height": 20
+      },
+      {
+        "text": "ⓘ",
+        "height": 29
+      },
+      {
+        "text": "ⓘ",
+        "height": 29
+      },
+      {
+        "text": "checkbox",
+        "height": 30
+      },
+      {
+        "text": "¿Olvidaste tu contraseña?",
+        "height": 23
+      },
+      {
+        "text": "¿No tienes Agencia Virtual?",
+        "height": 23
+      },
+      {
+        "text": "¿Olvidaste tu correo electrónico de Agencia Virtua",
+        "height": 23
+      }
+    ],
+    "overflow": [
+      {
+        "tag": "DIV",
+        "class": "av-layout"
+      },
+      {
+        "tag": "DIV",
+        "class": "av-panel"
+      },
+      {
+        "tag": "H1",
+        "class": ""
+      },
+      {
+        "tag": "FORM",
+        "class": "av-login"
+      },
+      {
+        "tag": "DIV",
+        "class": "av-field"
+      },
+      {
+        "tag": "INPUT",
+        "class": ""
+      },
+      {
+        "tag": "BUTTON",
+        "class": ""
+      },
+      {
+        "tag": "DIV",
+        "class": "av-field"
+      }
+    ]
+  },
+  {
+    "key": "declaraguate",
+    "width": 844,
+    "height": 390,
+    "viewport": 844,
+    "scrollWidth": 844,
+    "smallControls": [
+      {
+        "text": "IVA GENERAL",
+        "height": 23
+      },
+      {
+        "text": "ISR TRIMESTRAL",
+        "height": 23
+      },
+      {
+        "text": "ISR ANUAL",
+        "height": 23
+      },
+      {
+        "text": "ISO",
+        "height": 23
+      },
+      {
+        "text": "AUTOCAPACITACIÓN",
+        "height": 23
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "uip",
+    "width": 844,
+    "height": 390,
+    "viewport": 844,
+    "scrollWidth": 844,
+    "smallControls": [
+      {
+        "text": "ÍNDICE DE INFORMACIÓN PÚBLICA DE LA SAT",
+        "height": 20
+      },
+      {
+        "text": "INFORMACIÓN POR TRANSPARENCIA PROACTIVA",
+        "height": 20
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "denuncias",
+    "width": 844,
+    "height": 390,
+    "viewport": 844,
+    "scrollWidth": 844,
+    "smallControls": [
+      {
+        "text": "Procedimiento de denuncias tributarias.",
+        "height": 20
+      },
+      {
+        "text": "text",
+        "height": 29
+      },
+      {
+        "text": "✓ Verificar",
+        "height": 29
+      }
+    ],
+    "overflow": []
+  },
+  {
+    "key": "chat",
+    "width": 844,
+    "height": 390,
+    "viewport": 844,
+    "scrollWidth": 844,
+    "smallControls": [
+      {
+        "text": "link",
+        "height": 20
+      },
+      {
+        "text": "encuesta de satisfacción",
+        "height": 20
+      },
+      {
+        "text": "Ir a la encuesta",
+        "height": 20
+      }
+    ],
+    "overflow": []
+  }
+]

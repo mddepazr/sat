@@ -1,0 +1,42 @@
+[
+  {
+    "key": "agencia",
+    "route": "/demostracion/agencia-virtual",
+    "width": 1920,
+    "scrollWidth": 1920,
+    "title": "Accede a tu Agencia Virtual",
+    "brokenImages": []
+  },
+  {
+    "key": "declaraguate",
+    "route": "/demostracion/declaraguate",
+    "width": 1920,
+    "scrollWidth": 1920,
+    "title": "Declaración de Ética",
+    "brokenImages": []
+  },
+  {
+    "key": "uip",
+    "route": "/contenido/portal/libre-acceso-la-informacion-publica/",
+    "width": 1920,
+    "scrollWidth": 1920,
+    "title": "Acceso a la Información Pública",
+    "brokenImages": []
+  },
+  {
+    "key": "denuncias",
+    "route": "/contenido/portal/contacto/denuncias-no-facturacion/",
+    "width": 1920,
+    "scrollWidth": 1920,
+    "title": "Denuncias Tributarias",
+    "brokenImages": []
+  },
+  {
+    "key": "chat",
+    "route": "/contenido/portal/soporte-chat/",
+    "width": 1920,
+    "scrollWidth": 1920,
+    "title": "Chat SAT",
+    "brokenImages": []
+  }
+]

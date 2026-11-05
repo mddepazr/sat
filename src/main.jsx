@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from 'react';
 import { createRoot } from 'react-dom/client';
 import portal from './data/portal.json';
 import './styles.css';
+import SideView, { SIDE_ROUTES, SIDE_TITLES, sideViewFor } from './SideViews.jsx';
 
 const OFFICIAL = 'https://portal.sat.gob.gt';
 const asset = (name) => Object.entries(portal.assets).find(([url]) => decodeURIComponent(url).split('/').at(-1).split('?')[0] === name)?.[1];
@@ -39,30 +40,33 @@ function localPath(url) {
   if (!url) return '/';
   const parsed=new URL(url,OFFICIAL);
   if(parsed.origin===OFFICIAL) return '/contenido'+parsed.pathname;
+  if(parsed.hostname==='declaraguate.sat.gob.gt') return SIDE_ROUTES.declaraguate;
   if(/(^|\.)sat\.gob\.gt$/.test(parsed.hostname)) return '/demostracion/'+(parsed.hostname.startsWith('reclutamiento')?'empleo':'agencia-virtual');
   return null;
 }
-function Link({href, children, onClick, ...props}) {
+function Link({href, children, onClick, target, ...props}) {
   const local=href?.startsWith('/')&&!href.startsWith('//')?href:localPath(href);
-  return <a {...props} href={local||href} target={local?undefined:'_blank'} rel={local?undefined:'noopener noreferrer'} onClick={e=>{
-    onClick?.(e);if(local&&!e.defaultPrevented&&!e.ctrlKey&&!e.metaKey&&!e.shiftKey&&e.button===0){e.preventDefault();navigate(local);}
+  const effectiveTarget=target||(local?undefined:'_blank');
+  return <a {...props} href={local||href} target={effectiveTarget} rel={effectiveTarget==='_blank'?'noopener noreferrer':undefined} onClick={e=>{
+    onClick?.(e);if(local&&(!effectiveTarget||effectiveTarget==='_self')&&!e.defaultPrevented&&!e.ctrlKey&&!e.metaKey&&!e.shiftKey&&!e.altKey&&e.button===0){e.preventDefault();navigate(local);}
   }}>{children}</a>;
 }
 function Icon({name,size=24}) {
-  const paths={home:'M3 11 12 3l9 8M5 10v11h5v-7h4v7h5V10',search:'m21 21-5-5M18 10a8 8 0 1 1-16 0 8 8 0 0 1 16 0',close:'m5 5 14 14M19 5 5 19',menu:'M3 6h18M3 12h18M3 18h18',left:'m15 5-7 7 7 7',right:'m9 5 7 7-7 7',up:'m5 15 7-7 7 7',chat:'M21 11a9 8 0 1 1-4-7M7 10h1m3 0h1m3 0h1M16 18l5 3-1-6',phone:'M8 2H4v5c0 7 6 13 13 13h5v-4l-6-3-2 3-6-6 3-2-3-6Z',mail:'M3 5h18v14H3zM3 5l9 8 9-8',external:'M14 3h7v7m0-7L10 14M10 3H3v18h18v-7',pause:'M8 5v14M16 5v14',play:'m7 4 13 8-13 8Z',check:'m4 12 5 5L20 6'};
+  const paths={user:'M20 21v-2a6 6 0 0 0-6-6h-4a6 6 0 0 0-6 6v2M16 6a4 4 0 1 1-8 0 4 4 0 0 1 8 0',lock:'M6 10h12v11H6zM8 10V6a4 4 0 0 1 8 0v4',refresh:'M20 4v6h-6M4 20v-6h6M5 9a8 8 0 0 1 13-5l2 2M4 18l2 2a8 8 0 0 0 13-5',home:'M3 11 12 3l9 8M5 10v11h5v-7h4v7h5V10',search:'m21 21-5-5M18 10a8 8 0 1 1-16 0 8 8 0 0 1 16 0',close:'m5 5 14 14M19 5 5 19',menu:'M3 6h18M3 12h18M3 18h18',left:'m15 5-7 7 7 7',right:'m9 5 7 7-7 7',up:'m5 15 7-7 7 7',chat:'M21 11a9 8 0 1 1-4-7M7 10h1m3 0h1m3 0h1M16 18l5 3-1-6',phone:'M8 2H4v5c0 7 6 13 13 13h5v-4l-6-3-2 3-6-6 3-2-3-6Z',mail:'M3 5h18v14H3zM3 5l9 8 9-8',external:'M14 3h7v7m0-7L10 14M10 3H3v18h18v-7',pause:'M8 5v14M16 5v14',play:'m7 4 13 8-13 8Z',check:'m4 12 5 5L20 6'};
   return <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d={paths[name]||paths.right}/></svg>;
 }
 function Title({children}) {return <h2 className="section-title">{children}</h2>;}
 function Modal({open,onClose,label,children,className=''}) {
   const ref=useRef();
   useEffect(()=>{const d=ref.current;if(open&&!d.open)d.showModal();if(!open&&d.open)d.close();},[open]);
+  useEffect(()=>{if(!open)return;const previous=document.body.style.overflow;document.body.style.overflow='hidden';return()=>{document.body.style.overflow=previous;};},[open]);
   return <dialog ref={ref} aria-label={label} className={`modal ${className}`} onKeyDownCapture={e=>{if(e.key==='Escape'){e.preventDefault();e.stopPropagation();onClose();}}} onClose={onClose} onClick={e=>{if(e.target===e.currentTarget)onClose();}}>
     <button className="modal-close icon-button" aria-label="Cerrar" onClick={onClose}><Icon name="close"/></button>{children}
   </dialog>;
 }
-function Header({onSearch}) {
+function Header({onSearch,publicSide=false}) {
   const [menu,setMenu]=useState(false);
-  return <header className="header">
+  return <header className={`header${publicSide?' side-portal-header':''}`}>
     <Link className="brand" href="/#Institucional" aria-label="SAT · Institucional"><img src={asset('logo_sat_blanco-1.png')} width="176" height="70" alt="Superintendencia de Administración Tributaria"/></Link>
     <button className="menu-toggle icon-button" aria-label={menu?'Cerrar menú':'Abrir menú'} aria-expanded={menu} aria-controls="main-menu" onClick={()=>setMenu(!menu)}><Icon name={menu?'close':'menu'}/></button>
     <nav id="main-menu" aria-label="Navegación principal" className={menu?'navigation expanded':'navigation'}>
@@ -155,20 +159,22 @@ function Search({open,onClose}){
  const results=query.trim()?unique.filter(x=>normalize(x.title+' '+x.description).includes(normalize(query.trim()))):[];
  return <Modal open={open} onClose={onClose} label="Buscar en el portal" className="search-modal"><h2>Buscador del portal</h2><p>Buscá en los contenidos de esta réplica local.</p><label htmlFor="portal-search">¿Qué estás buscando?</label><div className="search-field"><Icon name="search"/><input id="portal-search" ref={input} type="search" value={query} onChange={e=>setQuery(e.target.value)} placeholder="Ej. RTU, vehículos, inscripción…"/></div><div className="search-results" aria-live="polite">{query.trim()?<><p>{results.length} resultado{results.length!==1?'s':''}</p>{results.length?results.map(item=><Link href={item.url} key={item.url} onClick={onClose}><strong>{item.title}</strong><span>{item.description}</span><Icon name="right" size={16}/></Link>):<p>No hay coincidencias. Probá con «NIT», «RTU» o «Aduanas».</p>}</>:<p>Escribí una palabra para comenzar.</p>}</div></Modal>;
 }
-function Chat({open,onClose}){
+function ChatConversation({rita=false}){
  const [message,setMessage]=useState('');const [messages,setMessages]=useState([{role:'assistant',text:'¡Hola! Este es un chat de demostración local. Puedo orientarte sobre NIT, RTU, vehículos y las secciones de la réplica. No ingresés información personal.'}]);
- const end=useRef();useEffect(()=>{end.current?.scrollIntoView({block:'nearest'});},[messages]);
+ const log=useRef();useEffect(()=>{if(log.current)log.current.scrollTop=log.current.scrollHeight;},[messages]);
  const send=(text)=>{if(!text.trim())return;const q=text.toLowerCase();const answer=q.includes('rtu')?'Podés explorar «Impresión de RTU» en Servicios Tributarios o buscar RTU en el buscador. La consulta muestra datos ficticios.':q.includes('nit')?'En «Quiero ser contribuyente» encontrás Solicitar NIT y Agendar mi Cita. Ambos son recorridos de demostración.':q.includes('veh')?'Elegí «Vehículos» en los filtros de Servicios Tributarios para ver sus tarjetas.':'Recorré Servicios Tributarios, Aduanas, Capacitación y Contáctanos. También podés usar la lupa del lateral para buscar. Esta respuesta se genera localmente con reglas simples.';setMessages(v=>[...v,{role:'user',text:text.trim()},{role:'assistant',text:answer}]);setMessage('');};
- return <Modal open={open} onClose={onClose} label="Chat de demostración" className="chat-modal"><div className="chat-header"><Icon name="chat"/><div><h2>Chat de demostración</h2><small>Local · No es atención oficial</small></div></div><div className="messages" role="log" aria-live="polite">{messages.map((m,i)=><p key={i} className={`bubble ${m.role}`}>{m.text}</p>)}<div ref={end}/></div><div className="chat-prompts">{['Consultar NIT','Impresión de RTU','Vehículos'].map(x=><button key={x} onClick={()=>send(x)}>{x}</button>)}</div><form onSubmit={e=>{e.preventDefault();send(message);}}><label htmlFor="chat-message" className="sr-only">Mensaje de demostración</label><input id="chat-message" value={message} onChange={e=>setMessage(e.target.value)} maxLength={300} placeholder="Escribí una consulta general…"/><button className="primary-button" disabled={!message.trim()}>Enviar</button></form></Modal>;
+ return <div className="chat-conversation"><div className="messages" ref={log} role="log" aria-live="polite">{messages.map((m,i)=><p key={i} className={`bubble ${m.role}`}>{m.text}</p>)}</div><div className="chat-prompts">{(rita?['Servicios en línea','Información sobre RTU Digital','Agencia Virtual','Vehículos','Denuncias','Consultar NIT']:['Consultar NIT','Impresión de RTU','Vehículos']).map(x=><button key={x} onClick={()=>send(x)}>{x}</button>)}</div><form onSubmit={e=>{e.preventDefault();send(message);}}><label className="chat-message-field"><span className="sr-only">Mensaje de demostración</span><input value={message} onChange={e=>setMessage(e.target.value)} maxLength={300} placeholder="Escribí una consulta general…"/></label><button className="primary-button" disabled={!message.trim()}>Enviar</button></form></div>;
 }
+function Chat({open,onClose}){return <Modal open={open} onClose={onClose} label="Chat de demostración" className="chat-modal"><div className="chat-header"><Icon name="chat"/><div><h2>RITA · Demostración local</h2><small>Local · No es atención oficial</small></div></div><ChatConversation rita/></Modal>;}
 function Sidebar({onSearch,onChat}){
- const items=[['Agencia Virtual','icon-av-64.png','/demostracion/agencia-virtual'],['Declaraguate','icon-dg-64.png','/demostracion/declaraguate'],['UIPSAT','icon-uip-64.png',`${OFFICIAL}/portal/libre-acceso-la-informacion-publica/`],['Denuncias Tributarias','icon-denun-64.png',`${OFFICIAL}/portal/contacto/denuncias-no-facturacion/`]];
- return <><aside className="side-access" aria-label="Accesos rápidos"><div>{items.map(([title,img,url])=><Link href={url} key={title} aria-label={title} title={title}><img src={asset(img)} alt=""/><span className="side-tooltip">{title}</span></Link>)}<button onClick={onSearch} aria-label="Abrir buscador" title="Buscador"><img src={asset('icon-find-64.png')} alt=""/></button><button onClick={onChat} aria-label="Abrir chat de demostración" title="Chat de demostración"><img src={asset('ChatSAT-flotante.png')} alt=""/></button></div><button className="rita-launcher" onClick={onChat} aria-label="RITA · Chat de demostración"><img src={asset('satgt-rita-icon-v2-43x43.png')} alt=""/><small>DEMO LOCAL</small></button></aside><button className="back-top" aria-label="Volver arriba" onClick={()=>window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'})}><Icon name="up"/></button></>;
+ const items=[['Agencia Virtual','icon-av-64.png',SIDE_ROUTES.agencia,'_blank'],['Declaraguate','icon-dg-64.png',SIDE_ROUTES.declaraguate,'_blank'],['UIPSAT','icon-uip-64.png',SIDE_ROUTES.uip,'_blank'],['Denuncias Tributarias','icon-denun-64.png',SIDE_ROUTES.denuncias,'_self']];
+ return <><aside className="side-access" aria-label="Accesos rápidos"><div>{items.map(([title,img,url,target])=><Link href={url} target={target} key={title} aria-label={title} title={title}><img src={asset(img)} alt=""/><span className="side-tooltip">{title}</span></Link>)}<button onClick={onSearch} aria-label="Abrir buscador" title="Buscador"><img src={asset('icon-find-64.png')} alt=""/></button><Link href={SIDE_ROUTES.chat} aria-label="Chat SAT" title="Chat SAT"><img src={asset('ChatSAT-flotante.png')} alt=""/><span className="side-tooltip">Chat SAT</span></Link></div><button className="rita-launcher" onClick={onChat} aria-label="RITA · Chat de demostración"><img src="/assets/laterales/rita-icon.png" alt=""/><small>DEMO LOCAL</small></button></aside><button className="back-top" aria-label="Volver arriba" onClick={()=>window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'})}><Icon name="up"/></button></>;
 }
 function App(){
  const [pathname,setPathname]=useState(location.pathname);const [search,setSearch]=useState(false);const [chat,setChat]=useState(false);
  useEffect(()=>{const update=()=>setPathname(location.pathname);addEventListener('popstate',update);return()=>removeEventListener('popstate',update);},[]);
- useEffect(()=>{document.title=pathname==='/'?'Portal SAT · Réplica local':`${records.get(pathname.replace('/contenido',''))?.title||'Demostración'} · Réplica local SAT`;},[pathname]);
- return <><a href="#content" className="skip-link">Ir al contenido</a><Header onSearch={()=>setSearch(true)}/><main id="content">{pathname==='/'?<Home/>:<Content pathname={pathname}/>}</main><Footer/><Sidebar onSearch={()=>setSearch(true)} onChat={()=>setChat(true)}/><span className="local-badge">RÉPLICA LOCAL · NO OFICIAL</span><Search open={search} onClose={()=>setSearch(false)}/><Chat open={chat} onClose={()=>setChat(false)}/></>;
+ const view=sideViewFor(pathname);const standalone=view==='agencia'||view==='declaraguate';
+ useEffect(()=>{document.title=pathname==='/'?'Portal SAT · Réplica local':`${SIDE_TITLES[view]||records.get(pathname.replace('/contenido',''))?.title||'Demostración'} · Réplica local SAT`;setSearch(false);setChat(false);},[pathname,view]);
+ return <div className={standalone?'app-standalone':'app-portal'}><a href="#content" className="skip-link">Ir al contenido</a>{!standalone&&<Header publicSide={Boolean(view)} onSearch={()=>setSearch(true)}/>}<main id="content">{view?<SideView key={view} view={view} Link={Link} asset={asset} Icon={Icon} ChatConversation={ChatConversation}/>:pathname==='/'?<Home/>:<Content pathname={pathname}/>}</main>{!standalone&&<><Footer/><Sidebar onSearch={()=>setSearch(true)} onChat={()=>setChat(true)}/></>}<span className="local-badge">RÉPLICA LOCAL · NO OFICIAL</span><Search open={search} onClose={()=>setSearch(false)}/><Chat open={chat} onClose={()=>setChat(false)}/></div>;
 }
 createRoot(document.getElementById('root')).render(<App/>);

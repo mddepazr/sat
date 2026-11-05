@@ -1,0 +1,56 @@
+[
+  {
+    "name": "agencia-logo.png",
+    "url": "https://farm3.sat.gob.gt/menu/javax.faces.resource/images/logAV.png.jsf",
+    "bytes": 98151,
+    "sha256": "4032890e8840e7fba74b8476cf52bad1799b9f6a2a07fd91b7f5defe4dce5895"
+  },
+  {
+    "name": "agencia-background.png",
+    "url": "https://farm3.sat.gob.gt/menu/resources/images/loginSAT.png?v=1.2",
+    "bytes": 240239,
+    "sha256": "70f852f60b725302fd86fd900b2304ea9c405b3c53c3cf4d56b162adb4029eca"
+  },
+  {
+    "name": "declaraguate-aviso.png",
+    "url": "https://declaraguate.sat.gob.gt/declaraguate-web/images/Banner_Aviso_Importante__V4__Normales.png",
+    "bytes": 93539,
+    "sha256": "5997e8a52c3d0b787df9563cfff9cbdcc46eee714bf9b2d38a955cc44ad0818c"
+  },
+  {
+    "name": "declaraguate-logo.png",
+    "url": "https://declaraguate.sat.gob.gt/declaraguate-web/images/Logo1.png",
+    "bytes": 622,
+    "sha256": "9f0df229d3452653d2d08c76653acdabe2eb88f9bbcd969a4345a907a5e1c93d"
+  },
+  {
+    "name": "uip-acceso.png",
+    "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2018/09/Acceso-a-la-Informacion-Publica-de-Oficio.png",
+    "bytes": 2087,
+    "sha256": "1bcc9673dfedcf6192f1d0a3dca8bf628e6fe0c4a7d1370824970efb24a53072"
+  },
+  {
+    "name": "uip-solicitud.png",
+    "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2018/09/Solicitud-de-Informacion.png",
+    "bytes": 1637,
+    "sha256": "8460c687ae1a008c639af6ed39df764af74ba3fdf1b0565944bc91242d3f57eb"
+  },
+  {
+    "name": "chat-rita.png",
+    "url": "https://portal.sat.gob.gt/portal/wp-content/uploads/2020/06/banner-servicio-RITA.png",
+    "bytes": 21823,
+    "sha256": "fed65f86b8faa77b73e0888b19f5bda321d25a991642074c76fdb4a04058bcd7"
+  },
+  {
+    "name": "rita-icon.png",
+    "url": "https://s3bucket-satgt-pro-chatbot-ac-portal-sat.s3.amazonaws.com/v3.0.4/assets/icono_rita.png",
+    "bytes": 13545,
+    "sha256": "bbf5073ce639c450ae5410d719b09b1f21eefe11197cb1364a97c5eb07405625"
+  },
+  {
+    "name": "declaraguate-whatsapp.png",
+    "url": "https://declaraguate.sat.gob.gt/declaraguate-web/images/WhatsappIcon.png",
+    "bytes": 760,
+    "sha256": "ef6ac980be6bd9286a8f7be57ab9e3c3ef02cd113af2976c86ff3f80e2f56a4b"
+  }
+]
